@@ -331,17 +331,18 @@ class _PrePaywallWidgetState extends State<PrePaywallWidget> {
                 padding: const EdgeInsetsDirectional.fromSTEB(0.0, 100.0, 0.0, 0.0),
                 child: FFButtonWidget(
                   onPressed: () async {
-                    final isEntitled =
-                        await revenue_cat.isEntitled('pro1') ?? false;
-                    if (!isEntitled) {
-                      await revenue_cat.loadOfferings();
-                    }
+                    // PREMIUM CHECK COMMENTED OUT - Always allow access
+                    // final isEntitled =
+                    //     await revenue_cat.isEntitled('pro1') ?? false;
+                    // if (!isEntitled) {
+                    //   await revenue_cat.loadOfferings();
+                    // }
 
-                    if (isEntitled) {
+                    // if (isEntitled) {
                       context.pushNamed('HomePage');
-                    } else {
-                      context.pushNamed('paywall');
-                    }
+                    // } else {
+                    //   context.pushNamed('paywall');
+                    // }
                   },
                   text: 'Let\'s GO!',
                   options: FFButtonOptions(

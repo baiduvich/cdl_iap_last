@@ -71,17 +71,18 @@ class _FlashcardsWidgetState extends State<FlashcardsWidget> {
                       hoverColor: Colors.transparent,
                       highlightColor: Colors.transparent,
                       onTap: () async {
-                        final isEntitled =
-                            await revenue_cat.isEntitled('pro1') ?? false;
-                        if (!isEntitled) {
-                          await revenue_cat.loadOfferings();
-                        }
+                        // PREMIUM CHECK COMMENTED OUT - Always allow access
+                        // final isEntitled =
+                        //     await revenue_cat.isEntitled('pro1') ?? false;
+                        // if (!isEntitled) {
+                        //   await revenue_cat.loadOfferings();
+                        // }
 
-                        if (isEntitled) {
+                        // if (isEntitled) {
                           context.pushNamed('AirBrakes');
-                        } else {
-                          context.pushNamed('paywall');
-                        }
+                        // } else {
+                        //   context.pushNamed('paywall');
+                        // }
                       },
                       child: Container(
                         width: MediaQuery.sizeOf(context).width * 0.9,
@@ -143,17 +144,18 @@ class _FlashcardsWidgetState extends State<FlashcardsWidget> {
                       hoverColor: Colors.transparent,
                       highlightColor: Colors.transparent,
                       onTap: () async {
-                        final isEntitled =
-                            await revenue_cat.isEntitled('pro1') ?? false;
-                        if (!isEntitled) {
-                          await revenue_cat.loadOfferings();
-                        }
+                        // PREMIUM CHECK COMMENTED OUT - Always allow access
+                        // final isEntitled =
+                        //     await revenue_cat.isEntitled('pro1') ?? false;
+                        // if (!isEntitled) {
+                        //   await revenue_cat.loadOfferings();
+                        // }
 
-                        if (isEntitled) {
+                        // if (isEntitled) {
                           context.pushNamed('CombinationVehiclesFC');
-                        } else {
-                          context.pushNamed('paywall');
-                        }
+                        // } else {
+                        //   context.pushNamed('paywall');
+                        // }
                       },
                       child: Container(
                         width: MediaQuery.sizeOf(context).width * 0.9,
@@ -215,17 +217,18 @@ class _FlashcardsWidgetState extends State<FlashcardsWidget> {
                       hoverColor: Colors.transparent,
                       highlightColor: Colors.transparent,
                       onTap: () async {
-                        final isEntitled =
-                            await revenue_cat.isEntitled('pro1') ?? false;
-                        if (!isEntitled) {
-                          await revenue_cat.loadOfferings();
-                        }
+                        // PREMIUM CHECK COMMENTED OUT - Always allow access
+                        // final isEntitled =
+                        //     await revenue_cat.isEntitled('pro1') ?? false;
+                        // if (!isEntitled) {
+                        //   await revenue_cat.loadOfferings();
+                        // }
 
-                        if (isEntitled) {
+                        // if (isEntitled) {
                           context.pushNamed('DoubleTriplesFC');
-                        } else {
-                          context.pushNamed('paywall');
-                        }
+                        // } else {
+                        //   context.pushNamed('paywall');
+                        // }
                       },
                       child: Container(
                         width: MediaQuery.sizeOf(context).width * 0.9,
@@ -287,17 +290,18 @@ class _FlashcardsWidgetState extends State<FlashcardsWidget> {
                       hoverColor: Colors.transparent,
                       highlightColor: Colors.transparent,
                       onTap: () async {
-                        final isEntitled =
-                            await revenue_cat.isEntitled('pro1') ?? false;
-                        if (!isEntitled) {
-                          await revenue_cat.loadOfferings();
-                        }
+                        // PREMIUM CHECK COMMENTED OUT - Always allow access
+                        // final isEntitled =
+                        //     await revenue_cat.isEntitled('pro1') ?? false;
+                        // if (!isEntitled) {
+                        //   await revenue_cat.loadOfferings();
+                        // }
 
-                        if (isEntitled) {
+                        // if (isEntitled) {
                           context.pushNamed('DrivingTestFC');
-                        } else {
-                          context.pushNamed('paywall');
-                        }
+                        // } else {
+                        //   context.pushNamed('paywall');
+                        // }
                       },
                       child: Container(
                         width: MediaQuery.sizeOf(context).width * 0.9,
@@ -359,17 +363,18 @@ class _FlashcardsWidgetState extends State<FlashcardsWidget> {
                       hoverColor: Colors.transparent,
                       highlightColor: Colors.transparent,
                       onTap: () async {
-                        final isEntitled =
-                            await revenue_cat.isEntitled('pro1') ?? false;
-                        if (!isEntitled) {
-                          await revenue_cat.loadOfferings();
-                        }
+                        // PREMIUM CHECK COMMENTED OUT - Always allow access
+                        // final isEntitled =
+                        //     await revenue_cat.isEntitled('pro1') ?? false;
+                        // if (!isEntitled) {
+                        //   await revenue_cat.loadOfferings();
+                        // }
 
-                        if (isEntitled) {
+                        // if (isEntitled) {
                           context.pushNamed('GeneralKnowledgeFC');
-                        } else {
-                          context.pushNamed('paywall');
-                        }
+                        // } else {
+                        //   context.pushNamed('paywall');
+                        // }
                       },
                       child: Container(
                         width: MediaQuery.sizeOf(context).width * 0.9,
@@ -431,17 +436,18 @@ class _FlashcardsWidgetState extends State<FlashcardsWidget> {
                       hoverColor: Colors.transparent,
                       highlightColor: Colors.transparent,
                       onTap: () async {
-                        final isEntitled =
-                            await revenue_cat.isEntitled('pro1') ?? false;
-                        if (!isEntitled) {
-                          await revenue_cat.loadOfferings();
-                        }
+                        // PREMIUM CHECK COMMENTED OUT - Always allow access
+                        // final isEntitled =
+                        //     await revenue_cat.isEntitled('pro1') ?? false;
+                        // if (!isEntitled) {
+                        //   await revenue_cat.loadOfferings();
+                        // }
 
-                        if (isEntitled) {
+                        // if (isEntitled) {
                           context.pushNamed('HazardousMaterialFC');
-                        } else {
-                          context.pushNamed('paywall');
-                        }
+                        // } else {
+                        //   context.pushNamed('paywall');
+                        // }
                       },
                       child: Container(
                         width: MediaQuery.sizeOf(context).width * 0.9,
@@ -503,17 +509,18 @@ class _FlashcardsWidgetState extends State<FlashcardsWidget> {
                       hoverColor: Colors.transparent,
                       highlightColor: Colors.transparent,
                       onTap: () async {
-                        final isEntitled =
-                            await revenue_cat.isEntitled('pro1') ?? false;
-                        if (!isEntitled) {
-                          await revenue_cat.loadOfferings();
-                        }
+                        // PREMIUM CHECK COMMENTED OUT - Always allow access
+                        // final isEntitled =
+                        //     await revenue_cat.isEntitled('pro1') ?? false;
+                        // if (!isEntitled) {
+                        //   await revenue_cat.loadOfferings();
+                        // }
 
-                        if (isEntitled) {
+                        // if (isEntitled) {
                           context.pushNamed('PassengerTransportFC');
-                        } else {
-                          context.pushNamed('paywall');
-                        }
+                        // } else {
+                        //   context.pushNamed('paywall');
+                        // }
                       },
                       child: Container(
                         width: MediaQuery.sizeOf(context).width * 0.9,
@@ -575,17 +582,18 @@ class _FlashcardsWidgetState extends State<FlashcardsWidget> {
                       hoverColor: Colors.transparent,
                       highlightColor: Colors.transparent,
                       onTap: () async {
-                        final isEntitled =
-                            await revenue_cat.isEntitled('pro1') ?? false;
-                        if (!isEntitled) {
-                          await revenue_cat.loadOfferings();
-                        }
+                        // PREMIUM CHECK COMMENTED OUT - Always allow access
+                        // final isEntitled =
+                        //     await revenue_cat.isEntitled('pro1') ?? false;
+                        // if (!isEntitled) {
+                        //   await revenue_cat.loadOfferings();
+                        // }
 
-                        if (isEntitled) {
+                        // if (isEntitled) {
                           context.pushNamed('TankersFC');
-                        } else {
-                          context.pushNamed('paywall');
-                        }
+                        // } else {
+                        //   context.pushNamed('paywall');
+                        // }
                       },
                       child: Container(
                         width: MediaQuery.sizeOf(context).width * 0.9,

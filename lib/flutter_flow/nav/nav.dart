@@ -159,7 +159,9 @@ GoRouter createRouter(AppStateNotifier appStateNotifier) => GoRouter(
         FFRoute(
           name: 'paywall',
           path: '/paywall',
-          builder: (context, params) => const PaywallWidget(),
+          // BYPASS PAYWALL - Redirect to HomePage instead
+          builder: (context, params) => const HomePageWidget(),
+          // builder: (context, params) => const PaywallWidget(),
         ),
         FFRoute(
           name: 'success',

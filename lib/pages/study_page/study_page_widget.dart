@@ -100,17 +100,18 @@ class _StudyPageWidgetState extends State<StudyPageWidget> {
                     hoverColor: Colors.transparent,
                     highlightColor: Colors.transparent,
                     onTap: () async {
-                      final isEntitled =
-                          await revenue_cat.isEntitled('pro1') ?? false;
-                      if (!isEntitled) {
-                        await revenue_cat.loadOfferings();
-                      }
+                      // PREMIUM CHECK COMMENTED OUT - Always allow access
+                      // final isEntitled =
+                      //     await revenue_cat.isEntitled('pro1') ?? false;
+                      // if (!isEntitled) {
+                      //   await revenue_cat.loadOfferings();
+                      // }
 
-                      if (isEntitled) {
+                      // if (isEntitled) {
                         context.pushNamed('AirBrakesTestPage1');
-                      } else {
-                        context.pushNamed('paywall');
-                      }
+                      // } else {
+                      //   context.pushNamed('paywall');
+                      // }
                     },
                     child: Container(
                       width: MediaQuery.sizeOf(context).width * 0.8,
@@ -178,17 +179,18 @@ class _StudyPageWidgetState extends State<StudyPageWidget> {
                     hoverColor: Colors.transparent,
                     highlightColor: Colors.transparent,
                     onTap: () async {
-                      final isEntitled =
-                          await revenue_cat.isEntitled('pro1') ?? false;
-                      if (!isEntitled) {
-                        await revenue_cat.loadOfferings();
-                      }
+                      // PREMIUM CHECK COMMENTED OUT - Always allow access
+                      // final isEntitled =
+                      //     await revenue_cat.isEntitled('pro1') ?? false;
+                      // if (!isEntitled) {
+                      //   await revenue_cat.loadOfferings();
+                      // }
 
-                      if (isEntitled) {
+                      // if (isEntitled) {
                         context.pushNamed('CombinationVehiclesTest');
-                      } else {
-                        context.pushNamed('paywall');
-                      }
+                      // } else {
+                      //   context.pushNamed('paywall');
+                      // }
                     },
                     child: Container(
                       width: MediaQuery.sizeOf(context).width * 0.8,
@@ -256,17 +258,18 @@ class _StudyPageWidgetState extends State<StudyPageWidget> {
                     hoverColor: Colors.transparent,
                     highlightColor: Colors.transparent,
                     onTap: () async {
-                      final isEntitled =
-                          await revenue_cat.isEntitled('pro1') ?? false;
-                      if (!isEntitled) {
-                        await revenue_cat.loadOfferings();
-                      }
+                      // PREMIUM CHECK COMMENTED OUT - Always allow access
+                      // final isEntitled =
+                      //     await revenue_cat.isEntitled('pro1') ?? false;
+                      // if (!isEntitled) {
+                      //   await revenue_cat.loadOfferings();
+                      // }
 
-                      if (isEntitled) {
+                      // if (isEntitled) {
                         context.pushNamed('DoubleTriplesTest');
-                      } else {
-                        context.pushNamed('paywall');
-                      }
+                      // } else {
+                      //   context.pushNamed('paywall');
+                      // }
                     },
                     child: Container(
                       width: MediaQuery.sizeOf(context).width * 0.8,
@@ -334,17 +337,18 @@ class _StudyPageWidgetState extends State<StudyPageWidget> {
                     hoverColor: Colors.transparent,
                     highlightColor: Colors.transparent,
                     onTap: () async {
-                      final isEntitled =
-                          await revenue_cat.isEntitled('pro1') ?? false;
-                      if (!isEntitled) {
-                        await revenue_cat.loadOfferings();
-                      }
+                      // PREMIUM CHECK COMMENTED OUT - Always allow access
+                      // final isEntitled =
+                      //     await revenue_cat.isEntitled('pro1') ?? false;
+                      // if (!isEntitled) {
+                      //   await revenue_cat.loadOfferings();
+                      // }
 
-                      if (isEntitled) {
+                      // if (isEntitled) {
                         context.pushNamed('GeneralKnowledgeTest');
-                      } else {
-                        context.pushNamed('paywall');
-                      }
+                      // } else {
+                      //   context.pushNamed('paywall');
+                      // }
                     },
                     child: Container(
                       width: MediaQuery.sizeOf(context).width * 0.8,
@@ -412,17 +416,18 @@ class _StudyPageWidgetState extends State<StudyPageWidget> {
                     hoverColor: Colors.transparent,
                     highlightColor: Colors.transparent,
                     onTap: () async {
-                      final isEntitled =
-                          await revenue_cat.isEntitled('pro1') ?? false;
-                      if (!isEntitled) {
-                        await revenue_cat.loadOfferings();
-                      }
+                      // PREMIUM CHECK COMMENTED OUT - Always allow access
+                      // final isEntitled =
+                      //     await revenue_cat.isEntitled('pro1') ?? false;
+                      // if (!isEntitled) {
+                      //   await revenue_cat.loadOfferings();
+                      // }
 
-                      if (isEntitled) {
+                      // if (isEntitled) {
                         context.pushNamed('DrivingTest');
-                      } else {
-                        context.pushNamed('paywall');
-                      }
+                      // } else {
+                      //   context.pushNamed('paywall');
+                      // }
                     },
                     child: Container(
                       width: MediaQuery.sizeOf(context).width * 0.8,
@@ -490,17 +495,18 @@ class _StudyPageWidgetState extends State<StudyPageWidget> {
                     hoverColor: Colors.transparent,
                     highlightColor: Colors.transparent,
                     onTap: () async {
-                      final isEntitled =
-                          await revenue_cat.isEntitled('pro1') ?? false;
-                      if (!isEntitled) {
-                        await revenue_cat.loadOfferings();
-                      }
+                      // PREMIUM CHECK COMMENTED OUT - Always allow access
+                      // final isEntitled =
+                      //     await revenue_cat.isEntitled('pro1') ?? false;
+                      // if (!isEntitled) {
+                      //   await revenue_cat.loadOfferings();
+                      // }
 
-                      if (isEntitled) {
+                      // if (isEntitled) {
                         context.pushNamed('HazardousMaterialTest');
-                      } else {
-                        context.pushNamed('paywall');
-                      }
+                      // } else {
+                      //   context.pushNamed('paywall');
+                      // }
                     },
                     child: Container(
                       width: MediaQuery.sizeOf(context).width * 0.8,
@@ -568,17 +574,18 @@ class _StudyPageWidgetState extends State<StudyPageWidget> {
                     hoverColor: Colors.transparent,
                     highlightColor: Colors.transparent,
                     onTap: () async {
-                      final isEntitled =
-                          await revenue_cat.isEntitled('pro1') ?? false;
-                      if (!isEntitled) {
-                        await revenue_cat.loadOfferings();
-                      }
+                      // PREMIUM CHECK COMMENTED OUT - Always allow access
+                      // final isEntitled =
+                      //     await revenue_cat.isEntitled('pro1') ?? false;
+                      // if (!isEntitled) {
+                      //   await revenue_cat.loadOfferings();
+                      // }
 
-                      if (isEntitled) {
+                      // if (isEntitled) {
                         context.pushNamed('PassengerTransportTest');
-                      } else {
-                        context.pushNamed('paywall');
-                      }
+                      // } else {
+                      //   context.pushNamed('paywall');
+                      // }
                     },
                     child: Container(
                       width: MediaQuery.sizeOf(context).width * 0.8,
