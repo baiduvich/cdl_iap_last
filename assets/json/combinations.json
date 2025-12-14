@@ -1,0 +1,613 @@
+[
+    {
+      "question": "Where should the tractor be when you inspect the landing gear after uncoupling the trailer?",
+      "options": [
+        "Completely cleared from the trailer.",
+        "With the tractor frame under the trailer.",
+        "With the fifth wheel directly beneath the kingpin."
+      ],
+      "correct_answer": "Completely cleared from the trailer.",
+      "why": "The tractor should be completely cleared from the trailer to avoid accidental contact or pressure on the landing gear during inspection."
+    },
+    {
+      "question": "If the service line comes apart while you are driving a combination vehicle, but the emergency line stays together, what will happen right away?",
+      "options": [
+        "Nothing is likely to happen until you try to apply the brakes.",
+        "The trailer's tank will exhaust through the open line.",
+        "The emergency trailer brakes will come on."
+      ],
+      "correct_answer": "Nothing is likely to happen until you try to apply the brakes.",
+      "why": "If the service line comes apart, nothing will happen immediately. However, you will not be able to apply the trailer brakes until the line is fixed."
+    },
+    {
+      "question": "How should you test the tractor-semitrailer connection for security?",
+      "options": [
+        "Look at it carefully.",
+        "Pull gently forward in low gear against the locked trailer brakes then look at it carefully.",
+        "Rock the trailer back and forth with the trailer brakes locked."
+      ],
+      "correct_answer": "Pull gently forward in low gear against the locked trailer brakes then look at it carefully.",
+      "why": "Pulling gently forward tests whether the connection is secure by applying a slight amount of force to ensure the coupling is properly locked."
+    },
+    {
+      "question": "The front trailer supports are up and the trailer is resting on the tractor. Make sure:",
+      "options": [
+        "There is enough clearance between the top of the tractor tires and nose of the trailer.",
+        "There is enough clearance between the tractor frame and the landing gear.",
+        "Both options are correct."
+      ],
+      "correct_answer": "Both options are correct.",
+      "why": "Both clearances must be checked to avoid potential damage to the tractor or trailer during operation."
+    },
+    {
+      "question": "To unlock the fifth wheel, the locking lever should be placed in the ___ position.",
+      "options": [
+        "Closed",
+        "Open",
+        "Neutral"
+      ],
+      "correct_answer": "Open",
+      "why": "The locking lever should be placed in the open position to release the fifth wheel for uncoupling."
+    },
+    {
+      "question": "The tractor protection valve will close, and the trailer emergency brakes will come on when there is a major leak in the ___ brake line.",
+      "options": [
+        "Emergency",
+        "Service",
+        "Parking"
+      ],
+      "correct_answer": "Emergency",
+      "why": "A major leak in the emergency brake line triggers the tractor protection valve to close and the emergency brakes to engage, stopping the trailer."
+    },
+    {
+      "question": "When coupling, the proper position of the fifth wheel is:",
+      "options": [
+        "Tilted down toward the end of the trailer.",
+        "Tilted up toward the end of the trailer.",
+        "Level of the ground."
+      ],
+      "correct_answer": "Tilted down toward the end of the trailer.",
+      "why": "Tilting the fifth wheel down helps the kingpin lock securely when the tractor backs under the trailer."
+    },
+    {
+      "question": "What gear should the tractor engine be in after you uncouple the trailer and are inspecting the trailer supports?",
+      "options": [
+        "Low reverse.",
+        "Neutral.",
+        "High reverse."
+      ],
+      "correct_answer": "Neutral.",
+      "why": "The engine should be in neutral during inspection to prevent accidental movement of the tractor."
+    },
+    {
+      "question": "When uncoupling the trailer, after you shut off the trailer air supply and lock the trailer brakes, you should:",
+      "options": [
+        "Put on your tractor parking brakes.",
+        "Lower trailer landing gear.",
+        "Back up gently to ease pressure on the fifth wheel."
+      ],
+      "correct_answer": "Put on your tractor parking brakes.",
+      "why": "The tractor parking brakes should be engaged to prevent movement while uncoupling the trailer."
+    },
+    {
+      "question": "Glad hands are usually connecting which of these?",
+      "options": [
+        "Kingpin from the trailer to the locking jaws of the fifth wheel.",
+        "Service and emergency air lines from the vehicle to the trailer.",
+        "Electric lines from the tractor to trailer."
+      ],
+      "correct_answer": "Service and emergency air lines from the vehicle to the trailer.",
+      "why": "Glad hands are used to connect the service and emergency air lines between the tractor and trailer."
+    },
+    {
+      "question": "You are driving a combination vehicle when the trailer breaks away, pulling apart both air lines. You expect the trailer brakes to come on and:",
+      "options": [
+        "The tractor protection valve to close.",
+        "The tractor to lose air pressure.",
+        "The trailer supply valve to stay open."
+      ],
+      "correct_answer": "The tractor protection valve to close.",
+      "why": "When both air lines break, the tractor protection valve closes to prevent air loss and the trailer brakes engage."
+    },
+    {
+      "question": "A driver crosses the air lines when hooking up to an old trailer. What will happen?",
+      "options": [
+        "The hand valve will apply the tractor brakes instead of the trailer brakes.",
+        "If the trailer has no spring brakes, you could drive away but you would not have trailer brakes.",
+        "The brake lights will come on when the brake pedal is pressed."
+      ],
+      "correct_answer": "If the trailer has no spring brakes, you could drive away but you would not have trailer brakes.",
+      "why": "Crossing the air lines means the trailer brakes will not function, which can be dangerous."
+    },
+    {
+      "question": "The hand valve should be used:",
+      "options": [
+        "As a parking brake.",
+        "To test the trailer brakes.",
+        "Only with a foot brake."
+      ],
+      "correct_answer": "To test the trailer brakes.",
+      "why": "The hand valve is used to apply the trailer brakes and test their functionality."
+    },
+    {
+      "question": "When driving a set of doubles, it is necessary to close which shut-off valve in the last trailer?",
+      "options": [
+        "Middle section valve.",
+        "Front valve.",
+        "Back valve."
+      ],
+      "correct_answer": "Back valve.",
+      "why": "The back shut-off valve must be closed to ensure that air pressure does not escape from the system."
+    },
+    {
+      "question": "You are about to back your tractor under a semitrailer. The trailer is at the right height when the:",
+      "options": [
+        "Trailer will be lifted slightly when the tractor backs under it.",
+        "Kingpin is about 1 1/4 inches above the fifth wheel.",
+        "End of the kingpin is even with the top of the fifth wheel."
+      ],
+      "correct_answer": "Trailer will be lifted slightly when the tractor backs under it.",
+      "why": "The trailer height is correct when the tractor lifts the trailer slightly as it backs under it."
+    },
+    {
+      "question": "While driving behind another vehicle, under good conditions, you should allow at least one second between your vehicle and the vehicle ahead for each ____ feet of your vehicle length.",
+      "options": [
+        "10",
+        "20",
+        "30"
+      ],
+      "correct_answer": "10",
+      "why": "Allowing at least one second for every 10 feet of vehicle length helps maintain a safe following distance."
+    },
+    {
+      "question": "Your emergency air line breaks or gets pulled apart while you are driving. The loss of pressure will cause the:",
+      "options": [
+        "Emergency trailer brakes to come on.",
+        "Air compressor to unload instead of pumping air.",
+        "Trailer supply valve to open."
+      ],
+      "correct_answer": "Emergency trailer brakes to come on.",
+      "why": "The emergency air line controls the trailer brakes, so a break in the line will cause the brakes to engage."
+    },
+    {
+      "question": "Air brake equipped trailers made before 1975:",
+      "options": [
+        "Usually need a glad hand converter.",
+        "Cannot be legally operated on interstate highways.",
+        "Are not required to have spring brakes."
+      ],
+      "correct_answer": "Are not required to have spring brakes.",
+      "why": "Older air brake-equipped trailers made before 1975 are not required to have spring brakes."
+    },
+    {
+        "question": "There are two things that a driver can do to prevent a rollover: They are: (1) go slow around turns, and (2):",
+        "options": [
+          "Keep both hands firmly on the steering wheel.",
+          "Keep the cargo as close to the ground as possible.",
+          "Make sure that the brakes are properly balanced."
+        ],
+        "correct_answer": "Keep the cargo as close to the ground as possible.",
+        "why": "Keeping the cargo low minimizes the vehicle's center of gravity, which reduces the risk of a rollover."
+      },
+      {
+        "question": "After connecting the air lines but before backing under the trailer you should:",
+        "options": [
+          "Walk around the rig to be sure that it is clear.",
+          "Make sure that the trailer brakes are off.",
+          "Supply air to the trailer system, then pull out the air supply knob."
+        ],
+        "correct_answer": "Supply air to the trailer system, then pull out the air supply knob.",
+        "why": "Supplying air ensures the brakes work properly before backing under the trailer."
+      },
+      {
+        "question": "Which part of the kingpin should the locking jaw close around?",
+        "options": [
+          "The base.",
+          "The shank.",
+          "The head."
+        ],
+        "correct_answer": "The shank.",
+        "why": "The locking jaw should close securely around the shank of the kingpin to ensure a proper connection."
+      },
+      {
+        "question": "How much space should be allowed between the upper and lower fifth wheel after coupling?",
+        "options": [
+          "None.",
+          "1/4 inch.",
+          "Just enough to sit on."
+        ],
+        "correct_answer": "None.",
+        "why": "There should be no space between the upper and lower fifth wheel to ensure a secure coupling."
+      },
+      {
+        "question": "You have pushed the trailer air supply valve. You should not back a tractor under a trailer until the whole air system is:",
+        "options": [
+          "Between 60 and 80 psi.",
+          "At normal pressure.",
+          "Empty."
+        ],
+        "correct_answer": "At normal pressure.",
+        "why": "The air system must be at normal pressure to ensure the brakes and suspension system function correctly."
+      },
+      {
+        "question": "Tractor with a trailer requires the shortest amount of stopping distance:",
+        "options": [
+          "Fully loaded",
+          "Partly loaded",
+          "Empty"
+        ],
+        "correct_answer": "Fully loaded",
+        "why": "A fully loaded trailer has more traction, which allows for a shorter stopping distance compared to an empty one."
+      },
+      {
+        "question": "After you have coupled the trailer you should raise the landing gear by using:",
+        "options": [
+          "Intermediate gear.",
+          "Low gear.",
+          "High gear."
+        ],
+        "correct_answer": "Low gear.",
+        "why": "Using low gear gives more control and reduces the risk of damaging the landing gear."
+      },
+      {
+        "question": "You supply air to the trailer tanks by:",
+        "options": [
+          "Connecting the service line glad hands.",
+          "Pushing in the trailer air supply valve.",
+          "Pulling out the trailer air supply valve."
+        ],
+        "correct_answer": "Pushing in the trailer air supply valve.",
+        "why": "Pushing in the valve supplies air to the trailer tanks, ensuring the brakes and suspension function correctly."
+      },
+      {
+        "question": "Why should you be sure that the fifth wheel plate is greased as required?",
+        "options": [
+          "To reduce heat and noise.",
+          "To prevent steering problems.",
+          "To ensure a good electrical connection."
+        ],
+        "correct_answer": "To prevent steering problems.",
+        "why": "A properly greased fifth wheel reduces friction, ensuring smooth steering and preventing wear."
+      },
+      {
+        "question": "Your emergency air line breaks or gets pulled apart while you are driving. The loss of pressure will cause the:",
+        "options": [
+          "Air compressor to unload instead of pumping air.",
+          "Emergency trailer brakes to come on.",
+          "Tractor's air to dump into the trailer tank through the service line."
+        ],
+        "correct_answer": "Emergency trailer brakes to come on.",
+        "why": "When the emergency air line breaks, the emergency brakes on the trailer engage automatically to stop the vehicle."
+      },
+      {
+        "question": "When connecting the glad hands, press the two seals with the couplers together at what degree to each other?",
+        "options": [
+          "45 degrees.",
+          "180 degrees.",
+          "90 degrees."
+        ],
+        "correct_answer": "90 degrees.",
+        "why": "Connecting the glad hands at a 90-degree angle ensures a tight and secure air connection."
+      },
+      {
+        "question": "The air brake leakage rate for a combination vehicle (engine off, brakes off) should not be more than ____psi per minute.",
+        "options": [
+          "2",
+          "3",
+          "1/2"
+        ],
+        "correct_answer": "3",
+        "why": "The air brake system should not lose more than 3 psi per minute when the engine and brakes are off, ensuring system integrity."
+      },
+      {
+        "question": "Which of these statements is true?",
+        "options": [
+          "The brakes and suspension systems of combination vehicles work best with a light load.",
+          "Light vehicles need more braking power to stop than heavy ones.",
+          "Bobtail tractors can take longer to stop than a combination vehicle loaded to maximum gross weight."
+        ],
+        "correct_answer": "Bobtail tractors can take longer to stop than a combination vehicle loaded to maximum gross weight.",
+        "why": "Bobtail tractors are less stable when empty and can take longer to stop compared to loaded vehicles."
+      },
+      {
+        "question": "Why should you lock the tractor glad hands to each other (or dummy couplers) when you are not towing a trailer?",
+        "options": [
+          "The connected brake circuit becomes a backup air tank.",
+          "It will keep dirt or water out of the lines.",
+          "If you did not, you could never build system pressure."
+        ],
+        "correct_answer": "It will keep dirt or water out of the lines.",
+        "why": "Locking the glad hands together prevents contaminants like dirt or water from entering the air lines and damaging the system."
+      },
+      {
+        "question": "When backing a tractor under a trailer you should:",
+        "options": [
+          "Always use the lowest reverse gear.",
+          "Do it quickly to ensure that the kingpin is locked into the fifth wheel.",
+          "Always approach the trailer at a slight angle."
+        ],
+        "correct_answer": "Always use the lowest reverse gear.",
+        "why": "Using the lowest reverse gear provides better control while backing under the trailer, reducing the risk of damage."
+      },
+      {
+        "question": "After the trailer has been coupled to the tractor, the tractor protection control valve should be placed in what position?",
+        "options": [
+          "Up position",
+          "Normal position",
+          "Down position"
+        ],
+        "correct_answer": "Normal position",
+        "why": "The tractor protection valve must be in the normal position to allow air to flow to the trailer's air system for the brakes and suspension to function properly."
+      },
+      {
+        "question": "The fifth wheel locking lever is not locked after the jaws close around the kingpin. This means that:",
+        "options": [
+          "The parking lock is off, and you may drive away.",
+          "The coupling is not right and should be fixed before driving the coupled unit.",
+          "The trailer will not swivel on the fifth wheel."
+        ],
+        "correct_answer": "The coupling is not right and should be fixed before driving the coupled unit.",
+        "why": "If the fifth wheel locking lever is not locked, it indicates an improper coupling that should be corrected before driving to avoid accidents."
+      },
+      {
+        "question": "Off-tracking or cheating causes which of these to follow the wider path while making a turn?",
+        "options": [
+          "53-feet bobtail.",
+          "Tractor towing a 45-feet trailer.",
+          "Tractor with two 27-feet trailers."
+        ],
+        "correct_answer": "Tractor with two 27-feet trailers.",
+        "why": "Off-tracking is more pronounced with longer combinations of vehicles, such as a tractor towing two trailers, making it necessary to take wider turns."
+      },
+      {
+        "question": "The air brake leakage rate for a combination vehicle (engine off, brakes off) should not be more than ____ psi per minute.",
+        "options": [
+          "2",
+          "3",
+          "1/2"
+        ],
+        "correct_answer": "3",
+        "why": "The air brake system of a combination vehicle should not lose more than 3 psi per minute when the engine and brakes are off to maintain braking integrity."
+      },
+      {
+        "question": "When you are uncoupling a loaded trailer, you should lower the landing gear until it:",
+        "options": [
+          "Makes firm contact with the ground, turn crank in low gear a few extra turns.",
+          "Reaches the ground.",
+          "Makes contact with the ground and leaves the trailer off the fifth wheel."
+        ],
+        "correct_answer": "Makes firm contact with the ground, turn crank in low gear a few extra turns.",
+        "why": "Turning the crank a few extra turns in low gear ensures the trailer is securely supported before uncoupling."
+      },
+      {
+        "question": "What will happen if the air lines are crossed when you hook up to an old trailer?",
+        "options": [
+          "The hand valve will apply the tractor brakes instead of the trailer brakes.",
+          "The brake lights will come on when the brake pedal is pressed.",
+          "If the trailer has no spring brakes, you could drive away but you would not have trailer brakes."
+        ],
+        "correct_answer": "If the trailer has no spring brakes, you could drive away but you would not have trailer brakes.",
+        "why": "Crossed air lines would prevent the service brakes on the trailer from functioning properly."
+      },
+      {
+        "question": "To stop a trailer skid you should:",
+        "options": [
+          "Counter-steer.",
+          "Release the brakes.",
+          "Use the trailer hand brakes."
+        ],
+        "correct_answer": "Release the brakes.",
+        "why": "Releasing the brakes helps the wheels regain traction and stops the skid."
+      },
+      {
+        "question": "The air lines on a combination vehicle are often colored to prevent them from mixing up. The emergency line is ___, the service line is",
+        "options": [
+          "blue, red",
+          "black, yellow",
+          "red, blue"
+        ],
+        "correct_answer": "red, blue",
+        "why": "The red line is for emergencies and the blue line is for the service brakes, helping to identify the correct air lines."
+      },
+      {
+        "question": "Semi-trailers made before 1975 that are equipped with air brakes:",
+        "options": [
+          "Have only a service air line.",
+          "Usually need a glad hand converter.",
+          "Often do not have spring brakes."
+        ],
+        "correct_answer": "Often do not have spring brakes.",
+        "why": "Older trailers may not be equipped with modern spring brakes, which engage automatically when air pressure is lost."
+      },
+      {
+        "question": "If you cannot complete your turn without entering another traffic lane you should:",
+        "options": [
+          "Turn wide as you complete the turn.",
+          "Not make a turn and move to another place where you can make a turn without crossing another lane.",
+          "Turn wide before you start the turn."
+        ],
+        "correct_answer": "Turn wide as you complete the turn.",
+        "why": "To avoid encroaching on other traffic lanes, it is best to turn wide while completing the turn to safely maneuver the vehicle."
+      },
+      {
+        "question": "The air leakage rate for a combination vehicle (engine off, brakes on) should not be more than ____ psi per minute.",
+        "options": [
+          "3",
+          "2",
+          "4"
+        ],
+        "correct_answer": "4",
+        "why": "When the brakes are applied, the air system should not lose more than 4 psi per minute to ensure safe operation."
+      },
+      {
+        "question": "Compared to a straight truck or bus, there are ____ things to inspect in combination vehicles.",
+        "options": [
+          "The same number",
+          "Fewer",
+          "More"
+        ],
+        "correct_answer": "More",
+        "why": "Combination vehicles have more components, such as trailers and air lines, requiring more inspection points compared to straight trucks."
+      },
+      {
+        "question": "When checking the trailer emergency brakes, the tractor protection control valve should be placed in what position?",
+        "options": [
+          "Neutral",
+          "Normal",
+          "Emergency"
+        ],
+        "correct_answer": "Emergency",
+        "why": "Placing the control valve in the emergency position ensures the trailer emergency brakes are activated."
+      },
+      {
+        "question": "In normal driving, some drivers use the hand valve before the brake pedal to prevent a jack-knife. Which of the statements is true?",
+        "options": [
+          "It should not be done.",
+          "It results in less skidding than using the brake pedal alone.",
+          "It is the best way to brake and keep the truck in a straight line."
+        ],
+        "correct_answer": "It should not be done.",
+        "why": "Using the hand valve to brake can lock up the trailer brakes and cause a skid, which increases the risk of a jack-knife."
+      },
+      {
+        "question": "The higher the center of gravity of your truck, the:",
+        "options": [
+          "More stable while turning.",
+          "Easier to turn around the corner.",
+          "Easier to turn over."
+        ],
+        "correct_answer": "Easier to turn over.",
+        "why": "A higher center of gravity makes the vehicle less stable and more likely to roll over, especially when turning."
+      },
+      {
+        "question": "Air and electrical lines from the tractor to the trailer should be:",
+        "options": [
+          "Fully tight but away a little looped.",
+          "Secured but with enough loop to turn.",
+          "Resting on the frame of the tractor."
+        ],
+        "correct_answer": "Secured but with enough loop to turn.",
+        "why": "The lines should have enough slack to allow turning without getting caught or stretched, but they should still be secure."
+      },
+      {
+        "question": "You have a major leak in the service line, and you put on the brakes. Service air will escape and cause the:",
+        "options": [
+          "Trailer tank pressure to be lost.",
+          "Tractor spring brakes to lock up.",
+          "Trailer emergency brakes to come on."
+        ],
+        "correct_answer": "Trailer emergency brakes to come on.",
+        "why": "A major leak in the service line will cause the trailer emergency brakes to engage, stopping the trailer."
+      },
+      {
+        "question": "A tractor with a trailer requires the most amount of stopping distance.",
+        "options": [
+          "Fully loaded",
+          "Empty",
+          "Lightly loaded"
+        ],
+        "correct_answer": "Empty",
+        "why": "Empty vehicles require more stopping distance because they have less traction due to the lack of weight."
+      },
+      {
+        "question": "When you get ready to back under a semitrailer you should line up:",
+        "options": [
+          "The left rear outer dual wheel with the kingpin.",
+          "The kingpin to engage the driver's side locking jaw first.",
+          "Directly in front of the trailer."
+        ],
+        "correct_answer": "Directly in front of the trailer.",
+        "why": "Lining up directly in front of the trailer helps ensure a straight connection and reduces the risk of damaging the equipment."
+      },
+      {
+        "question": "You should not back a tractor under a trailer until the air system is:",
+        "options": [
+          "At normal pressure.",
+          "Between 60 and 80 psi.",
+          "Empty."
+        ],
+        "correct_answer": "At normal pressure.",
+        "why": "The air system should be at normal pressure to ensure proper braking and suspension when coupling the tractor and trailer."
+      },
+      {
+        "question": "After you lock the kingpin into the fifth wheel, you should check the connection by:",
+        "options": [
+          "Backing up with the trailer brakes released.",
+          "Pulling forward 50 feet, turning right and then left.",
+          "Pulling the tractor ahead gently with the trailer brakes locked."
+        ],
+        "correct_answer": "Pulling the tractor ahead gently with the trailer brakes locked.",
+        "why": "Pulling forward gently with the brakes locked ensures that the connection is secure and prevents the trailer from uncoupling."
+      },
+      {
+        "question": "The higher the center of gravity of your truck, the:",
+        "options": [
+          "More stable while turning.",
+          "Easier to turn around the corner.",
+          "Easier to turn over."
+        ],
+        "correct_answer": "Easier to turn over.",
+        "why": "A higher center of gravity makes the truck less stable and more prone to rolling over, especially when taking turns."
+      },
+      {
+        "question": "When should you use the hand valve to park a combination vehicle?",
+        "options": [
+          "Never.",
+          "To park on a grade.",
+          "To park at loading docks."
+        ],
+        "correct_answer": "Never.",
+        "why": "The hand valve is not meant to be used as a parking brake because it only controls the trailer brakes and could lead to brake failure."
+      },
+      {
+        "question": "You have coupled with a semitrailer, where should you put the iron trailer supports before driving away?",
+        "options": [
+          "3 turns off the top with the crank handle secured in its bracket.",
+          "Fully raised with the crank handle secured in its bracket.",
+          "Raised 1/2 way with the crank handle secured in its bracket."
+        ],
+        "correct_answer": "Fully raised with the crank handle secured in its bracket.",
+        "why": "The trailer supports should be fully raised to avoid damage to the landing gear during transport."
+      },
+      {
+        "question": "The safety latch for the fifth wheel locking lever must be ____ for a coupling to be complete.",
+        "options": [
+          "Under the locking lever",
+          "Straight up",
+          "Over the locking lever"
+        ],
+        "correct_answer": "Over the locking lever.",
+        "why": "The safety latch must be over the locking lever to ensure that the coupling is locked and secure."
+      },
+      {
+        "question": "After you supply air to the trailer, make sure the air lines are not crossed and the trailer brakes are working. This is done by:",
+        "options": [
+          "Watching your mirrors to see if the trailer lights come on.",
+          "Lifting the brake pedal.",
+          "Applying and releasing the trailer brakes and listening for the sound of the brake."
+        ],
+        "correct_answer": "Applying and releasing the trailer brakes and listening for the sound of the brake.",
+        "why": "Testing the trailer brakes ensures that the air lines are connected correctly and the brakes are functioning properly."
+      },
+      {
+        "question": "Before you back under a trailer, make sure that:",
+        "options": [
+          "The trailer brakes are locked.",
+          "The tractor protection valve is normal.",
+          "The air supply knob is in."
+        ],
+        "correct_answer": "The trailer brakes are locked.",
+        "why": "Locking the trailer brakes prevents the trailer from moving during coupling, ensuring a safer connection."
+      },
+      {
+        "question": "How should you test the tractor-semitrailer connection for security?",
+        "options": [
+          "Look at it carefully.",
+          "Pull gently forward in low gear against the locked trailer brakes then look at it carefully.",
+          "Rock the trailer back and forth with the trailer brakes locked."
+        ],
+        "correct_answer": "Pull gently forward in low gear against the locked trailer brakes then look at it carefully.",
+        "why": "This test ensures that the kingpin is securely locked in the fifth wheel before driving."
+      }
+  ]
+  

@@ -1,0 +1,2382 @@
+[
+  {
+    "question": "You are driving on a straight, level highway at 50 mph. Suddenly a tire blew out of your vehicle, what should you do first?",
+    "answers": [
+      "Begin emergency braking.",
+      "Stay off the brake until the vehicle has slowed down.",
+      "Begin light braking."
+    ],
+    "correct_answer": "Stay off the brake until the vehicle has slowed down.",
+    "why": "Braking immediately after a blowout can cause a loss of control. You should wait until the vehicle slows down."
+  },
+  {
+    "question": "If you need to leave the road in a traffic emergency, you should:",
+    "answers": [
+      "Try to get all wheels off the pavement.",
+      "Avoid shoulder because most will not support a large vehicle.",
+      "Avoid braking until your speed has dropped to about 20 mph."
+    ],
+    "correct_answer": "Avoid braking until your speed has dropped to about 20 mph.",
+    "why": "Braking too early can cause you to lose control; it's safer to reduce speed before applying brakes."
+  },
+  {
+    "question": "You are driving a vehicle that could be driven safely at 55 mph on an open road. But traffic is heavy and other vehicles drive at the speed of 35 mph. The safest speed for your vehicle is more likely to be:",
+    "answers": [
+      "55 mph",
+      "35 mph",
+      "45 mph"
+    ],
+    "correct_answer": "35 mph",
+    "why": "It’s safer to drive with the flow of traffic, even if it’s below the speed limit."
+  },
+  {
+    "question": "What is countersteering?",
+    "answers": [
+      "Using the steering axle brakes to prevent oversteering.",
+      "Turning the steering wheel counterclockwise.",
+      "Turning the wheel back in the other direction after steering to avoid a traffic emergency."
+    ],
+    "correct_answer": "Turning the wheel back in the other direction after steering to avoid a traffic emergency.",
+    "why": "Countersteering helps correct your vehicle after an emergency steering maneuver."
+  },
+  {
+    "question": "Which of these statements about backing a heavy vehicle is true?",
+    "answers": [
+      "Helpers should be out of the driver's sight and use only voice signals to communicate with the driver.",
+      "You should avoid backing whenever you can.",
+      "It is safer to back toward the right side of the vehicle than toward the driver's side."
+    ],
+    "correct_answer": "You should avoid backing whenever you can.",
+    "why": "Backing up is dangerous and should be avoided whenever possible."
+  },
+  {
+    "question": "Which of these best describes how to use the brake pedal on a steep downhill grade?",
+    "answers": [
+      "Repeated strong pressure then release.",
+      "Light, pumping action.",
+      "Release the brake when you are 5 MPH below your safe speed, then let your speed come back up to your safe speed and repeat."
+    ],
+    "correct_answer": "Release the brake when you are 5 MPH below your safe speed, then let your speed come back up to your safe speed and repeat.",
+    "why": "This technique helps prevent overheating the brakes while maintaining control."
+  },
+  {
+    "question": "Which of these statements about using turn signals is true?",
+    "answers": [
+      "You do not need to use your turn signal when changing lanes in traffic on a four-lane highway.",
+      "You should use your turn signal to mark your vehicle when it is pulled off on the side of the road.",
+      "When turning, you should signal early."
+    ],
+    "correct_answer": "When turning, you should signal early.",
+    "why": "Signaling early gives other drivers time to adjust."
+  },
+  {
+    "question": "Retarders:",
+    "answers": [
+      "Cause extra brake wear.",
+      "Can cause the drive wheels to skid when they have poor traction.",
+      "Work when you apply the brake pedal."
+    ],
+    "correct_answer": "Can cause the drive wheels to skid when they have poor traction.",
+    "why": "Retarders slow down the vehicle but can cause skidding on slippery surfaces."
+  },
+  {
+    "question": "To correct a drive wheel braking skid, you should:",
+    "answers": [
+      "Stop braking, turn quickly, then countersteer.",
+      "Increase braking, turn quickly, and countersteer.",
+      "Increase braking."
+    ],
+    "correct_answer": "Stop braking, turn quickly, then countersteer.",
+    "why": "Braking during a skid worsens the situation. Countersteering helps regain control."
+  },
+  {
+    "question": "When exiting or entering on a curved freeway ramp, you should:",
+    "answers": [
+      "Slow down to at least 50% of the posted speed limit.",
+      "Maintain the posted speed limit.",
+      "Maintain a speed 5-10 mph under the posted speed limit."
+    ],
+    "correct_answer": "Maintain a speed 5-10 mph under the posted speed limit.",
+    "why": "Reducing speed below the posted limit on curved ramps ensures better control of the vehicle."
+  },
+  {
+    "question": "Which of the following vehicles will have the longest stopping distance?",
+    "answers": [
+      "Loaded truck.",
+      "Bobtail tractor.",
+      "Empty truck."
+    ],
+    "correct_answer": "Loaded truck.",
+    "why": "A fully loaded truck will take longer to stop due to its weight."
+  },
+  {
+    "question": "How many red reflective triangles are you required to carry?",
+    "answers": [
+      "3",
+      "4",
+      "2"
+    ],
+    "correct_answer": "3",
+    "why": "Regulations require commercial vehicles to carry three red reflective triangles for emergency stops."
+  },
+  {
+    "question": "Which of these statements about certain types of cargo is true?",
+    "answers": [
+      "When liquids are hauled, the tank should always be loaded totally full.",
+      "Unstable load such as hanging meat or livestock can require extra caution on curves.",
+      "Oversize load can be hauled without special permit during times when the roads are not busy."
+    ],
+    "correct_answer": "Unstable load such as hanging meat or livestock can require extra caution on curves.",
+    "why": "Unstable loads, such as livestock or hanging meat, can shift and cause control issues, especially on curves."
+  },
+  {
+    "question": "You are required to inspect your truck within how many miles after beginning the trip?",
+    "answers": [
+      "50",
+      "100",
+      "150"
+    ],
+    "correct_answer": "50",
+    "why": "Federal regulations require an inspection within the first 50 miles of a trip."
+  },
+  {
+    "question": "There are two types of jackknife, they are:",
+    "answers": [
+      "Trailer.",
+      "Both trailer and tractor.",
+      "Tractor."
+    ],
+    "correct_answer": "Both trailer and tractor.",
+    "why": "Jackknifing can occur in both the trailer and the tractor."
+  },
+  {
+    "question": "The BAC (Blood Alcohol Concentration) for commercial drivers to be considered intoxicated when driving a commercial vehicle is:",
+    "answers": [
+      "0.10",
+      "0.01",
+      "0.04"
+    ],
+    "correct_answer": "0.04",
+    "why": "Commercial drivers are considered intoxicated at a lower BAC of 0.04%."
+  },
+  {
+    "question": "Where should the ignition key be during the pre-trip inspection?",
+    "answers": [
+      "In the ignition.",
+      "On the driver's seat.",
+      "In your pocket."
+    ],
+    "correct_answer": "In your pocket.",
+    "why": "Keeping the ignition key in your pocket during the pre-trip inspection prevents unauthorized starting of the vehicle."
+  },
+  {
+    "question": "When loading a trailer, if the cargo is loaded all to the rear, it may result in:",
+    "answers": [
+      "Damage to steering axle.",
+      "Poor traction on drive wheels.",
+      "Wheel lockup."
+    ],
+    "correct_answer": "Poor traction on drive wheels.",
+    "why": "Loading the trailer improperly can reduce traction on the drive wheels and affect handling."
+  },
+  {
+    "question": "Communication means:",
+    "answers": [
+      "To communicate your intention to other motorists.",
+      "Talking with law enforcement officers.",
+      "To talk on the CB radio."
+    ],
+    "correct_answer": "To communicate your intention to other motorists.",
+    "why": "Effective communication with other drivers, such as using signals, is key to safe driving."
+  },
+  {
+    "question": "Should you limit the use of your horn?",
+    "answers": [
+      "The horn is not a good way to let others know you are there.",
+      "It can startle other drivers.",
+      "You should always keep a firm grip on the steering wheel with both hands."
+    ],
+    "correct_answer": "It can startle other drivers.",
+    "why": "Using the horn excessively can startle other drivers and create a dangerous situation."
+  },
+  {
+    "question": "If you are convicted for driving under the influence while driving a commercial vehicle, and this is your first offense, you most likely will get:",
+    "answers": [
+      "At least one-year suspension of your CDL.",
+      "A probation period for 1 year.",
+      "A fine of $250."
+    ],
+    "correct_answer": "At least one-year suspension of your CDL.",
+    "why": "Driving under the influence is a serious offense, and the penalty typically includes a suspension of your CDL."
+  },
+  {
+    "question": "If you are stopped at a roadside rest area and found to have a BAC (Blood Alcohol Concentration) of 0.02 you will:",
+    "answers": [
+      "Be placed out of service for 72 hours.",
+      "Be in deep trouble with your dispatcher.",
+      "Be placed out of service for 24 hours."
+    ],
+    "correct_answer": "Be placed out of service for 24 hours.",
+    "why": "A BAC of 0.02 is enough to get you placed out of service for safety reasons."
+  },
+  {
+    "question": "Which of the following statements about speed management is true?",
+    "answers": [
+      "If you double your speed, stopping distance will double.",
+      "Empty trucks and loaded trucks will have the same stopping distance.",
+      "If you double your speed, stopping distance will be increased by 4 times."
+    ],
+    "correct_answer": "If you double your speed, stopping distance will be increased by 4 times.",
+    "why": "Doubling speed increases stopping distance exponentially, not linearly."
+  },
+  {
+    "question": "You are traveling down a long, steep hill. Your brakes get so hot that they have failed. What should you do?",
+    "answers": [
+      "Look for an escape ramp or escape route.",
+      "Both.",
+      "Downshift and pump the brake pedal."
+    ],
+    "correct_answer": "Both.",
+    "why": "In case of brake failure, using both escape routes and downshifting can help reduce risk."
+  },
+  {
+    "question": "The center of gravity of a load:",
+    "answers": [
+      "Is only a problem if the vehicle is overloaded.",
+      "Can make a vehicle more likely to tip over on curves if it is high.",
+      "Should be kept as high as possible."
+    ],
+    "correct_answer": "Can make a vehicle more likely to tip over on curves if it is high.",
+    "why": "A high center of gravity increases the risk of tipping over, especially on curves."
+  },
+  {
+    "question": "To prevent a load from shifting, there should be at least one tie down for every ___ feet of cargo.",
+    "answers": [
+      "15",
+      "20",
+      "10"
+    ],
+    "correct_answer": "10",
+    "why": "Regulations require at least one tie down for every 10 feet of cargo."
+  },
+  {
+    "question": "While driving, ice builds up on your wipers and they no longer clean the windshield. You should:",
+    "answers": [
+      "Stop safely and fix the problem.",
+      "Keep driving and turn your defroster on.",
+      "Keep driving and spray the windshield with washer fluid."
+    ],
+    "correct_answer": "Stop safely and fix the problem.",
+    "why": "Driving with impaired visibility is unsafe. It is necessary to stop and fix the problem."
+  },
+  {
+    "question": "When the hydraulic brakes fail while you are driving, the system will not build up pressure and the brake pedal will feel spongy or go to the floor. What should you do?",
+    "answers": [
+      "Pump the brake pedal to generate pressure.",
+      "Push down the brake pedal as hard as you can.",
+      "Put the vehicle in neutral and set the parking brake."
+    ],
+    "correct_answer": "Pump the brake pedal to generate pressure.",
+    "why": "Pumping the brake pedal can help build up enough pressure to slow the vehicle."
+  },
+  {
+    "question": "Which may be a sign of tire failure?",
+    "answers": [
+      "Wheels skidding.",
+      "Vibration.",
+      "A loud hissing noise."
+    ],
+    "correct_answer": "Vibration.",
+    "why": "Vibration can indicate a tire problem, such as a blowout or deflation."
+  },
+  {
+    "question": "To prevent brake fade you should:",
+    "answers": [
+      "Apply constant hard pressure on the brakes while driving downhill.",
+      "Coast downhill if it's not very steep.",
+      "Select the gear, which will keep your vehicle to a safe speed on a deep downgrade."
+    ],
+    "correct_answer": "Select the gear, which will keep your vehicle to a safe speed on a deep downgrade.",
+    "why": "Using lower gears helps control speed and prevent brake overheating."
+  },
+  {
+    "question": "A full stop is required at a railroad crossing when:",
+    "answers": [
+      "There is no flagman, warning signals, or gate at the crossing.",
+      "The nature of the cargo makes a stop mandatory under the State or Federal regulations.",
+      "The crossing is in the city or town with frequent train transit."
+    ],
+    "correct_answer": "The nature of the cargo makes a stop mandatory under the State or Federal regulations.",
+    "why": "Certain types of cargo require a mandatory stop at railroad crossings for safety reasons."
+  },
+  {
+    "question": "When driving at night you should use your high beams when oncoming traffic is not within ____ feet?",
+    "answers": [
+      "300",
+      "500",
+      "400"
+    ],
+    "correct_answer": "500",
+    "why": "High beams should be dimmed when oncoming traffic is within 500 feet to avoid blinding other drivers."
+  },
+  {
+    "question": "You do not have a hazardous materials endorsement on your commercial driver's license. You are asked to deliver hazardous materials in a placarded vehicle. You should:",
+    "answers": [
+      "Haul the load but only to the nearest place where a driver with a Hazmat endorsement can take over.",
+      "Haul the load but file a report with the DOT after the trip.",
+      "Refuse to haul the load."
+    ],
+    "correct_answer": "Refuse to haul the load.",
+    "why": "Without a Hazmat endorsement, you are not legally allowed to transport hazardous materials."
+  },
+  {
+    "question": "When driving through the work zone you should:",
+    "answers": [
+      "Watch for sharp pavement drop off.",
+      "Turn on your parking lights.",
+      "Reduce your speed only if workers are close to the roadway."
+    ],
+    "correct_answer": "Watch for sharp pavement drop off.",
+    "why": "Work zones often have uneven pavement, which can be hazardous if not approached cautiously."
+  },
+  {
+    "question": "Backing of the commercial vehicle is:",
+    "answers": [
+      "Not dangerous if you have a helper.",
+      "Not dangerous if you don't have to turn.",
+      "Always dangerous."
+    ],
+    "correct_answer": "Always dangerous.",
+    "why": "Backing is considered dangerous due to limited visibility and control."
+  },
+  {
+    "question": "When you are parked on the side of the road at night you must:",
+    "answers": [
+      "Use your taillights to give warning to other drivers.",
+      "Put out your emergency warning lights within 30 minutes.",
+      "Turn on your four-way-emergency flashers to warn others."
+    ],
+    "correct_answer": "Turn on your four-way-emergency flashers to warn others.",
+    "why": "Four-way flashers should be used to alert other drivers to your presence when parked at night."
+  },
+  {
+    "question": "You must stop on a hill or curve on a two-lane-two-way road. How far should you place reflective triangles?",
+    "answers": [
+      "Within 200 feet behind you.",
+      "As far back as necessary so others can see you.",
+      "Within 500 feet behind you."
+    ],
+    "correct_answer": "As far back as necessary so others can see you.",
+    "why": "Reflective triangles should be placed far enough back to give other drivers time to react."
+  },
+  {
+    "question": "Stab braking should not be used on vehicles with:",
+    "answers": [
+      "Hazardous materials.",
+      "Trailers.",
+      "Anti-lock brakes."
+    ],
+    "correct_answer": "Anti-lock brakes.",
+    "why": "Stab braking interferes with the ABS system and should not be used on vehicles with anti-lock brakes."
+  },
+  {
+    "question": "Sometimes you need to leave a road to avoid a hazard or emergency. When you do, you should keep in mind that:",
+    "answers": [
+      "You might be unable to re-enter the road because of the gravel used on shoulders.",
+      "It is less dangerous to drive onto the shoulders than to cause a collision.",
+      "Most shoulders are not strong enough to support a heavy vehicle."
+    ],
+    "correct_answer": "Most shoulders are not strong enough to support a heavy vehicle.",
+    "why": "Shoulders often lack the strength to support heavy vehicles, which can lead to a loss of control."
+  },
+  {
+    "question": "You do not have a hazardous materials endorsement on your commercial driver's license. You are asked to deliver hazardous materials in a placarded vehicle. You should:",
+    "answers": [
+      "Haul the load but only to the nearest place where a driver with a Hazmat endorsement can take over.",
+      "Haul the load but file a report with the DOT after the trip.",
+      "Refuse to haul the load."
+    ],
+    "correct_answer": "Refuse to haul the load.",
+    "why": "Without a Hazmat endorsement, you are not legally allowed to transport hazardous materials."
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of tire failure?",
+    "answers": [
+      "Steering wheel twisting.",
+      "Cold steering.",
+      "Vehicle's fishtail."
+    ],
+    "correct_answer": "Cold steering.",
+    "why": "Cold steering is not a typical sign of tire failure. More common signs include steering difficulty or fishtailing."
+  },
+  {
+    "question": "Most skids:",
+    "answers": [
+      "Happen on ice.",
+      "Do not happen with radial tires.",
+      "Are caused by going too fast or trying to stop too quickly."
+    ],
+    "correct_answer": "Are caused by going too fast or trying to stop too quickly.",
+    "why": "Speeding and sudden braking often cause skids, especially in adverse conditions."
+  },
+  {
+    "question": "In bad weather many drivers tailgate large vehicles. What should you do?",
+    "answers": [
+      "Speed up to distance yourself from the tailgater.",
+      "Increase your following distance.",
+      "Lightly tap your brake to warn the tailgater to drop back."
+    ],
+    "correct_answer": "Increase your following distance.",
+    "why": "Increasing the following distance provides extra time to react in bad weather."
+  },
+  {
+    "question": "Which of the following systems should receive extra attention during winter weather inspection?",
+    "answers": [
+      "Exhaust.",
+      "Steering.",
+      "Suspension."
+    ],
+    "correct_answer": "Exhaust.",
+    "why": "The exhaust system is critical in winter to prevent dangerous fume buildup inside the vehicle."
+  },
+  {
+    "question": "What happens to tar on the road pavement during hot weather?",
+    "answers": [
+      "It bleeds making the road surface slippery.",
+      "Nothing.",
+      "It becomes staining making tires stick to the road."
+    ],
+    "correct_answer": "It bleeds making the road surface slippery.",
+    "why": "In hot weather, tar softens and bleeds, making roads slick."
+  },
+  {
+    "question": "What is the best advice for drivers when a heavy fog occurs?",
+    "answers": [
+      "Do not drive too slowly or other drivers may hit you.",
+      "Park the truck until the fog disappears.",
+      "Alternate your high beams to improve your vision."
+    ],
+    "correct_answer": "Park the truck until the fog disappears.",
+    "why": "In heavy fog, visibility is reduced, and it's safest to pull over and wait until conditions improve."
+  },
+  {
+    "question": "Which of these statements about staying alert to drive is true?",
+    "answers": [
+      "Sleep is the only thing that can overcome fatigue.",
+      "If you must stop to take a nap, it should be at a truck stop or other rest area and never on the side of the road.",
+      "A half-hour break for coffee will do more to keep you alert than a half-hour nap."
+    ],
+    "correct_answer": "Sleep is the only thing that can overcome fatigue.",
+    "why": "Coffee and other short-term fixes won't prevent fatigue. Sleep is the only remedy for being well-rested."
+  },
+  {
+    "question": "In mountain driving you will have to use a lower gear to drive safely on a grade. Which of these does NOT affect your choice of gear?",
+    "answers": [
+      "The length of the grade.",
+      "The weight of the load.",
+      "Tire tread's depth."
+    ],
+    "correct_answer": "Tire tread's depth.",
+    "why": "While tire tread is important for overall safety, it doesn't directly affect gear choice in mountain driving."
+  },
+  {
+    "question": "What should you do before driving in mountains?",
+    "answers": [
+      "Know escape ramp locations on your way.",
+      "Carry tire chains in your vehicle.",
+      "Unhook your steering axle brake."
+    ],
+    "correct_answer": "Know escape ramp locations on your way.",
+    "why": "It's important to know where escape ramps are located in case of brake failure while driving downhill."
+  },
+  {
+    "question": "Escape ramps:",
+    "answers": [
+      "Are not designed for tractors-double trailers.",
+      "Are designed to slow vehicles so they can get back on the road at a safe speed.",
+      "Should be used by any driver who loses braking power."
+    ],
+    "correct_answer": "Should be used by any driver who loses braking power.",
+    "why": "Escape ramps are specifically designed for situations where a driver loses braking power."
+  },
+  {
+    "question": "Which of these is true about notifying the authorities after an accident occurs?",
+    "answers": [
+      "You should notify authorities about an accident before doing anything else.",
+      "If you have a cellular phone or CB radio you should notify the authorities before exiting the vehicle.",
+      "An exact location is not necessary, just identify the road and the vehicles involved."
+    ],
+    "correct_answer": "If you have a cellular phone or CB radio you should notify the authorities before exiting the vehicle.",
+    "why": "It's safer to stay inside the vehicle and notify the authorities before exiting, especially if you're in a hazardous area."
+  },
+  {
+    "question": "If you are not sure what to use to put out a hazardous material fire you should:",
+    "answers": [
+      "Use water.",
+      "Wait for firefighters.",
+      "Use dirt."
+    ],
+    "correct_answer": "Wait for firefighters.",
+    "why": "Specialized knowledge and equipment are needed to deal with hazardous material fires. Wait for professionals."
+  },
+  {
+    "question": "Your vehicle has hydraulic brakes. While traveling on a level road, you press the brake pedal and find that it goes to the floor. Which of these statements is true?",
+    "answers": [
+      "Pumping the brake pedal may bring the pressure up so you can stop the vehicle.",
+      "The parking brake will not work either because it is part of the same hydraulic system.",
+      "Shifting into neutral will help to slow the vehicle."
+    ],
+    "correct_answer": "Pumping the brake pedal may bring the pressure up so you can stop the vehicle.",
+    "why": "In case of hydraulic brake failure, pumping the brake pedal may restore enough pressure to slow or stop the vehicle."
+  },
+  {
+    "question": "Which of these is NOT a danger of rough acceleration?",
+    "answers": [
+      "Tire damage.",
+      "Mechanical damage.",
+      "Damage of a coupling."
+    ],
+    "correct_answer": "Tire damage.",
+    "why": "While rough acceleration can cause mechanical damage or damage to couplings, it's less likely to cause direct tire damage."
+  },
+  {
+    "question": "Which of these lights cannot be checked at the same time?",
+    "answers": [
+      "Turn signals, tail lights, and clearance lights.",
+      "Turn signals, brake lights, and four-way flashers.",
+      "Headlights, brake lights, and clearance lights."
+    ],
+    "correct_answer": "Turn signals, brake lights, and four-way flashers.",
+    "why": "Brake lights and four-way flashers typically cannot be checked at the same time as they use different circuits."
+  },
+  {
+    "question": "You are inspecting hydraulic brakes. You should pump the brake pedal three times then apply firm pressure to the pedal for five seconds. If the brakes are working properly, the pedal should:",
+    "answers": [
+      "Depress slightly.",
+      "Not move.",
+      "Sink to the floor."
+    ],
+    "correct_answer": "Not move.",
+    "why": "If the pedal moves under pressure, there may be a hydraulic brake leak."
+  },
+  {
+    "question": "Drivers of trucks and tractor-trailers with cargo must check that the cargo is well secured within the first __ miles of the trip.",
+    "answers": [
+      "25",
+      "10",
+      "50"
+    ],
+    "correct_answer": "50",
+    "why": "Drivers are required to check the load within the first 50 miles of the trip to ensure safety."
+  },
+  {
+    "question": "When starting a bus on a level surface with good traction there is often no need for:",
+    "answers": [
+      "A tire check.",
+      "Parking brakes.",
+      "Slow acceleration."
+    ],
+    "correct_answer": "Parking brakes.",
+    "why": "On level ground with good traction, parking brakes may not be needed."
+  },
+  {
+    "question": "How does the weight of the vehicle affect stopping distance?",
+    "answers": [
+      "Fully loaded trucks take longer to stop, or the buses loaded with passengers take less distance than empty ones.",
+      "Empty trucks take longer to stop than if loaded, but this is not the normal case for buses.",
+      "If brakes work, weight will have no effect on stopping distance."
+    ],
+    "correct_answer": "Empty trucks take longer to stop than if loaded, but this is not the normal case for buses.",
+    "why": "The lack of load in empty trucks can lead to less traction and longer stopping distances."
+  },
+  {
+    "question": "You are driving a vehicle at 55 mph on dry pavement. About how much total stopping distance will you need to bring it to a stop?",
+    "answers": [
+      "Twice the length of the vehicle.",
+      "The length of a football field.",
+      "Half the length of the football field."
+    ],
+    "correct_answer": "The length of a football field.",
+    "why": "At 55 mph, it typically takes the length of a football field to come to a complete stop."
+  },
+  {
+    "question": "When you are starting to move up a hill from a stop:",
+    "answers": [
+      "Engage the clutch and accelerate quickly.",
+      "Keep the trailer brake hand valve applied until you reach 20 mph.",
+      "Release the parking brakes as you apply engine power."
+    ],
+    "correct_answer": "Release the parking brakes as you apply engine power.",
+    "why": "Releasing the brakes while applying engine power allows a smooth and controlled start on a hill."
+  },
+  {
+    "question": "What is true about using a heater?",
+    "answers": [
+      "When driving in winter weather, you should check that the heater is working properly before starting your trip.",
+      "You must have at least one extra heater such as a mirror heater, battery pack heater, or fuel tank heater when temperature drops below freezing point.",
+      "If you feel sleepy, warming of your cab with the heater will help you stay alert."
+    ],
+    "correct_answer": "When driving in winter weather, you should check that the heater is working properly before starting your trip.",
+    "why": "Ensuring the heater works properly is essential for maintaining warmth in winter weather."
+  },
+  {
+    "question": "Why is damage to the exhaust system a danger?",
+    "answers": [
+      "Poisonous fumes can enter the cab or sleeping compartment.",
+      "You can pollute the air with the exhaust smoke.",
+      "Noise can damage the driver's ears."
+    ],
+    "correct_answer": "Poisonous fumes can enter the cab or sleeping compartment.",
+    "why": "A damaged exhaust system can leak fumes into the cab, which is hazardous to health."
+  },
+  {
+    "question": "Which of these is NOT a danger when an automatic transmission is forced into a low gear at a high speed?",
+    "answers": [
+      "A loss of steering control.",
+      "A loss of engine braking effect.",
+      "Damage to the transmission."
+    ],
+    "correct_answer": "A loss of steering control.",
+    "why": "While forced downshifting can cause engine braking issues and transmission damage, steering control is not typically affected."
+  },
+  {
+    "question": "Perception distance is the distance your vehicle travels from the time:",
+    "answers": [
+      "The eyes see a hazard to the time the brain knows that this is a hazard.",
+      "The brain tells the foot to push the brake pedal to time the foot responses.",
+      "Your eyes see a hazard to the time your foot pushes to the brake pedal."
+    ],
+    "correct_answer": "The eyes see a hazard to the time the brain knows that this is a hazard.",
+    "why": "Perception distance covers the time it takes for a driver to recognize and react to a hazard."
+  },
+  {
+    "question": "Extra care is needed to keep your vehicle centered in your lane because commercial vehicles:",
+    "answers": [
+      "Require a lot of room to change lane.",
+      "Tend to sway from time to time.",
+      "Are often wider than other vehicles."
+    ],
+    "correct_answer": "Are often wider than other vehicles.",
+    "why": "Commercial vehicles are often wider than passenger vehicles, requiring extra attention to stay in the lane."
+  },
+  {
+    "question": "You should lightly apply your brakes to flash the brake lights if:",
+    "answers": [
+      "You are about to exit the road and need to slow down.",
+      "A police car is approaching you from the other direction.",
+      "A driver tailgates your vehicle."
+    ],
+    "correct_answer": "A driver tailgates your vehicle.",
+    "why": "Flashing brake lights alerts the tailgater that you may need to slow down or stop."
+  },
+  {
+    "question": "You are driving a truck with a manual transmission. What gear will you probably have to use to take a long, steep downhill grade?",
+    "answers": [
+      "A higher gear than you would use to climb the hill.",
+      "The same gear you would use to climb the hill.",
+      "A lower gear than you would use to climb the hill."
+    ],
+    "correct_answer": "A lower gear than you would use to climb the hill.",
+    "why": "Using a lower gear helps maintain control and reduces strain on the brakes when descending steep grades."
+  },
+  {
+    "question": "Merging to the road is safest if you:",
+    "answers": [
+      "Gain speed on the shoulder and then merge.",
+      "Wait for a large enough gap in the traffic to enter the road.",
+      "Bend over into the nearest lane so the other vehicles will give you room."
+    ],
+    "correct_answer": "Wait for a large enough gap in the traffic to enter the road.",
+    "why": "Waiting for a sufficient gap ensures a safe merge onto the road."
+  },
+  {
+    "question": "Which of these is NOT something you should do if your headlights are not working properly?",
+    "answers": [
+      "Adjust headlights.",
+      "Leave on your high beams.",
+      "Clean your headlights."
+    ],
+    "correct_answer": "Leave on your high beams.",
+    "why": "Using high beams can blind oncoming traffic and is not a solution for malfunctioning headlights."
+  },
+  {
+    "question": "Which of the statements about backing a heavy vehicle is NOT true?",
+    "answers": [
+      "Because you cannot see, you should back slowly until you slightly bump into the dock.",
+      "You should use a helper and communicate with him with hand signals.",
+      "You should back and turn toward the driver's side whenever it is possible."
+    ],
+    "correct_answer": "Because you cannot see, you should back slowly until you slightly bump into the dock.",
+    "why": "Bumping into a dock while backing is dangerous and can cause damage. Always use a helper if possible."
+  },
+  {
+    "question": "The distance that you should look ahead of your vehicle while driving is about __ at low speed.",
+    "answers": [
+      "2 blocks",
+      "1/2 block",
+      "1 block"
+    ],
+    "correct_answer": "1 block.",
+    "why": "Looking ahead one block allows for ample time to react to any upcoming hazards or changes in the road."
+  },
+  {
+    "question": "Which of these is correct about emergency or evasive action?",
+    "answers": [
+      "In order to turn quickly you must have a firm grip on the steering wheel.",
+      "Stopping is always the safest thing to do in a traffic emergency.",
+      "You can stop more quickly than you can turn to miss obstacles."
+    ],
+    "correct_answer": "In order to turn quickly you must have a firm grip on the steering wheel.",
+    "why": "Maintaining a firm grip on the wheel is essential for executing evasive maneuvers quickly and safely."
+  },
+  {
+    "question": "What does emergency braking mean?",
+    "answers": [
+      "Pushing down pedal and turning sharply.",
+      "Pushing down the brake pedal as hard as you can.",
+      "Responding to a hazard by slowing the vehicle."
+    ],
+    "correct_answer": "Pushing down the brake pedal as hard as you can.",
+    "why": "Emergency braking involves applying maximum brake pressure to bring the vehicle to a stop quickly."
+  },
+  {
+    "question": "Which of these statements about cold weather driving is true?",
+    "answers": [
+      "Windshield washer antifreeze should be used.",
+      "Exhaust system leaks are less dangerous in cold weather.",
+      "An engine cannot overheat when the weather is very cold."
+    ],
+    "correct_answer": "Windshield washer antifreeze should be used.",
+    "why": "Washer fluid antifreeze is necessary in cold weather to prevent the fluid from freezing and ensure visibility."
+  },
+  {
+    "question": "When driving in cold weather your tire tread should:",
+    "answers": [
+      "Provide enough traction to push the rig over wet pavement and through snow.",
+      "Be double the depth required in normal weather.",
+      "Be checked every one-hundred miles or every 2 hours."
+    ],
+    "correct_answer": "Be checked every one-hundred miles or every 2 hours.",
+    "why": "Tires should be regularly inspected in cold weather to ensure they are providing enough traction."
+  },
+  {
+    "question": "Which of these is true about hauling hazardous materials?",
+    "answers": [
+      "Such a load should be marked with a four-inch circle, red colored labels on the containers.",
+      "Cylinders with compressed gases should be transported under covers if there is no label on them.",
+      "Containers should be marked with four-inch diamond-shaped hazard labels."
+    ],
+    "correct_answer": "Containers should be marked with four-inch diamond-shaped hazard labels.",
+    "why": "Properly marking hazardous materials is required by law to ensure safe transportation."
+  },
+  {
+    "question": "Which vehicle will have the most difficulty staying in its lane during strong wind?",
+    "answers": [
+      "A triple axle vehicle with cargo.",
+      "A tractor pulling a loaded flatbed trailer.",
+      "A double with an empty trailer."
+    ],
+    "correct_answer": "A double with an empty trailer.",
+    "why": "An empty trailer is more susceptible to being affected by strong winds."
+  },
+  {
+    "question": "Why does vehicle speed naturally increase on a downgrade?",
+    "answers": [
+      "Lack of traction.",
+      "Gravity.",
+      "The engine runs smoother."
+    ],
+    "correct_answer": "Gravity.",
+    "why": "Gravity pulls the vehicle downhill, causing it to naturally accelerate."
+  },
+  {
+    "question": "During the vehicle inspection, checking of _ will NOT prevent a fire.",
+    "answers": [
+      "Electrical system isolation.",
+      "Cargo ventilation.",
+      "Battery fluid level."
+    ],
+    "correct_answer": "Battery fluid level.",
+    "why": "While important for battery function, the fluid level doesn’t directly relate to fire prevention."
+  },
+  {
+    "question": "When is it necessary to learn how a fire extinguisher works?",
+    "answers": [
+      "Before the fire happens.",
+      "Only when you are transporting flammable materials.",
+      "Only when the fire happens."
+    ],
+    "correct_answer": "Before the fire happens.",
+    "why": "It's crucial to know how to operate a fire extinguisher before you encounter an emergency."
+  },
+  {
+    "question": "When driving at night, you should:",
+    "answers": [
+      "Adjust your speed to keep your stopping distance within your sight distance.",
+      "Dim your lights within 300 feet of an oncoming vehicle.",
+      "Look to the left side of the road when a vehicle is coming toward you."
+    ],
+    "correct_answer": "Adjust your speed to keep your stopping distance within your sight distance.",
+    "why": "At night, your speed should be adjusted to ensure you can stop safely within the range of your headlights."
+  },
+  {
+    "question": "What is the most important reason to inspect your truck or bus?",
+    "answers": [
+      "It's the law.",
+      "Safety.",
+      "To avoid being cited."
+    ],
+    "correct_answer": "Safety.",
+    "why": "The primary reason for vehicle inspections is to ensure safety and prevent accidents."
+  },
+  {
+    "question": "You are checking your steering and exhaust system in a pre-trip inspection. Which of these problems, if found, should be fixed before the vehicle is driven?",
+    "answers": [
+      "Steering wheel play of more than 10 degrees (2 inches on 20 inches steering wheel).",
+      "If a gray smoke is coming out from the exhaust pipe.",
+      "Oil on a tie rod."
+    ],
+    "correct_answer": "Steering wheel play of more than 10 degrees (2 inches on 20 inches steering wheel).",
+    "why": "Excessive steering wheel play can make the vehicle difficult to control and should be addressed immediately."
+  },
+  {
+    "question": "Convex (curved) mirrors:",
+    "answers": [
+      "Make objects appear closer than they really are.",
+      "They show a wider area than flat mirrors show.",
+      "Make objects appear larger than they really are."
+    ],
+    "correct_answer": "They show a wider area than flat mirrors show.",
+    "why": "Convex mirrors provide a wider field of view, making them useful for spotting hazards."
+  },
+  {
+    "question": "Why is it important to shift gears correctly?",
+    "answers": [
+      "To keep control of the vehicle.",
+      "To keep the engine oil flowing.",
+      "To keep the engine warm."
+    ],
+    "correct_answer": "To keep control of the vehicle.",
+    "why": "Proper shifting ensures you maintain control of the vehicle, especially in challenging driving conditions."
+  },
+  {
+    "question": "What three distances build up the total stopping distance of your truck or bus?",
+    "answers": [
+      "Respond distance, observation distance, and braking distance.",
+      "Attention distance, reaction distance, and slowing distance.",
+      "Perception distance, reaction distance, and braking distance."
+    ],
+    "correct_answer": "Perception distance, reaction distance, and braking distance.",
+    "why": "The total stopping distance is composed of the time to perceive, react, and physically stop the vehicle."
+  },
+  {
+    "question": "Which of these actions are NOT recommended for a left turn?",
+    "answers": [
+      "Start at the inside lane and swing right as you turn.",
+      "Use a right-hand turn lane if there are two turning lanes.",
+      "Start your turn in the center of the intersection."
+    ],
+    "correct_answer": "Start at the inside lane and swing right as you turn.",
+    "why": "Swinging right when making a left turn can lead to accidents and is not a safe practice."
+  },
+  {
+    "question": "When you are passing a vehicle, pedestrian, or bicycle you should assume that:",
+    "answers": [
+      "They know you are to pass.",
+      "They may be moving to your traffic lane.",
+      "They see your vehicle."
+    ],
+    "correct_answer": "They may be moving to your traffic lane.",
+    "why": "Always assume other road users may enter your lane and maintain caution while passing."
+  },
+  {
+    "question": "Which of these statements about downshifting is true?",
+    "answers": [
+      "When double-clutching, you should let the rpm's decrease while the clutch is released, and the shift lever is in neutral.",
+      "When you downshift for a curve, you should do so before you enter the curve.",
+      "When you downshift for a hill, you should do so after you start down the hill."
+    ],
+    "correct_answer": "When you downshift for a curve, you should do so before you enter the curve.",
+    "why": "Downshifting before entering a curve helps maintain better control and speed through the turn."
+  },
+  {
+    "question": "When merging:",
+    "answers": [
+      "Check your mirrors to make sure the rear of your vehicle will not hit anything.",
+      "Use your mirrors to make sure the gap in traffic is large enough for you to enter safely.",
+      "Assume other drivers will allow you to merge."
+    ],
+    "correct_answer": "Use your mirrors to make sure the gap in traffic is large enough for you to enter safely.",
+    "why": "Merging safely requires ensuring there is sufficient space to move into the traffic lane."
+  },
+  {
+    "question": "Which of these is the proper signal to change lane?",
+    "answers": [
+      "Signal before the change and move over quickly.",
+      "Signal early and change lane slowly and smoothly.",
+      "Signal after you begin change and cross over slowly."
+    ],
+    "correct_answer": "Signal early and change lane slowly and smoothly.",
+    "why": "Signaling early and changing lanes slowly ensures that other drivers have enough time to react to your movement."
+  },
+  {
+    "question": "You are driving in an area with few streetlights, if you cannot see well with your headlights, which of the actions may help?",
+    "answers": [
+      "Find another route that is better lit even if it is out of your way.",
+      "Use your high beams when legal and keep your interior lights off.",
+      "Turn your interior lights on and adjust your instrument lights."
+    ],
+    "correct_answer": "Use your high beams when legal and keep your interior lights off.",
+    "why": "Using high beams in low-light conditions improves visibility, while keeping interior lights off reduces glare."
+  },
+  {
+    "question": "Most serious skids result from:",
+    "answers": [
+      "Turning too sharply.",
+      "An uneven load.",
+      "Driving too fast for conditions."
+    ],
+    "correct_answer": "Driving too fast for conditions.",
+    "why": "Driving too fast on slippery roads or in poor weather conditions increases the likelihood of skidding."
+  },
+  {
+    "question": "What should be true about other drivers?",
+    "answers": [
+      "Mail or delivery trucks are professionals and do not pose a hazard.",
+      "Drivers who use turn signals should always be trusted to turn towards the signaled direction.",
+      "Short term or daily rental truck drivers are often not used to the limited vision, which makes these drivers a hazard."
+    ],
+    "correct_answer": "Short term or daily rental truck drivers are often not used to the limited vision, which makes these drivers a hazard.",
+    "why": "Drivers unfamiliar with large vehicles may have trouble handling them, making them more of a hazard."
+  },
+  {
+    "question": "Which of these statements about downshifting is true?",
+    "answers": [
+      "When double-clutching, you should let the rpm's decrease while the clutch is released, and the shift lever is in neutral.",
+      "When you downshift for a curve, you should do so before you enter the curve.",
+      "When you downshift for a hill, you should do so after you start down the hill."
+    ],
+    "correct_answer": "When you downshift for a curve, you should do so before you enter the curve.",
+    "why": "Downshifting before entering a curve helps maintain better control and speed through the turn."
+  },
+  {
+    "question": "What is true about bad weather and driving conditions?",
+    "answers": [
+      "When the temperature drops, the bridges freeze before the road.",
+      "Driving conditions become more dangerous when temperature rises above freezing.",
+      "The road is more slippery when the rain continues than when rain begins."
+    ],
+    "correct_answer": "When the temperature drops, the bridges freeze before the road.",
+    "why": "Bridges freeze faster than roads because they are exposed to air on all sides."
+  },
+  {
+    "question": "Which of these statements about the hazard of vehicle fire is true?",
+    "answers": [
+      "Poor cargo ventilation may cause cargo to catch on fire.",
+      "Carrying a fully charged fire extinguisher may prevent a fire.",
+      "Under inflated tires cannot cause a vehicle fire."
+    ],
+    "correct_answer": "Poor cargo ventilation may cause cargo to catch on fire.",
+    "why": "Proper ventilation of cargo is essential to prevent overheating and fire."
+  },
+  {
+    "question": "You should wear a seat belt in a moving vehicle:",
+    "answers": [
+      "Only when you are on a highway.",
+      "Only when you are driving.",
+      "All the time."
+    ],
+    "correct_answer": "All the time.",
+    "why": "Wearing a seat belt at all times reduces the risk of injury in case of an accident."
+  },
+  {
+    "question": "Which of the statements about pre-trip inspection is true?",
+    "answers": [
+      "If you need to tilt a cab, secure loose things so that they could not fall or break anything.",
+      "When you park on a street, you should walk so you face away from oncoming traffic.",
+      "Leave key in the ignition so you do not lose it when you are under the truck."
+    ],
+    "correct_answer": "If you need to tilt a cab, secure loose things so that they could not fall or break anything.",
+    "why": "Securing loose items prevents them from causing damage or injury during the inspection."
+  },
+  {
+    "question": "Can state inspectors inspect your truck or bus?",
+    "answers": [
+      "Yes and they can put you out of service if unsafe.",
+      "Yes, but cannot put you out of service.",
+      "No."
+    ],
+    "correct_answer": "Yes and they can put you out of service if unsafe.",
+    "why": "State inspectors have the authority to inspect and take vehicles out of service if they are deemed unsafe."
+  },
+  {
+    "question": "Which of these statements about cargo loading is true?",
+    "answers": [
+      "The legal maximum weight allowed by the state is considered safe for all driving conditions.",
+      "If cargo is loaded by the shipper a driver is not responsible for its load.",
+      "As state law dictates legal weight limit."
+    ],
+    "correct_answer": "As state law dictates legal weight limit.",
+    "why": "Drivers must comply with legal weight limits to ensure the safety of their vehicles and prevent accidents."
+  },
+  {
+    "question": "Which of these is not required knowledge for drivers seeking a hazardous material endorsement?",
+    "answers": [
+      "Basic chemistry.",
+      "Which products can be loaded together.",
+      "When to use the placards."
+    ],
+    "correct_answer": "Basic chemistry.",
+    "why": "While knowledge of hazardous materials is required, basic chemistry is not necessary."
+  },
+  {
+    "question": "For your safety, when setting out reflective triangles you should:",
+    "answers": [
+      "Keep them out of sight while you walk to the spots where you set them out.",
+      "Hold the triangles between yourself and oncoming traffic.",
+      "Turn on your flashers."
+    ],
+    "correct_answer": "Hold the triangles between yourself and oncoming traffic.",
+    "why": "Holding the triangles in front of you increases visibility and protects you from oncoming traffic."
+  },
+  {
+    "question": "To determine blood alcohol concentration level for a person, it is necessary to know:",
+    "answers": [
+      "How often they drink alcohol.",
+      "Their weight.",
+      "Their age."
+    ],
+    "correct_answer": "Their weight.",
+    "why": "A person’s blood alcohol concentration is influenced by their weight, among other factors."
+  },
+  {
+    "question": "Implied consent means:",
+    "answers": [
+      "You are giving your consent to inspect your vehicle for alcohol.",
+      "You are giving your consent to be tested for alcohol in your blood.",
+      "It is understood that you may drink alcohol now and then."
+    ],
+    "correct_answer": "You are giving your consent to be tested for alcohol in your blood.",
+    "why": "Implied consent laws require drivers to submit to alcohol testing if suspected of DUI."
+  },
+  {
+    "question": "The engine brake effect is greater when the engine is governed RPM and the transmission is on a gear.",
+    "answers": [
+      "Below, higher",
+      "Near, lower",
+      "Above, lower"
+    ],
+    "correct_answer": "Above, lower.",
+    "why": "The engine brake effect is strongest when the engine speed is above its governing RPM."
+  },
+  {
+    "question": "You are driving a 40-foot vehicle at 55 mph. The road is dry, and visibility is good. What is the least amount of space that you need to have in front of your vehicle?",
+    "answers": [
+      "4 seconds",
+      "5 seconds",
+      "6 seconds"
+    ],
+    "correct_answer": "6 seconds.",
+    "why": "At higher speeds, a larger following distance is needed to safely stop the vehicle."
+  },
+  {
+    "question": "What should you do if a car coming toward you at night keeps its high beams on?",
+    "answers": [
+      "Slow down and look straight ahead in your lane.",
+      "Flash your high beams quickly at the other driver.",
+      "Look to the right lane or edge markings of the road."
+    ],
+    "correct_answer": "Look to the right lane or edge markings of the road.",
+    "why": "Looking to the side of the road helps you avoid being blinded by the high beams."
+  },
+  {
+    "question": "For your safety, when setting out reflective triangles you should:",
+    "answers": [
+      "Keep them out of sight while you walk to the spots where you set them out.",
+      "Hold the triangles between yourself and oncoming traffic.",
+      "Turn on your flashers."
+    ],
+    "correct_answer": "Hold the triangles between yourself and oncoming traffic.",
+    "why": "Holding the triangles in front of you increases visibility and protects you from oncoming traffic."
+  },
+  {
+    "question": "If you must cross into the oncoming lane to make a turn, you should:",
+    "answers": [
+      "Watch for oncoming traffic.",
+      "Back to allow the oncoming traffic to pass.",
+      "Complete your turn without stopping."
+    ],
+    "correct_answer": "Watch for oncoming traffic.",
+    "why": "You must always be aware of oncoming traffic before making a turn into their lane."
+  },
+  {
+    "question": "Which of these is true about driving in a tunnel?",
+    "answers": [
+      "Emergency flashers are required by law.",
+      "Headlights are required by law.",
+      "There may be strong winds when exiting."
+    ],
+    "correct_answer": "There may be strong winds when exiting.",
+    "why": "Exiting tunnels often exposes vehicles to strong winds, so drivers should be cautious."
+  },
+  {
+    "question": "You should use your horn when:",
+    "answers": [
+      "It helps to avoid a crash.",
+      "A car is in your way.",
+      "You want to change a lane."
+    ],
+    "correct_answer": "It helps to avoid a crash.",
+    "why": "The horn should be used as a warning to prevent accidents, not for other reasons."
+  },
+  {
+    "question": "The tread depth on front steering wheel tires should be:",
+    "answers": [
+      "Not less than 4/32 inch.",
+      "More than 6/32 inch.",
+      "Not less than 2/32 inch."
+    ],
+    "correct_answer": "Not less than 4/32 inch.",
+    "why": "Adequate tread depth ensures better traction and control, especially for front steering tires."
+  },
+  {
+    "question": "Your vehicle will be put out of service if __ or more leaves in any leaf spring are missing.",
+    "answers": [
+      "1/4",
+      "1/3",
+      "1/2"
+    ],
+    "correct_answer": "1/4.",
+    "why": "Missing leaves in a leaf spring can compromise the suspension system, leading to unsafe driving conditions."
+  },
+  {
+    "question": "Brake drums (or discs) must not have cracks longer than the width of the friction area.",
+    "answers": [
+      "1/10",
+      "1/2",
+      "1/3"
+    ],
+    "correct_answer": "1/2.",
+    "why": "Cracks in brake drums reduce braking efficiency and can lead to brake failure."
+  },
+  {
+    "question": "A hazard:",
+    "answers": [
+      "Is any road condition or other road user that is a possible danger.",
+      "Does not need to be seen.",
+      "Cannot turn into an emergency."
+    ],
+    "correct_answer": "Is any road condition or other road user that is a possible danger.",
+    "why": "A hazard can be any potential danger on the road that a driver should be aware of."
+  },
+  {
+    "question": "You are driving a heavy vehicle. You must exit a highway using an off-ramp that curves downhill. You should:",
+    "answers": [
+      "Slow to the posted speed limit for the off-ramp.",
+      "Slow down to 15 mph below the posted speed limit.",
+      "Slow down to a safe speed before the turn."
+    ],
+    "correct_answer": "Slow down to a safe speed before the turn.",
+    "why": "Entering a turn at a safe speed is crucial for maintaining control, especially with heavy vehicles."
+  },
+  {
+    "question": "As the blood alcohol concentration (BAC) goes up, what happens?",
+    "answers": [
+      "The effects of alcohol decrease.",
+      "The drinker more clearly sees how alcohol is affecting him/her.",
+      "Judgment and self-control are affected."
+    ],
+    "correct_answer": "Judgment and self-control are affected.",
+    "why": "Higher BAC levels impair judgment and self-control, making driving dangerous."
+  },
+  {
+    "question": "Which of these rigs has a higher chance to off-track while making a turn?",
+    "answers": [
+      "Tractor with 45-feet trailer.",
+      "Tractor with two 27-feet trailers.",
+      "53-feet straight truck."
+    ],
+    "correct_answer": "Tractor with two 27-feet trailers.",
+    "why": "Longer rigs or those with multiple trailers have a higher chance of off-tracking when turning."
+  },
+  {
+    "question": "How much space in front of you is needed while driving on a highway?",
+    "answers": [
+      "1 second for each 20 feet of vehicle length.",
+      "1 second for each 30 feet of vehicle length.",
+      "1 second for each 10 feet of vehicle length."
+    ],
+    "correct_answer": "1 second for each 10 feet of vehicle length.",
+    "why": "This rule of thumb helps ensure adequate stopping distance when driving."
+  },
+  {
+    "question": "Medicine used to treat the common cold:",
+    "answers": [
+      "Often makes you sleepy and should not be used while driving.",
+      "Should only be used when driving during the daytime.",
+      "May still be used while driving if you use half of a regular dose."
+    ],
+    "correct_answer": "Often makes you sleepy and should not be used while driving.",
+    "why": "Cold medicines can cause drowsiness, which impairs driving ability."
+  },
+  {
+    "question": "Which of these should you NOT do in an emergency situation?",
+    "answers": [
+      "You should brake in a way that keeps your vehicle in a straight line.",
+      "It is not important how you brake in an emergency situation.",
+      "You should avoid using the brakes until your speed is down to 20 mph."
+    ],
+    "correct_answer": "It is not important how you brake in an emergency situation.",
+    "why": "Braking improperly in an emergency can cause loss of control; it's crucial to maintain straight braking."
+  },
+  {
+    "question": "The primary cause of fatal crashes is:",
+    "answers": [
+      "Driving at night.",
+      "Driving while eating.",
+      "Driving too fast."
+    ],
+    "correct_answer": "Driving too fast.",
+    "why": "Excessive speed reduces reaction time and increases the severity of crashes."
+  },
+  {
+    "question": "A car suddenly cuts in front of you, creating a hazard. Which of these actions should you NOT take?",
+    "answers": [
+      "Honk your horn and stay close behind the car.",
+      "Slow down to prevent a crash.",
+      "Signal and change lanes to avoid the hazard."
+    ],
+    "correct_answer": "Honk your horn and stay close behind the car.",
+    "why": "Staying close behind the car increases the risk of a crash."
+  },
+  {
+    "question": "What should you do when you see a hazard in the roadway ahead of you?",
+    "answers": [
+      "Use your four-way flashers or brake lights to warn others.",
+      "Steer around it and get back in your lane.",
+      "Stop quickly and pull to the side of the road."
+    ],
+    "correct_answer": "Use your four-way flashers or brake lights to warn others.",
+    "why": "Warning others about a hazard helps prevent accidents."
+  },
+  {
+    "question": "If your brakes fail on a downgrade, you must first:",
+    "answers": [
+      "Hit some object in order to stop your vehicle.",
+      "Look outside your vehicle for another means of slowing you.",
+      "Find an escape ramp in order to exit the roadway."
+    ],
+    "correct_answer": "Find an escape ramp in order to exit the roadway.",
+    "why": "Escape ramps are designed for safely stopping vehicles with brake failure."
+  },
+  {
+    "question": "You should always turn on your emergency four-way flashers when you:",
+    "answers": [
+      "Drive through the mountains.",
+      "Park on the side of the road.",
+      "Cross railway tracks."
+    ],
+    "correct_answer": "Park on the side of the road.",
+    "why": "Four-way flashers alert other drivers that your vehicle is stationary and potentially a hazard."
+  },
+  {
+    "question": "Should brake adjustment be checked often?",
+    "answers": [
+      "No, because the other brakes will make up for the air brakes when they are out of adjustment.",
+      "Yes, because the brakes can get out of adjustment when they are used a lot.",
+      "It depends on how the brakes are."
+    ],
+    "correct_answer": "Yes, because the brakes can get out of adjustment when they are used a lot.",
+    "why": "Frequent use can cause brakes to get out of adjustment, impacting safety."
+  },
+  {
+    "question": "Which of these is true about mirror adjusting?",
+    "answers": [
+      "The mirrors could be adjusted correctly even if the trailer is not straight.",
+      "You should adjust your mirrors before starting the trip.",
+      "You should adjust your mirrors while you are driving."
+    ],
+    "correct_answer": "You should adjust your mirrors before starting the trip.",
+    "why": "Mirrors should be set correctly before driving to ensure visibility and safety."
+  },
+  {
+    "question": "Which of these is a good thing to remember about using mirrors?",
+    "answers": [
+      "There are blind spots that your mirror cannot show.",
+      "You should look at a mirror for several seconds at a time.",
+      "Convex mirrors make things look larger and closer than they really are."
+    ],
+    "correct_answer": "There are blind spots that your mirror cannot show.",
+    "why": "Blind spots remain even with mirrors, so drivers should be aware of them."
+  },
+  {
+    "question": "When you are driving on a snow-packed road, you should reduce your speed by:",
+    "answers": [
+      "1/2",
+      "1/4",
+      "1/3"
+    ],
+    "correct_answer": "1/2",
+    "why": "Reducing speed by half helps prevent skidding and losing control on snow-covered roads."
+  },
+  {
+    "question": "The bridge formula:",
+    "answers": [
+      "Permits less maximum axle weight for the axles that are far apart.",
+      "Permits less maximum axle weight for axles that are closer together.",
+      "Permits the same maximum axle weight for any axle."
+    ],
+    "correct_answer": "Permits less maximum axle weight for the axles that are far apart.",
+    "why": "The bridge formula limits axle weight depending on the distance between axles to protect roads and bridges."
+  },
+  {
+    "question": "You should use your mirror to check:",
+    "answers": [
+      "Blind spots.",
+      "If your running lights are working.",
+      "Where the rear of your vehicle is while you make turns."
+    ],
+    "correct_answer": "Where the rear of your vehicle is while you make turns.",
+    "why": "Mirrors help ensure that the rear of the vehicle follows the intended path during turns."
+  },
+  {
+    "question": "Which of these is true about the use of drugs while driving?",
+    "answers": [
+      "Use of amphetamine is allowed if you are using this drug to stay alert.",
+      "Prescription drugs are allowed if a doctor says they will not affect driving ability.",
+      "Prescription or non-prescription drugs are allowed at any time of driving."
+    ],
+    "correct_answer": "Prescription drugs are allowed if a doctor says they will not affect driving ability.",
+    "why": "Only prescription drugs deemed safe by a doctor should be taken before driving."
+  },
+  {
+    "question": "When are helpers needed to back your vehicle?",
+    "answers": [
+      "Only if you need to park.",
+      "Only if you have a trailer on your vehicle.",
+      "Whenever you have to back."
+    ],
+    "correct_answer": "Whenever you have to back.",
+    "why": "Helpers are recommended to prevent accidents when backing a vehicle, especially large vehicles."
+  },
+  {
+    "question": "You are driving a truck with a manual transmission. What gear will you probably have to use to take a long, steep downhill grade?",
+    "answers": [
+      "A higher gear than you would use to climb the hill.",
+      "The same gear you would use to climb the hill.",
+      "A lower gear than you would use to climb the hill."
+    ],
+    "correct_answer": "A lower gear than you would use to climb the hill.",
+    "why": "Using a lower gear helps control speed and prevents brake overuse on steep downgrades."
+  },
+  {
+    "question": "Hydroplaning:",
+    "answers": [
+      "Is more likely if tire pressure is low.",
+      "Only occurs when there is a lot of water.",
+      "Cannot occur when driving through a puddle."
+    ],
+    "correct_answer": "Is more likely if tire pressure is low.",
+    "why": "Low tire pressure increases the risk of hydroplaning, which can cause loss of control."
+  },
+  {
+    "question": "To avoid an accident you moved to the shoulder. Forced to return to the road, you should:",
+    "answers": [
+      "Using mirrors and turn signals, return when the road is clear.",
+      "Using mirrors and turn signals, turn sharply to get back to the road.",
+      "Ride on shoulder to the next exit and then re-enter the road."
+    ],
+    "correct_answer": "Using mirrors and turn signals, return when the road is clear.",
+    "why": "Safe re-entry to the road requires checking for clear traffic using mirrors and signals."
+  },
+  {
+    "question": "Which of these would NOT help if the windshield is covered with ice?",
+    "answers": [
+      "Windshield defroster.",
+      "Windshield scraper.",
+      "Dust brush."
+    ],
+    "correct_answer": "Dust brush.",
+    "why": "A dust brush is ineffective for removing ice; tools like a scraper or defroster should be used."
+  },
+  {
+    "question": "Heavy vehicles often move slower than others. Which of these is NOT a good rule to follow while driving a heavy vehicle?",
+    "answers": [
+      "Signal other drivers when it is safe to pass you.",
+      "Stay on the right side of the road.",
+      "Use four-way flashers if it is legal in your state."
+    ],
+    "correct_answer": "Signal other drivers when it is safe to pass you.",
+    "why": "Drivers should focus on their own driving and not direct the behavior of other drivers."
+  },
+  {
+    "question": "Tourists may be hazardous because?",
+    "answers": [
+      "Police do not fine them.",
+      "They drive rented cars.",
+      "They may move slowly, unexpectedly change lanes or stop."
+    ],
+    "correct_answer": "They may move slowly, unexpectedly change lanes or stop.",
+    "why": "Tourists unfamiliar with the roads may act unpredictably, creating hazards for others."
+  },
+  {
+    "question": "What keeps an engine cool in hot weather driving?",
+    "answers": [
+      "Air conditioner use.",
+      "High speed driving in order to put more air to the radiator.",
+      "Enough engine oil level."
+    ],
+    "correct_answer": "Enough engine oil level.",
+    "why": "Maintaining the correct engine oil level helps dissipate heat and keeps the engine cool."
+  },
+  {
+    "question": "If you are being tailgated, you should:",
+    "answers": [
+      "Flash your brake lights.",
+      "Signal the tailgater when it is safe to pass you.",
+      "Increase your following distance."
+    ],
+    "correct_answer": "Increase your following distance.",
+    "why": "Increasing your following distance gives you more time to react and reduces the chance of a rear-end collision."
+  },
+  {
+    "question": "Cargo inspection:",
+    "answers": [
+      "Are needed only if hazardous materials are being hauled.",
+      "Is most often not the responsibility of the driver.",
+      "Should be performed after every break you take while driving."
+    ],
+    "correct_answer": "Should be performed after every break you take while driving.",
+    "why": "Regular cargo inspections help ensure safety and compliance with load limits."
+  },
+  {
+    "question": "A vehicle is loaded with very little weight on the drive axle. What may happen?",
+    "answers": [
+      "Damage to drive axle tires.",
+      "Better handling.",
+      "Poor traction."
+    ],
+    "correct_answer": "Poor traction.",
+    "why": "Insufficient weight on the drive axle reduces traction, making it harder to control the vehicle."
+  },
+  {
+    "question": "If your vehicle catches fire while you are driving, you should:",
+    "answers": [
+      "Park where a building or trees shelter your vehicle from the wind.",
+      "Increase your speed to put out the flames.",
+      "Park in an open area."
+    ],
+    "correct_answer": "Park in an open area.",
+    "why": "Parking in an open area reduces the risk of spreading the fire to other objects or buildings."
+  },
+  {
+    "question": "Which of these statements about marking a stopped vehicle is true?",
+    "answers": [
+      "You must put out your emergency warning devices within 5 minutes.",
+      "If a hill or curve keeps drivers behind you from seeing the vehicle within 500 feet, the reflective triangle should be moved back to give adequate warning.",
+      "The vehicles tail lights should be kept on to warn other drivers."
+    ],
+    "correct_answer": "If a hill or curve keeps drivers behind you from seeing the vehicle within 500 feet, the reflective triangle should be moved back to give adequate warning.",
+    "why": "This ensures enough time for other drivers to react to the stopped vehicle."
+  },
+  {
+    "question": "Containerized loads:",
+    "answers": [
+      "Should be supplied with their own tie-down devices or locks.",
+      "Are not required to be inspected by a driver.",
+      "Generally are used when freight is carried part way by rail or ship."
+    ],
+    "correct_answer": "Generally are used when freight is carried part way by rail or ship.",
+    "why": "Containerized loads are commonly used in intermodal transport involving multiple modes of transportation."
+  },
+  {
+    "question": "If you are being tailgated, you should:",
+    "answers": [
+      "Flash your brake lights.",
+      "Signal the tailgater when it is safe to pass you.",
+      "Increase your following distance."
+    ],
+    "correct_answer": "Increase your following distance.",
+    "why": "Increasing following distance reduces the chances of a rear-end collision."
+  },
+  {
+    "question": "If a coolant container is part of a pressurized system, which of these is true?",
+    "answers": [
+      "You never need to check the antifreeze in such a system.",
+      "The cap can be safely removed and coolant added even when the engine is at operating temperature.",
+      "You can check the coolant level while the engine is hot."
+    ],
+    "correct_answer": "You can check the coolant level while the engine is hot.",
+    "why": "Some pressurized systems allow the coolant level to be checked safely while the engine is running."
+  },
+  {
+    "question": "When should you test your parking brakes?",
+    "answers": [
+      "When backing.",
+      "While the vehicle is parked.",
+      "While moving at a very low speed."
+    ],
+    "correct_answer": "While moving at a very low speed.",
+    "why": "Parking brakes should be tested in motion to ensure they function correctly."
+  },
+  {
+    "question": "When going down a long steep downgrade, you should always:",
+    "answers": [
+      "Use the braking effect of the engine.",
+      "Use controlled braking.",
+      "Brake when you exceed safe speed by 5 mph."
+    ],
+    "correct_answer": "Use the braking effect of the engine.",
+    "why": "Using engine braking reduces the risk of brake fade or overheating on long downgrades."
+  },
+  {
+    "question": "Controlled braking is:",
+    "answers": [
+      "Squeezing the brakes firmly without locking them up.",
+      "Pressing brakes until wheel lock-up occurs, releasing and then reapplying.",
+      "Slamming on the brakes hard and making wheels lock up."
+    ],
+    "correct_answer": "Squeezing the brakes firmly without locking them up.",
+    "why": "Controlled braking prevents wheel lock-up and allows the driver to maintain control."
+  },
+  {
+    "question": "Which of these is not a brake check you normally do during your walk-around inspection?",
+    "answers": [
+      "Condition of hoses.",
+      "Hydraulic brake cylinder leaks.",
+      "Brake adjustment."
+    ],
+    "correct_answer": "Hydraulic brake cylinder leaks.",
+    "why": "This is not part of a regular walk-around inspection, but it should be checked regularly."
+  },
+  {
+    "question": "One can recognize hazardous materials by looking on the container:",
+    "answers": [
+      "Labels",
+      "Covers",
+      "Shapes"
+    ],
+    "correct_answer": "Labels",
+    "why": "Labels indicate the type of hazardous material being transported."
+  },
+  {
+    "question": "Which of these is not a type of retarder?",
+    "answers": [
+      "Robotic",
+      "Electric",
+      "Hydraulic"
+    ],
+    "correct_answer": "Robotic",
+    "why": "Robotic is not a recognized type of retarder; retarders are typically electric or hydraulic."
+  },
+  {
+    "question": "A key principle to remember about loading cargo is to keep the load:",
+    "answers": [
+      "To the rear.",
+      "To the front.",
+      "Balanced in the cargo area."
+    ],
+    "correct_answer": "Balanced in the cargo area.",
+    "why": "A balanced load prevents shifts that could destabilize the vehicle."
+  },
+  {
+    "question": "The total weight of a powered unit, the trailer, and the cargo is called?",
+    "answers": [
+      "Gross vehicle weight.",
+      "Gross combination weight.",
+      "Gross axle weight."
+    ],
+    "correct_answer": "Gross combination weight.",
+    "why": "Gross combination weight refers to the total weight of the vehicle and its cargo."
+  },
+  {
+    "question": "Freeway exits can be dangerous for commercial vehicles. At what speed should you enter the exit?",
+    "answers": [
+      "Whatever speed you feel comfortable with.",
+      "Below the posted speed limit.",
+      "At the posted speed."
+    ],
+    "correct_answer": "Below the posted speed limit.",
+    "why": "Commercial vehicles should enter exits at a speed lower than the posted limit to avoid tipping over."
+  },
+  {
+    "question": "Which of these statements is true?",
+    "answers": [
+      "Most people are more alert at night than during the day.",
+      "Most hazards are easier to see at night than during the day.",
+      "Many heavy vehicle accidents occur between midnight and 6 a.m."
+    ],
+    "correct_answer": "Many heavy vehicle accidents occur between midnight and 6 a.m.",
+    "why": "Fatigue is common late at night, contributing to a higher risk of accidents."
+  },
+  {
+    "question": "Space around your vehicle is most important to manage:",
+    "answers": [
+      "In front of your vehicle.",
+      "To the side of your vehicle.",
+      "Behind your vehicle."
+    ],
+    "correct_answer": "In front of your vehicle.",
+    "why": "The space in front is most critical because it allows for safe stopping and hazard avoidance."
+  },
+  {
+    "question": "Your brakes can get wet when driving through heavy rain. What can happen if the brakes are applied?",
+    "answers": [
+      "Hydroplaning.",
+      "Trailer jack-knife.",
+      "Extensive brake wear."
+    ],
+    "correct_answer": "Trailer jack-knife.",
+    "why": "Wet brakes can cause uneven braking, potentially leading to jack-knifing of the trailer."
+  },
+  {
+    "question": "Which of the statements about an inspection of the suspension components is true?",
+    "answers": [
+      "Axles' mounts should be checked at each point where they are secured on the vehicle frame and axles.",
+      "Distorted springs are safe as long as they are not broken.",
+      "Suspension components should be checked at all axles except for the following unit."
+    ],
+    "correct_answer": "Axles' mounts should be checked at each point where they are secured on the vehicle frame and axles.",
+    "why": "All axle mounts need to be secure for safe operation of the suspension system."
+  },
+  {
+    "question": "You are checking your brakes and suspension system for a pre-trip inspection. Which of these statements is true?",
+    "answers": [
+      "Brake shoes should not have oil, grease, or brake fluid on them.",
+      "Just one missing leaf in a leaf spring is not dangerous.",
+      "Spring hangers that are cracked but still tight are not dangerous."
+    ],
+    "correct_answer": "Brake shoes should not have oil, grease, or brake fluid on them.",
+    "why": "Any contamination on brake shoes reduces braking effectiveness and should be addressed."
+  },
+  {
+    "question": "You do not have hazardous materials endorsement in your commercial driver license. You can drive a vehicle hauling hazardous materials when:",
+    "answers": [
+      "The person who has Hazmat endorsement drives with you.",
+      "The vehicle does not require placards.",
+      "The load of the hazardous materials is 26 pounds or less."
+    ],
+    "correct_answer": "The vehicle does not require placards.",
+    "why": "Vehicles that do not require placards can be driven without a Hazmat endorsement."
+  },
+  {
+    "question": "If you are convicted of driving a commercial vehicle under the influence of alcohol or drugs, you will lose your CDL for:",
+    "answers": [
+      "1 year",
+      "6 months",
+      "2 years"
+    ],
+    "correct_answer": "1 year",
+    "why": "A conviction for driving under the influence results in a 1-year suspension of a CDL in most cases."
+  },
+  {
+    "question": "Which of these is true about hazardous materials:",
+    "answers": [
+      "Any truck carrying any amount of hazardous materials must have placards.",
+      "Any public road allows trucks carrying hazardous materials if they are loaded correctly.",
+      "All hazardous materials present health and safety danger."
+    ],
+    "correct_answer": "All hazardous materials present health and safety danger.",
+    "why": "Hazardous materials pose risks to health and safety regardless of how they are transported."
+  },
+  {
+    "question": "You will be placed out of service for 24 hours if your blood alcohol concentration (BAC) is at least:",
+    "answers": [
+      "Any detectable amount.",
+      "0.02.",
+      "0.04."
+    ],
+    "correct_answer": "0.04.",
+    "why": "A BAC of 0.04 or higher in commercial drivers typically results in being placed out of service for 24 hours."
+  },
+  {
+    "question": "What does emergency braking mean?",
+    "answers": [
+      "Using the vehicle emergency brakes.",
+      "Pushing down the brake pedal as hard as you can.",
+      "Responding to a hazard by slowing the vehicle."
+    ],
+    "correct_answer": "Responding to a hazard by slowing the vehicle.",
+    "why": "Emergency braking is a quick response to slow the vehicle in the event of an emergency."
+  },
+  {
+    "question": "You should try to park so that:",
+    "answers": [
+      "Your vehicle is parked by trees.",
+      "You can pull forward when you leave.",
+      "Park along curb next to another vehicle."
+    ],
+    "correct_answer": "You can pull forward when you leave.",
+    "why": "Pulling forward allows for easier and safer departure from a parking space."
+  },
+  {
+    "question": "How far should a driver look ahead of the vehicle while driving?",
+    "answers": [
+      "5-8 seconds.",
+      "18-21 seconds.",
+      "12-15 seconds."
+    ],
+    "correct_answer": "12-15 seconds.",
+    "why": "Looking 12-15 seconds ahead allows for sufficient time to react to potential hazards."
+  },
+  {
+    "question": "Gross Vehicle Weight (GVW) means the following:",
+    "answers": [
+      "Total weight of a single vehicle.",
+      "Total weight of a single vehicle plus its load.",
+      "Both."
+    ],
+    "correct_answer": "Total weight of a single vehicle plus its load.",
+    "why": "Gross Vehicle Weight includes both the vehicle's weight and its load."
+  },
+  {
+    "question": "After starting the engine:",
+    "answers": [
+      "The coolant temperature gauge should begin a gradual rise to normal.",
+      "The engine temperature gauge will take 3-5 minutes to rise to normal.",
+      "The oil pressure gauge should take 3-5 minutes to rise to normal."
+    ],
+    "correct_answer": "The coolant temperature gauge should begin a gradual rise to normal.",
+    "why": "The coolant temperature gauge rising to normal indicates the engine is warming up properly."
+  },
+  {
+    "question": "Whenever you double your speed, your vehicle has about how many times of destructive power if it crashes?",
+    "answers": [
+      "4 times",
+      "3 times",
+      "2 times"
+    ],
+    "correct_answer": "4 times",
+    "why": "Doubling your speed increases the destructive force of a crash by four times."
+  },
+  {
+    "question": "If you do not have a CB-radio, what procedure should you follow on an accident scene?",
+    "answers": [
+      "Care for the injured person.",
+      "Protect the area.",
+      "Notify the authorities."
+    ],
+    "correct_answer": "Protect the area.",
+    "why": "Protecting the accident area helps prevent further accidents and keeps the scene safe."
+  },
+  {
+    "question": "If you have a heavy load that is slowing you down on an upgrade you should:",
+    "answers": [
+      "Shift to lower gear.",
+      "Drive on the shoulder, so others can pass your vehicle.",
+      "Exit the road until traffic is lighter."
+    ],
+    "correct_answer": "Shift to lower gear.",
+    "why": "Shifting to a lower gear helps maintain control and power when going uphill with a heavy load."
+  },
+  {
+    "question": "You should signal continuously while turning because:",
+    "answers": [
+      "You need both hands on the wheel to turn safely.",
+      "Most vehicles have self-canceling signals.",
+      "It is illegal to turn off your signal before completing the turn."
+    ],
+    "correct_answer": "You need both hands on the wheel to turn safely.",
+    "why": "Continuous signaling allows you to keep both hands on the wheel for better control."
+  },
+  {
+    "question": "Which of these should be tested while the vehicle is stopped?",
+    "answers": [
+      "Service brake.",
+      "Hydraulic brakes.",
+      "Parking brake."
+    ],
+    "correct_answer": "Parking brake.",
+    "why": "Parking brakes should be tested while the vehicle is stationary to ensure they hold the vehicle in place."
+  },
+  {
+    "question": "Which of these statements about alcohol is NOT true?",
+    "answers": [
+      "Alcohol goes directly from the stomach to the bloodstream.",
+      "BAC is determined by how fast you drink, how much you drink and how much you eat.",
+      "A drinker can control how fast his or her body absorbs alcohol."
+    ],
+    "correct_answer": "A drinker can control how fast his or her body absorbs alcohol.",
+    "why": "The body absorbs alcohol at a rate that cannot be controlled by the drinker."
+  },
+  {
+    "question": "Overweight, oversized loads:",
+    "answers": [
+      "Require special permits.",
+      "Must be accompanied by the police.",
+      "Can only be driven at daylight."
+    ],
+    "correct_answer": "Require special permits.",
+    "why": "Overweight and oversized loads require special permits to ensure safe transport."
+  },
+  {
+    "question": "Which of these statements about braking is true?",
+    "answers": [
+      "Heat increases brake responsiveness as the vehicle moves quickly.",
+      "The faster or heavier the vehicle is, the more heat the brakes have to absorb to stop it.",
+      "Brake fade is not caused by heat."
+    ],
+    "correct_answer": "The faster or heavier the vehicle is, the more heat the brakes have to absorb to stop it.",
+    "why": "Heavier or faster vehicles generate more heat when braking, increasing wear and risk of brake fade."
+  },
+  {
+    "question": "Which of these pieces of emergency equipment should always be carried in your vehicle?",
+    "answers": [
+      "Tire repair kit.",
+      "Warning devices for parking vehicle.",
+      "First aid kit."
+    ],
+    "correct_answer": "Warning devices for parking vehicle.",
+    "why": "Warning devices are required to alert other drivers in case of a breakdown or emergency."
+  },
+  {
+    "question": "If you have to make a vehicle inspection report, you must sign it:",
+    "answers": [
+      "When any defects are noted whether they are certified to be repaired or not.",
+      "Only when defects are noted that are certified to be repaired.",
+      "Only when defects are noted that are certified to not need repair."
+    ],
+    "correct_answer": "Only when defects are noted that are certified to be repaired.",
+    "why": "The driver should sign the report when defects are noted and confirmed to be repaired to ensure vehicle safety."
+  },
+  {
+    "question": "You must keep the papers about hauling hazardous materials:",
+    "answers": [
+      "Under the driver seat.",
+      "In the pouch of the driver door.",
+      "In the glove compartment, which must be working."
+    ],
+    "correct_answer": "In the pouch of the driver door.",
+    "why": "Papers regarding hazardous materials should be easily accessible for authorities."
+  },
+  {
+    "question": "How do you correct a drive-wheel acceleration skid?",
+    "answers": [
+      "Downshift.",
+      "Stop accelerating.",
+      "Apply more power to the wheels."
+    ],
+    "correct_answer": "Stop accelerating.",
+    "why": "Stopping acceleration helps regain traction when a drive-wheel skid occurs."
+  },
+  {
+    "question": "Which of these statements about rear drive wheel braking skid is true?",
+    "answers": [
+      "Locked wheels usually have more traction than rolling wheels.",
+      "Front wheels slide sideways to try to catch up with the rear wheels.",
+      "On a vehicle with a trailer, the trailer can push the towing vehicle sideways."
+    ],
+    "correct_answer": "On a vehicle with a trailer, the trailer can push the towing vehicle sideways.",
+    "why": "In a rear wheel braking skid, the trailer can push the towing vehicle out of alignment, causing a jackknife."
+  },
+  {
+    "question": "The best drivers are those who watch and prepare for hazards. This is called:",
+    "answers": [
+      "Objective driving.",
+      "Defensive driving.",
+      "Offensive driving."
+    ],
+    "correct_answer": "Defensive driving.",
+    "why": "Defensive driving involves being aware of potential hazards and preparing for them."
+  },
+  {
+    "question": "What is the term for a commercial vehicle's habit of swinging wide on turns?",
+    "answers": [
+      "Off-tracking.",
+      "Side winding.",
+      "Wide rounding."
+    ],
+    "correct_answer": "Off-tracking.",
+    "why": "Off-tracking is when the rear wheels follow a different path than the front wheels during a turn."
+  },
+  {
+    "question": "You may hang up on a railroad track if:",
+    "answers": [
+      "You try to shift gear when crossing.",
+      "The tracks have a steep approach.",
+      "If you cross the double tracks too slowly."
+    ],
+    "correct_answer": "The tracks have a steep approach.",
+    "why": "A steep approach can cause the bottom of the vehicle to get stuck on the tracks."
+  },
+  {
+    "question": "Which of these is true about radiator shutters and the winter-front during winter driving?",
+    "answers": [
+      "Ice should be removed from the radiator shutter.",
+      "The engine may overheat if the winter-front is left open.",
+      "The winter-front should be closed tightly."
+    ],
+    "correct_answer": "The engine may overheat if the winter-front is left open.",
+    "why": "The engine may overheat in winter if cold air is allowed to pass through an open winter-front."
+  },
+  {
+    "question": "If you have a road emergency and must park on the shoulder, how soon should you put out your triangles?",
+    "answers": [
+      "Within 15 minutes.",
+      "Within 10 minutes.",
+      "Within 20 minutes."
+    ],
+    "correct_answer": "Within 10 minutes.",
+    "why": "Safety regulations require warning triangles to be set up promptly within 10 minutes of stopping on the shoulder."
+  },
+  {
+    "question": "Which of these do not provide extra gears on some trucks?",
+    "answers": [
+      "Automatic transmission.",
+      "Auxiliary transmission.",
+      "Multi-speed rear axles."
+    ],
+    "correct_answer": "Automatic transmission.",
+    "why": "Automatic transmissions do not provide the additional range of gears that auxiliary transmissions and multi-speed rear axles do."
+  },
+  {
+    "question": "Which of these is true about tire pressure?",
+    "answers": [
+      "Air pressure in tires increases with the temperature.",
+      "The pressure is not to be checked during the trip if it passed the pre-trip inspection.",
+      "You do not have to check the hot tires, because the tire is not blown out."
+    ],
+    "correct_answer": "Air pressure in tires increases with the temperature.",
+    "why": "Tire pressure naturally increases as tires heat up during driving, especially in hot weather."
+  },
+  {
+    "question": "What should you do if you are unsure whether you have enough overhead clearance?",
+    "answers": [
+      "Slow down slightly and try to drive under the object.",
+      "Find another route that will not require driving under the object.",
+      "Estimate the height of the overhead object if it is not posted."
+    ],
+    "correct_answer": "Find another route that will not require driving under the object.",
+    "why": "It's safest to avoid the risk of getting stuck or damaging the vehicle if the clearance is uncertain."
+  },
+  {
+    "question": "What should you do when your vehicle hydroplanes?",
+    "answers": [
+      "Start stab braking.",
+      "Accelerate slightly.",
+      "Release accelerator."
+    ],
+    "correct_answer": "Release accelerator.",
+    "why": "Releasing the accelerator helps the vehicle regain contact with the road during hydroplaning."
+  },
+  {
+    "question": "Which of these is true about tires and hot weather?",
+    "answers": [
+      "You should inspect your tires every two hours or every 100 miles when driving in very hot weather.",
+      "If a tire is too hot to touch, you should drive on it to cool it off.",
+      "A small amount of air could be let out, but air pressure remains stable."
+    ],
+    "correct_answer": "You should inspect your tires every two hours or every 100 miles when driving in very hot weather.",
+    "why": "Frequent tire inspections in hot weather help prevent blowouts and overheating."
+  },
+  {
+    "question": "Gross Vehicle Weight Rating (GVWR) means the following:",
+    "answers": [
+      "Maximum GVW specified by manufacturer for a single vehicle.",
+      "The value specified by the manufacturer as the loaded weight of a single vehicle.",
+      "Maximum GVW specified by the manufacturer."
+    ],
+    "correct_answer": "Maximum GVW specified by manufacturer for a single vehicle.",
+    "why": "GVWR represents the maximum allowable weight of a vehicle as specified by the manufacturer."
+  },
+  {
+    "question": "The purpose of the retarders is to:",
+    "answers": [
+      "Help slow the vehicle while driving and reduce brake wear.",
+      "Help prevent skids.",
+      "Apply extra braking power to the non-drive axles."
+    ],
+    "correct_answer": "Help slow the vehicle while driving and reduce brake wear.",
+    "why": "Retarders assist in slowing down the vehicle, reducing the need for heavy brake use and prolonging brake life."
+  },
+  {
+    "question": "The value specified by the manufacturer as the loaded weight of a combination vehicle is?",
+    "answers": [
+      "Gross Vehicle Weight Rating",
+      "Gross Combination Weight",
+      "Gross Combination Weight Rating"
+    ],
+    "correct_answer": "Gross Combination Weight Rating",
+    "why": "GCWR represents the maximum weight of a vehicle and its trailer as specified by the manufacturer."
+  },
+  {
+    "question": "To avoid an accident you moved to the shoulder. The shoulder is clear, you should:",
+    "answers": [
+      "Ride on shoulder to the next exit and then re-enter the road.",
+      "Using mirrors and turn signals, turn sharply to get back to the road.",
+      "Stay on shoulder until your vehicle has come to a stop."
+    ],
+    "correct_answer": "Stay on shoulder until your vehicle has come to a stop.",
+    "why": "It is safer to stop and assess the situation before re-entering the road."
+  },
+  {
+    "question": "You are checking your wheels and rims for a pre-trip inspection. Which of these statements is true?",
+    "answers": [
+      "Mismatched lock rings can be used on the same vehicle.",
+      "Rust around wheel nuts may mean that they are loose.",
+      "A vehicle can be safely driven with one missing lug nut on a wheel."
+    ],
+    "correct_answer": "Rust around wheel nuts may mean that they are loose.",
+    "why": "Rust around wheel nuts is a sign they might be loose and need to be checked."
+  },
+  {
+    "question": "Controlled braking:",
+    "answers": [
+      "Involves locking the wheels for a short period of time.",
+      "Is used to keep a vehicle in a straight line when braking.",
+      "Can be used when you are turning sharply."
+    ],
+    "correct_answer": "Is used to keep a vehicle in a straight line when braking.",
+    "why": "Controlled braking prevents skidding and helps maintain control of the vehicle."
+  },
+  {
+    "question": "Which of these is a good thing to do when steering to avoid a crash?",
+    "answers": [
+      "Apply the brakes while turning.",
+      "Don't turn any more than needed to clear what is in your way.",
+      "Steer with one hand so that you can turn the wheel more quickly."
+    ],
+    "correct_answer": "Don't turn any more than needed to clear what is in your way.",
+    "why": "Oversteering can lead to loss of control."
+  },
+  {
+    "question": "You should stop driving:",
+    "answers": [
+      "Whenever you become sleepy.",
+      "After 5 hours.",
+      "After 9 hours."
+    ],
+    "correct_answer": "Whenever you become sleepy.",
+    "why": "Driving while sleepy increases the risk of accidents."
+  },
+  {
+    "question": "Which of these is NOT a good rule to follow when caring for injured persons at an accident scene?",
+    "answers": [
+      "Keep injured persons cool.",
+      "If a qualified person is helping them, stay out of the way unless asked to assist.",
+      "Move severely injured person if there is danger due to fire or passing traffic."
+    ],
+    "correct_answer": "Move severely injured person if there is danger due to fire or passing traffic.",
+    "why": "Moving injured persons can worsen their condition unless there is immediate danger."
+  },
+  {
+    "question": "You should avoid driving through deep puddles or flowing water. But if you must, which of these steps can help to keep your brakes working?",
+    "answers": [
+      "Turning on your brake heater.",
+      "Applying hard pressure on both the brake pedal and accelerator after coming out of the water.",
+      "Gently putting on the brakes while driving through the water."
+    ],
+    "correct_answer": "Gently putting on the brakes while driving through the water.",
+    "why": "This helps dry out the brakes and maintain their effectiveness."
+  },
+  {
+    "question": "Which of these statements about drugs is true?",
+    "answers": [
+      "A driver can use any prescription drug while driving.",
+      "Use of drugs can lead to an accident and/or arrest.",
+      "Amphetamines can be used to help the driver stay alert."
+    ],
+    "correct_answer": "Use of drugs can lead to an accident and/or arrest.",
+    "why": "Drugs impair judgment and increase the likelihood of accidents."
+  },
+  {
+    "question": "Which of these is a good thing to remember when crossing or entering traffic with a heavy vehicle?",
+    "answers": [
+      "The best way to cross the traffic is to pull the vehicle partway across the road and block one lane while waiting for the other to clear.",
+      "Heavy vehicles need larger gaps in traffic than cars.",
+      "Because heavy vehicles are easy to see, you can count on other drivers to move out of your way or slow down for you."
+    ],
+    "correct_answer": "Heavy vehicles need larger gaps in traffic than cars.",
+    "why": "Heavy vehicles require more time and space to safely merge into traffic."
+  },
+  {
+    "question": "You are driving a heavy vehicle with a manual transmission. You have to stop the vehicle on the shoulder while driving on an uphill grade. Which of these is a good rule to follow when putting it back in motion up the grade?",
+    "answers": [
+      "Keep the clutch slipping while slowly accelerating.",
+      "Use the parking brake to hold the vehicle until the clutch engages.",
+      "Let the vehicle roll backwards a few feet before you engage the clutch but turn the wheel so that the back moves away from the roadway."
+    ],
+    "correct_answer": "Use the parking brake to hold the vehicle until the clutch engages.",
+    "why": "This prevents the vehicle from rolling backward while you engage the clutch."
+  },
+  {
+    "question": "You are driving a heavy vehicle. You must exit a highway using an off-ramp that curves downhill. You should:",
+    "answers": [
+      "Wait until you are in the curve before downshifting.",
+      "Slow to the posted speed limit for the off-ramp.",
+      "Slow down to a safe speed before the curve."
+    ],
+    "correct_answer": "Slow down to a safe speed before the curve.",
+    "why": "Entering a curve at a high speed increases the risk of losing control."
+  },
+  {
+    "question": "You must park on a side of a level, straight, four-lane divided highway. Where should you place the reflective triangles?",
+    "answers": [
+      "One within 10 feet of the front of the vehicle, one about 100 feet to the rear, and one about 200 feet to the rear.",
+      "One within 10 feet of the rear of the vehicle, one about 100 feet to the rear, and one about 100 feet to the front of the vehicle.",
+      "One within 10 feet of the rear of the vehicle, one about 100 feet to the rear, and one about 200 feet to the rear."
+    ],
+    "correct_answer": "One within 10 feet of the rear of the vehicle, one about 100 feet to the rear, and one about 200 feet to the rear.",
+    "why": "This ensures visibility for other drivers approaching from behind."
+  },
+  {
+    "question": "You are driving on a two-lane road. An oncoming driver drifts into your lane and is headed straight for you. Which of these is most often the best action to take?",
+    "answers": [
+      "Steer to the right.",
+      "Steer onto the left shoulder.",
+      "Hard braking."
+    ],
+    "correct_answer": "Steer to the right.",
+    "why": "Moving to the right avoids a head-on collision and keeps the vehicle on the road."
+  },
+  {
+    "question": "Brake fade:",
+    "answers": [
+      "Can be caused by the brakes getting very hot.",
+      "Can be corrected by letting up on the brakes for 1-2 seconds and then reapplying them.",
+      "Is a problem that only occurs with drum brakes."
+    ],
+    "correct_answer": "Can be caused by the brakes getting very hot.",
+    "why": "Overheating reduces the effectiveness of the brakes, leading to brake fade."
+  },
+  {
+    "question": "You are checking your tires for a pre-trip inspection. Which of these statements is true?",
+    "answers": [
+      "2/32-inch tread depth is safe for front tires.",
+      "Tires of mismatched sizes should not be used together in the same vehicle.",
+      "Radial and bias-ply tires can be used together on the same vehicle."
+    ],
+    "correct_answer": "Tires of mismatched sizes should not be used together in the same vehicle.",
+    "why": "Using tires of different sizes can affect handling and vehicle safety."
+  },
+  {
+    "question": "Which of these statements about engine overheating is true?",
+    "answers": [
+      "You should never remove the radiator cap on a pressurized system until the system is cooled.",
+      "Antifreeze is not needed when the weather is warm.",
+      "You should never shut off an overheated engine until it cools."
+    ],
+    "correct_answer": "You should never remove the radiator cap on a pressurized system until the system is cooled.",
+    "why": "Removing the cap when the system is hot can cause serious injury."
+  },
+  {
+    "question": "You must drive on a slippery road. Which of these is a good thing to do in such a situation?",
+    "answers": [
+      "Slow down gradually.",
+      "Use a smaller following distance.",
+      "Apply the brakes while on curves."
+    ],
+    "correct_answer": "Slow down gradually.",
+    "why": "Sudden braking or acceleration on slippery roads can lead to skidding."
+  },
+  {
+    "question": "Which of these statements about acceleration is true?",
+    "answers": [
+      "When traction is poor, more power should be applied to the accelerator.",
+      "You should feel a jerking motion if you accelerate your vehicle properly.",
+      "Rough acceleration can cause mechanical damage."
+    ],
+    "correct_answer": "Rough acceleration can cause mechanical damage.",
+    "why": "Smooth acceleration helps prevent mechanical damage and increases control."
+  },
+  {
+    "question": "You are checking your tires for a pre-trip inspection. Which of these statements is true?",
+    "answers": [
+      "2/32-inch tread depth is safe for front tires.",
+      "Tires of mismatched sizes should not be used together in the same vehicle.",
+      "Radial and bias-ply tires can be used together on the same vehicle."
+    ],
+    "correct_answer": "Tires of mismatched sizes should not be used together in the same vehicle.",
+    "why": "Using tires of different sizes affects vehicle handling and safety."
+  },
+  {
+    "question": "When the roads are slippery, you should:",
+    "answers": [
+      "Decrease the distance that you look ahead of your vehicle.",
+      "Make turns as gently as possible.",
+      "Stop and test the traction while going uphill."
+    ],
+    "correct_answer": "Make turns as gently as possible.",
+    "why": "Gentle turns help maintain control on slippery roads."
+  },
+  {
+    "question": "You are checking your brakes and suspension system for a pre-trip inspection. Which of these statements is NOT true?",
+    "answers": [
+      "Brake shoes should have brake fluid on them.",
+      "Cracked drum should be replaced.",
+      "One missing leaf in a leaf spring can be dangerous."
+    ],
+    "correct_answer": "Brake shoes should have brake fluid on them.",
+    "why": "Brake shoes should be dry; brake fluid indicates a leak."
+  },
+  {
+    "question": "Which of these is NOT one of the things to do when you pass a vehicle?",
+    "answers": [
+      "At night, turn on your high beams before you start to pass and leave them on until you have completely passed the vehicle.",
+      "Assume that another driver does not see you.",
+      "Lightly tap your horn."
+    ],
+    "correct_answer": "At night, turn on your high beams before you start to pass and leave them on until you have completely passed the vehicle.",
+    "why": "Using high beams while passing can blind other drivers."
+  },
+  {
+    "question": "The distance that you should look ahead of your vehicle while driving amounts to about ___ miles at normal highway speed.",
+    "answers": [
+      "1/4 mile",
+      "1/2 mile",
+      "1/8 mile"
+    ],
+    "correct_answer": "1/4 mile.",
+    "why": "Looking ahead helps anticipate hazards."
+  },
+  {
+    "question": "You are starting your vehicle in motion from a stop. As you apply power to the drive wheels, they start to spin. You should:",
+    "answers": [
+      "Take your foot off the accelerator and apply the brakes.",
+      "Try a lower gear.",
+      "Take your foot off the accelerator."
+    ],
+    "correct_answer": "Take your foot off the accelerator.",
+    "why": "This prevents wheel spin and regains traction."
+  },
+  {
+    "question": "Which of these is the most important thing to remember about emergency braking?",
+    "answers": [
+      "Never do it without downshifting first.",
+      "If the wheels are skidding, you cannot control your vehicle.",
+      "Disconnecting the steering axle brakes will keep your vehicle in a straight-line during emergency braking."
+    ],
+    "correct_answer": "If the wheels are skidding, you cannot control your vehicle.",
+    "why": "Skidding reduces control over the vehicle."
+  },
+  {
+    "question": "Which of these statements about tires and hot weather driving is true?",
+    "answers": [
+      "You should inspect your tires every two hours or every 100 miles when driving in very hot weather.",
+      "If tires were too hot to touch, letting five or ten pounds of pressure out would cool them down.",
+      "The air pressure of a tire decreases as the temperature of the tire increases."
+    ],
+    "correct_answer": "You should inspect your tires every two hours or every 100 miles when driving in very hot weather.",
+    "why": "Frequent inspection prevents tire blowouts in hot weather."
+  },
+  {
+    "question": "If a straight vehicle (not trailer or articulation) goes into front-wheel skid, it will:",
+    "answers": [
+      "Go straight ahead even if the steering wheel is turned.",
+      "Slide sideways and spin out.",
+      "Go straight ahead but will turn if you turn the steering wheel."
+    ],
+    "correct_answer": "Go straight ahead even if the steering wheel is turned.",
+    "why": "In a front-wheel skid, the vehicle continues straight regardless of steering input."
+  },
+  {
+    "question": "Your vehicle is in a traffic emergency and may collide with another vehicle if you do not take action. Which of these is a good rule to remember at such a time?",
+    "answers": [
+      "Leaving the road is always riskier than hitting another vehicle.",
+      "Stopping is always the safest action in a traffic emergency.",
+      "You can almost always turn to miss an obstacle more quickly than you can stop."
+    ],
+    "correct_answer": "You can almost always turn to miss an obstacle more quickly than you can stop.",
+    "why": "Turning is often quicker than stopping in an emergency."
+  },
+  {
+    "question": "In case of which fires can you use water to put it out?",
+    "answers": [
+      "Gasoline fires.",
+      "Electrical fires.",
+      "Tire fires."
+    ],
+    "correct_answer": "Tire fires.",
+    "why": "Water is effective on tire fires but not on gasoline or electrical fires."
+  },
+  {
+    "question": "To help you to stay alert while driving, you should:",
+    "answers": [
+      "Schedule trips for hours that you are normally asleep.",
+      "Take cold medicine if you have a cold.",
+      "Take periodic breaks."
+    ],
+    "correct_answer": "Take periodic breaks.",
+    "why": "Taking breaks helps to prevent fatigue."
+  },
+  {
+    "question": "To avoid a crash, you had to drive onto the right shoulder. You are now driving at 40 mph on the shoulder. How should you move back into the pavement?",
+    "answers": [
+      "Brake hard to slow the vehicle, then steer sharply onto the pavement.",
+      "Steer sharply onto the pavement, then brake hard as you counter steer.",
+      "If the shoulder is clear, stay on the right until your vehicle comes to a stop then move back into the pavement when it is safe."
+    ],
+    "correct_answer": "If the shoulder is clear, stay on the right until your vehicle comes to a stop then move back into the pavement when it is safe.",
+    "why": "Stopping before re-entering the road helps you regain control safely."
+  },
+  {
+    "question": "Which of these statements about driving in areas with strong wind is true?",
+    "answers": [
+      "You should drive alongside other vehicles to help break up the wind.",
+      "Winds are especially a problem when coming out of tunnels.",
+      "The lighter your vehicle, the less trouble you will have with the wind."
+    ],
+    "correct_answer": "Winds are especially a problem when coming out of tunnels.",
+    "why": "Strong winds often catch drivers by surprise when exiting tunnels."
+  },
+  {
+    "question": "If you need to leave the road in a traffic emergency, you should:",
+    "answers": [
+      "Try to get all wheels off the pavement.",
+      "Avoid shoulder because most will not support a large vehicle.",
+      "Avoid braking until your speed has dropped to about 20 mph."
+    ],
+    "correct_answer": "Avoid braking until your speed has dropped to about 20 mph.",
+    "why": "Braking at high speeds can cause the vehicle to skid."
+  },
+  {
+    "question": "Which of these is a good thing to do when driving at night?",
+    "answers": [
+      "Keep your instrument lights bright.",
+      "Look directly at the oncoming headlights only briefly.",
+      "Keep your speed slow enough that you can stop within the range of your headlights."
+    ],
+    "correct_answer": "Keep your speed slow enough that you can stop within the range of your headlights.",
+    "why": "You should be able to stop within the distance illuminated by your headlights."
+  },
+  {
+    "question": "You are driving a 40-foot vehicle at 35 mph. The road is dry, and visibility is good. What is the least amount of space you should keep in front of your vehicle to be safe?",
+    "answers": [
+      "4 seconds.",
+      "3 seconds.",
+      "5 seconds."
+    ],
+    "correct_answer": "4 seconds.",
+    "why": "Maintaining a safe following distance ensures you have time to react."
+  },
+  {
+    "question": "What is the proper way to hold a steering wheel?",
+    "answers": [
+      "With both hands, on opposite sides of the wheel.",
+      "With both hands close together, near the bottom of the wheel.",
+      "With both hands close together, near the top of the wheel."
+    ],
+    "correct_answer": "With both hands, on opposite sides of the wheel.",
+    "why": "This provides maximum control over the vehicle."
+  },
+  {
+    "question": "High beams should be:",
+    "answers": [
+      "Used when it is safe and legal to do so.",
+      "Dimmed at the time when you get within 100 feet of another vehicle.",
+      "Turned on when an oncoming driver does not dim his/her lights."
+    ],
+    "correct_answer": "Used when it is safe and legal to do so.",
+    "why": "High beams should be used only when they won't interfere with other drivers."
+  },
+  {
+    "question": "You can see a marking on a vehicle ahead of you. The marking is a red triangle with an orange center. What does the marking mean?",
+    "answers": [
+      "It may be a slow-moving vehicle.",
+      "The vehicle is hauling hazardous materials.",
+      "It is being driven by a student driver."
+    ],
+    "correct_answer": "It may be a slow-moving vehicle.",
+    "why": "The red triangle with an orange center indicates a slow-moving vehicle."
+  }
+]

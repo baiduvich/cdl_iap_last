@@ -1,0 +1,293 @@
+[
+    {
+      "question": "With the hand valve on, you should test the trailer brakes by opening the service line valve at the rear of the trailer. When you do this, you should hear:",
+      "options": [
+        "Air escape from the open valve.",
+        "The emergency line valve open and release air.",
+        "The service brakes slowly move to the fully applied position."
+      ],
+      "correct_answer": "Air escape from the open valve.",
+      "why": "When the service line valve is opened at the rear of the trailer, air should escape, indicating that the trailer brakes are properly receiving air pressure."
+    },
+    {
+      "question": "You are driving with double trailers and must use your brakes to avoid a crash. For emergency braking you should:",
+      "options": [
+        "Use controlled or stab braking.",
+        "Use only the trailer brakes.",
+        "Use light, steady pressure on the brake pedal."
+      ],
+      "correct_answer": "Use controlled or stab braking.",
+      "why": "Controlled or stab braking is the best approach for avoiding skids and maintaining control during emergency braking with double trailers."
+    },
+    {
+      "question": "You are doing a walk-around inspection of a double or triple trailer rig. You should be sure the converter dolly air tank drain valves are___ and the pintle hook is:",
+      "options": [
+        "Closed, latched",
+        "Closed, free",
+        "Open, free"
+      ],
+      "correct_answer": "Closed, latched",
+      "why": "The converter dolly air tank drain valves should be closed, and the pintle hook must be latched to ensure safety."
+    },
+    {
+      "question": "During normal operation, the brakes of the double/triple trailer are controlled by:",
+      "options": [
+        "Foot pedal.",
+        "Johnson bar.",
+        "Hand valve."
+      ],
+      "correct_answer": "Foot pedal.",
+      "why": "The foot pedal is used to control the brakes of double or triple trailers during regular driving conditions."
+    },
+    {
+      "question": "Which of these will result in the best control on curves?",
+      "options": [
+        "Brake and downshift during the curve.",
+        "Slow to the safe speed before entering, then accelerate slightly through the curve.",
+        "Slow to a safe speed before entering the curve, then coast through the curve."
+      ],
+      "correct_answer": "Slow to the safe speed before entering, then accelerate slightly through the curve.",
+      "why": "This technique provides the most stability and control when navigating curves, minimizing the risk of skidding or losing control."
+    },
+    {
+      "question": "The best way to stop any skid is to:",
+      "options": [
+        "Use stab or controlled braking.",
+        "Counter steer.",
+        "Restore traction to the tire."
+      ],
+      "correct_answer": "Restore traction to the tire.",
+      "why": "To stop a skid, the key is to restore traction by easing off the accelerator or brakes to allow the tires to regain their grip on the road."
+    },
+    {
+      "question": "You are driving a set of doubles and a set of trailer wheels goes into a skid. Which of these is most likely to occur?",
+      "options": [
+        "The rig will stay in a straight line but slide sideways.",
+        "The rig will continue moving in a straight line no matter how much the steering wheel is turned.",
+        "You will have a trailer jackknife."
+      ],
+      "correct_answer": "You will have a trailer jackknife.",
+      "why": "A skid in the wheels of a trailer is likely to result in a jackknife, where the trailer swings out of alignment with the tractor."
+    },
+    {
+      "question": "You are driving on a slippery road during the day. What does the Driver's manual say about how much space you should keep ahead of your truck?",
+      "options": [
+        "Allow one vehicle length for every 10,000 lbs. of gross vehicle weight.",
+        "Add one car length for every 10 mph.",
+        "Allow much more space than is needed for ideal driving conditions."
+      ],
+      "correct_answer": "Allow much more space than is needed for ideal driving conditions.",
+      "why": "On slippery roads, you should allow significantly more following distance to account for reduced traction and longer stopping distances."
+    },
+    {
+      "question": "Which of these statements about emergency steering is true?",
+      "options": [
+        "You can almost always stop more quickly than you can turn.",
+        "You can steer more quickly and safely if you hold the wheel with one hand.",
+        "If you have traffic on both sides of your vehicle and something is blocking your lane, a move to the right is still the best choice."
+      ],
+      "correct_answer": "If you have traffic on both sides of your vehicle and something is blocking your lane, a move to the right is still the best choice.",
+      "why": "If an obstacle blocks your lane and there is traffic on both sides, moving to the right is usually safer, as this side typically has more room and fewer hazards."
+    },
+    {
+      "question": "Which of these is NOT a good thing to do when driving on slippery roads?",
+      "options": [
+        "Use the engine brake or speed retarder.",
+        "Use a light tap on the accelerator and brake pedal.",
+        "Keep other traffic out of your side space."
+      ],
+      "correct_answer": "Use the engine brake or speed retarder.",
+      "why": "Using the engine brake or speed retarder on slippery roads can cause skidding. It's best to avoid using them in such conditions."
+    },
+    {
+      "question": "When testing the coupling of the double trailer, the landing gears of the rear trailer should be:",
+      "options": [
+        "Fully lowered.",
+        "Slightly raised.",
+        "Fully raised."
+      ],
+      "correct_answer": "Slightly raised.",
+      "why": "The landing gear of the rear trailer should be slightly raised during coupling tests to allow for disengagement without damaging the trailer."
+    },
+    {
+      "question": "You must drive through deep or flowing water, you should not:",
+      "options": [
+        "Use a low gear.",
+        "Keep gentle pressure on the brakes while going through the water, and for a short distance after coming out.",
+        "Drive through quickly."
+      ],
+      "correct_answer": "Drive through quickly.",
+      "why": "Driving quickly through deep water can cause loss of control or engine damage. It is best to go slowly and maintain control."
+    },
+    {
+      "question": "When you turn with the tractor/triple trailer combination, the wheels that off-track (cheat) the most are:",
+      "options": [
+        "The wheels of the last trailer.",
+        "The rear wheels of the tractor.",
+        "The wheels of the first trailer."
+      ],
+      "correct_answer": "The wheels of the last trailer.",
+      "why": "The last trailer in a multi-trailer setup tends to off-track the most, meaning it swings out wider in turns compared to the other trailers."
+    },
+    {
+      "question": "How can you be sure you supplied air to a second trailer?",
+      "options": [
+        "Go to the rear of the second trailer and open the emergency line shut-off.",
+        "Open the hand valve with the rig parked and watch for movement.",
+        "Watch for a drop of 30 psi on the air gauge for each trailer."
+      ],
+      "correct_answer": "Go to the rear of the second trailer and open the emergency line shut-off.",
+      "why": "Opening the emergency line shut-off at the rear of the second trailer verifies that the air supply is connected and working properly."
+    },
+    {
+        "question": "When driving a truck with more than one trailer, which trailer should be first behind the truck?",
+        "options": [
+          "The shortest.",
+          "The heaviest.",
+          "The lightest."
+        ],
+        "correct_answer": "The heaviest.",
+        "why": "The heaviest trailer should be placed directly behind the truck for better stability and control."
+      },
+      {
+        "question": "You are driving at night and you must dim your headlights for traffic. Good speed management says you should:",
+        "options": [
+          "Slow down.",
+          "Drop 5 mph until your eyes adjust.",
+          "Speed up."
+        ],
+        "correct_answer": "Slow down.",
+        "why": "Dimming your headlights reduces visibility, so it’s important to slow down to ensure a safe stopping distance."
+      },
+      {
+        "question": "Empty trucks:",
+        "options": [
+          "May have poor traction due to bouncing and wheel lockup.",
+          "Require shorter stopping distance than full ones.",
+          "Are the easiest to stop since there is no shifting cargo."
+        ],
+        "correct_answer": "May have poor traction due to bouncing and wheel lockup.",
+        "why": "Empty trucks can have poor traction because they bounce more, and their wheels are more likely to lock up during braking."
+      },
+      {
+        "question": "The converter dolly air tank drain valve on coupled double/triple trailers should be:",
+        "options": [
+          "Partially open.",
+          "Open.",
+          "Closed."
+        ],
+        "correct_answer": "Closed.",
+        "why": "The air tank drain valve should be closed to ensure that the air system operates properly."
+      },
+      {
+        "question": "Which of these statements about the handling of doubles and triples is true?",
+        "options": [
+          "A sudden movement with the steering wheel can result in a tipped-over rear trailer.",
+          "The rear trailer of a 100-foot triple is less likely to turn over than a single semitrailer due to the crack-the-whip effect.",
+          "Rearward amplification is the only thing that prevents the crack-the-whip effect from turning over all trailers."
+        ],
+        "correct_answer": "A sudden movement with the steering wheel can result in a tipped-over rear trailer.",
+        "why": "Doubles and triples are more susceptible to the crack-the-whip effect, which can cause the rear trailer to tip over during sudden movements."
+      },
+      {
+        "question": "If you want to couple a second trailer to your combination vehicle, secure it by using:",
+        "options": [
+          "The trailer's spring brakes.",
+          "Wheel chocks.",
+          "Both if available."
+        ],
+        "correct_answer": "Both if available.",
+        "why": "Using both spring brakes and wheel chocks ensures maximum stability while coupling trailers."
+      },
+      {
+        "question": "You are driving a 100-foot truck with double trailers at 50 mph. The road is dry, and visibility is good. You should keep at least ___ seconds of space ahead of you.",
+        "options": [
+          "8",
+          "9",
+          "10"
+        ],
+        "correct_answer": "10",
+        "why": "Maintaining 10 seconds of following distance is recommended for safe driving conditions with large trucks and trailers."
+      },
+      {
+        "question": "Which of these statements about quick steering movements and doubles/triples is true?",
+        "options": [
+          "Doubles/triples turn over from quick steering moves more easily than many vehicles.",
+          "Counter steering is easier with doubles/triples than most other vehicles.",
+          "You should apply the brakes at the same time as quick steering movements."
+        ],
+        "correct_answer": "Doubles/triples turn over from quick steering moves more easily than many vehicles.",
+        "why": "Doubles and triples are more prone to tipping over due to quick steering movements because of their length and multiple pivot points."
+      },
+      {
+        "question": "Converter dollies:",
+        "options": [
+          "Usually need a glad hand converter.",
+          "Often do not have spring brakes.",
+          "Have little braking power because they are small."
+        ],
+        "correct_answer": "Often do not have spring brakes.",
+        "why": "Converter dollies typically do not have spring brakes and rely on the tractor’s air supply for braking."
+      },
+      {
+        "question": "You want to hook your combination to a second trailer that has no spring brakes. To do this without wheel chocks you should:",
+        "options": [
+          "Supply air to the trailer air system with the tractor and then disconnect the emergency line.",
+          "Hook the trailer electric cord to a portable generator for braking power.",
+          "Make sure that the trailer will roll freely when coupling."
+        ],
+        "correct_answer": "Supply air to the trailer air system with the tractor and then disconnect the emergency line.",
+        "why": "To safely couple a trailer without spring brakes, you need to supply air to the air system and then disconnect the emergency line to prevent movement."
+      },
+      {
+        "question": "Which of these statements about managing space to the sides is true?",
+        "options": [
+          "You should avoid traveling next to others when possible.",
+          "You should keep your vehicle to the right side of your lane.",
+          "High winds are not a problem for doubles and triples."
+        ],
+        "correct_answer": "You should avoid traveling next to others when possible.",
+        "why": "Avoiding other vehicles on the side provides more space to maneuver and reduces the risk of collisions."
+      },
+      {
+        "question": "Some large trucks have curved mirrors. These mirrors:",
+        "options": [
+          "Do not need to be checked often because they show a larger area.",
+          "Are against the law in some states.",
+          "Make things seem smaller and further away than they really are."
+        ],
+        "correct_answer": "Make things seem smaller and further away than they really are.",
+        "why": "Curved mirrors distort distance and size, making objects appear smaller and further away than they actually are."
+      },
+      {
+        "question": "Crack-the-whip effect occurs when:",
+        "options": [
+          "Front tire rims crack.",
+          "You aggressively apply the brakes.",
+          "You make a quick lane change."
+        ],
+        "correct_answer": "You make a quick lane change.",
+        "why": "The crack-the-whip effect happens when a quick lane change causes the rear trailer in a double or triple setup to sway, potentially leading to a rollover."
+      },
+      {
+        "question": "To check if the converter dolly is securely coupled to the rear trailer you should:",
+        "options": [
+          "Release spring brakes and check the movement.",
+          "Pull gently against the pin of the second trailer.",
+          "Backup slightly and make the visual check of the coupling."
+        ],
+        "correct_answer": "Pull gently against the pin of the second trailer.",
+        "why": "Pulling gently against the pin helps ensure that the coupling is secure before driving."
+      },
+      {
+        "question": "You are visually checking the coupling of a converter dolly to the rear trailer. How much space should be between the upper and lower fifth wheel?",
+        "options": [
+          "1/2 to 3/4 inch.",
+          "It depends on the load.",
+          "None."
+        ],
+        "correct_answer": "None.",
+        "why": "There should be no space between the upper and lower fifth wheel, ensuring a secure connection between the dolly and the trailer."
+      }
+  ]
+  

@@ -1,0 +1,392 @@
+[
+  {
+    "question": "When your cargo tank has baffles, what handling effect do you expect?",
+    "options": [
+      "There will be less front-to-back surge than there is in tanks without baffles.",
+      "There will be less side-to-side surge than there is in tanks without baffles.",
+      "There will be more low surge than quick surge."
+    ],
+    "correct_answer": "There will be less front-to-back surge than there is in tanks without baffles.",
+    "why": "Baffles in tanks reduce front-to-back surge of liquids, helping control movement."
+  },
+  {
+    "question": "If you are driving a tanker and need to steer quickly to avoid a hazard you:",
+    "options": [
+      "Should not apply the brakes while turning.",
+      "Should wrap your thumb around the steering wheel before starting the steering movement.",
+      "Will find that tankers are easier to counter steer than most vehicles."
+    ],
+    "correct_answer": "Should not apply the brakes while turning.",
+    "why": "Applying brakes while steering can lead to skidding or rolling over in tankers."
+  },
+  {
+    "question": "Side-to-side surge can cause:",
+    "options": [
+      "Uneven tire wear.",
+      "Rollover.",
+      "Tire failure."
+    ],
+    "correct_answer": "Rollover.",
+    "why": "Surging liquid can push the tanker and cause instability, leading to a rollover."
+  },
+  {
+    "question": "You should be extremely cautious when driving smooth bore tanks, especially when you are:",
+    "options": [
+      "Loading and unloading.",
+      "Starting or stopping.",
+      "Going up and downhill."
+    ],
+    "correct_answer": "Starting or stopping.",
+    "why": "Smooth bore tanks have no baffles, increasing the risk of surge, especially during starts and stops."
+  },
+  {
+    "question": "On tank trailers, if your drive or trailer wheels begin to skid, your vehicle may:",
+    "options": [
+      "Roll over.",
+      "Travel in a straight line.",
+      "Jackknife."
+    ],
+    "correct_answer": "Jackknife.",
+    "why": "In tankers, wheel skidding can cause the vehicle to jackknife, especially during braking."
+  },
+  {
+    "question": "You are driving on a clear night. You must dim your headlights from high to low. You should adjust your speed so that you can stop within:",
+    "options": [
+      "The distance you can see ahead.",
+      "The distance you will travel in the next 15 seconds.",
+      "100 feet."
+    ],
+    "correct_answer": "The distance you can see ahead.",
+    "why": "Your speed should always allow you to stop within the illuminated distance."
+  },
+  {
+    "question": "You should know the outage needed for the liquids you carry because:",
+    "options": [
+      "Tank baffles are not always legal with outage.",
+      "Some liquids expand more than others when they get warm.",
+      "Some of the heaviest liquids do not have any."
+    ],
+    "correct_answer": "Some liquids expand more than others when they get warm.",
+    "why": "Outage is needed to account for the expansion of liquids due to temperature changes."
+  },
+  {
+    "question": "When should the driver of a tanker that has lost its brakes use a truck escape ramp?",
+    "options": [
+      "Never.",
+      "Only if the tank is empty.",
+      "Always."
+    ],
+    "correct_answer": "Always.",
+    "why": "Truck escape ramps are designed for emergencies like brake failure to safely stop the vehicle."
+  },
+  {
+    "question": "Which of these is the best way to take a curve?",
+    "options": [
+      "Maintain speed until you enter, then brake as you drive through the curve.",
+      "Slow to the safe speed before entering, then accelerate slightly through the curve.",
+      "Slow to a safe speed before entering, then coast through the curve."
+    ],
+    "correct_answer": "Slow to the safe speed before entering, then accelerate slightly through the curve.",
+    "why": "Slowing before a curve and accelerating gently through it provides better control."
+  },
+  {
+    "question": "If an oncoming vehicle drifts into your lane you should:",
+    "options": [
+      "Move to your right.",
+      "Try to stop rather than turn.",
+      "Use no less than one full turn of steering wheel to avoid it."
+    ],
+    "correct_answer": "Move to your right.",
+    "why": "Steering to the right is often safer to avoid oncoming vehicles, as there's more space."
+  },
+  {
+    "question": "Which of these statements about stopping distance and speed is true?",
+    "options": [
+      "Total stopping distance is how far you will travel after the brakes are applied at speeds over 30 mph.",
+      "You need about two times as much stopping distance at 40 mph as at 20 mph.",
+      "Wet roads can double stopping distance at any speed."
+    ],
+    "correct_answer": "Wet roads can double stopping distance at any speed.",
+    "why": "Wet conditions reduce tire traction, increasing the stopping distance."
+  },
+  {
+    "question": "A traffic emergency requires you to escape to the shoulder or roadside. If possible, slow down to ___ mph before using your brakes.",
+    "options": [
+      "40",
+      "30",
+      "20"
+    ],
+    "correct_answer": "20",
+    "why": "Slowing down to a lower speed before braking helps prevent skidding or jackknifing on the shoulder."
+  },
+  {
+    "question": "When you load the small tanks or a cargo tank equipped with bulkheads, you should check your:",
+    "options": [
+      "Weight distribution.",
+      "Water content.",
+      "Air to fuel ratio."
+    ],
+    "correct_answer": "Weight distribution.",
+    "why": "Proper weight distribution ensures better vehicle balance and control."
+  },
+  {
+    "question": "Baffles in liquid cargo tanks do not usually prevent surge.",
+    "options": [
+      "Front to back",
+      "Top to bottom",
+      "Side to side"
+    ],
+    "correct_answer": "Side to side",
+    "why": "Baffles reduce front-to-back surge, but side-to-side surge can still be significant."
+  },
+  {
+    "question": "What does liquid surge do to the handling of a tanker?",
+    "options": [
+      "It can move the truck in the direction the liquid waves move.",
+      "It makes it roll easier.",
+      "It lets you turn corners tighter."
+    ],
+    "correct_answer": "It can move the truck in the direction the liquid waves move.",
+    "why": "Surging liquid affects the handling by pushing the truck in the direction of the wave."
+  },
+  {
+    "question": "The best way to take a curve is to slow to a safe speed before entering the curve, then as you go through it.",
+    "options": [
+      "Brake lightly",
+      "Downshift twice",
+      "Accelerate slightly"
+    ],
+    "correct_answer": "Accelerate slightly",
+    "why": "Accelerating slightly through the curve helps maintain control and stability."
+  },
+  {
+    "question": "The best way to take a curve is to slow to a safe speed before entering the curve, then:",
+    "options": [
+      "Maintain speed until you enter, then brake as you drive through the curve.",
+      "Slow to the safe speed before entering, then accelerate slightly through the curve.",
+      "Slow to a safe speed before entering, then coast through the curve."
+    ],
+    "correct_answer": "Slow to the safe speed before entering, then accelerate slightly through the curve.",
+    "why": "This method ensures better handling and reduces the risk of skidding."
+  },
+  {
+    "question": "You are driving on a clear night with your low beam lights on. If your headlights let you see about 250 feet ahead of you, you should adjust your speed so that you can stop within about ____ feet.",
+    "options": [
+      "100",
+      "500",
+      "250"
+    ],
+    "correct_answer": "250",
+    "why": "You should adjust your speed to allow you to stop within the distance illuminated by your headlights."
+  },
+  {
+    "question": "Which of these statements about emergency steering is true?",
+    "options": [
+      "If an oncoming driver drifts into your lane, a move to your right may be best.",
+      "Quick steering movements should only be done with the wheels locked.",
+      "You can almost always stop more quickly than you can turn."
+    ],
+    "correct_answer": "If an oncoming driver drifts into your lane, a move to your right may be best.",
+    "why": "Steering to the right in emergencies is often safer than braking or turning left."
+  },
+  {
+    "question": "Hauling liquids in tank vehicles requires special care for two reasons. One reason is:",
+    "options": [
+      "Liquid movement.",
+      "Uneven expansion.",
+      "Extreme weight."
+    ],
+    "correct_answer": "Liquid movement.",
+    "why": "Liquid movement in a tank can cause surges, which affect the handling and control of the vehicle."
+  },
+  {
+    "question": "How would you expect a truck with a baffled cargo tank to handle on the road?",
+    "options": [
+      "There will be less forward and backward liquid surge than there is in tanks without baffles.",
+      "The truck will handle the same as a tanker without baffles.",
+      "The truck will seem heavier than it really is."
+    ],
+    "correct_answer": "There will be less forward and backward liquid surge than there is in tanks without baffles.",
+    "why": "Baffles are designed to control the liquid movement inside the tank and reduce surge."
+  },
+  {
+    "question": "Except when you are loading or unloading cargo, the tank liquid discharge valve should always be:",
+    "options": [
+      "Closed",
+      "Open",
+      "Unlatched"
+    ],
+    "correct_answer": "Closed",
+    "why": "The valve should be closed to prevent unintended liquid discharge during transport."
+  },
+  {
+    "question": "Which of the statements about tank vehicles is true?",
+    "options": [
+      "Fully loaded tank vehicles take longer to stop than empty ones.",
+      "The posted speed for a curve may be too fast for a tank vehicle.",
+      "You should use only the emergency brakes to stop a tank vehicle in order to avoid a crash."
+    ],
+    "correct_answer": "The posted speed for a curve may be too fast for a tank vehicle.",
+    "why": "Tank vehicles are more prone to tipping due to their high center of gravity, making posted speeds unsafe in some cases."
+  },
+  {
+    "question": "When transporting a tanker, you should inspect the cargo within the first miles of the trip.",
+    "options": [
+      "125",
+      "50",
+      "75"
+    ],
+    "correct_answer": "50",
+    "why": "Inspecting the cargo early in the trip helps identify and fix any issues before they become dangerous."
+  },
+  {
+    "question": "Hauling liquids in tankers requires special care for two reasons. One reason is the center of gravity.",
+    "options": [
+      "Wide",
+      "Flat",
+      "High"
+    ],
+    "correct_answer": "High",
+    "why": "The high center of gravity makes the tanker more prone to rollovers."
+  },
+  {
+    "question": "Before loading or unloading the tanker, the first thing you should do is:",
+    "options": [
+      "Make sure you have all the necessary plans.",
+      "Properly secure all of the baffles.",
+      "Inspect the vehicle."
+    ],
+    "correct_answer": "Inspect the vehicle.",
+    "why": "Inspecting the vehicle ensures it is in proper condition before loading or unloading."
+  },
+  {
+    "question": "When inspecting the pipe connections and hoses for leaks, pay special attention to:",
+    "options": [
+      "Joints.",
+      "Suspension wear.",
+      "Long sections."
+    ],
+    "correct_answer": "Joints.",
+    "why": "Joints are prone to leaks and should be carefully inspected to avoid spills or hazards."
+  },
+  {
+    "question": "Portable tanks are:",
+    "options": [
+      "Can only be loaded when they are attached to the vehicle.",
+      "Bulk containers, which are not permanently attached to the truck.",
+      "Not allowed to carry loads that are more than 1,000 gallons."
+    ],
+    "correct_answer": "Bulk containers, which are not permanently attached to the truck.",
+    "why": "Portable tanks are designed to be detachable and can be moved between vehicles."
+  },
+  {
+    "question": "Vehicle skids are often caused by:",
+    "options": [
+      "Loose materials on a road surface.",
+      "Driving too fast.",
+      "Driving with bald tires."
+    ],
+    "correct_answer": "Driving too fast.",
+    "why": "Excessive speed is a common cause of vehicle skids, especially in hazardous conditions."
+  },
+  {
+    "question": "If you steer a tank vehicle too quickly while braking you:",
+    "options": [
+      "May cause vehicle to roll over.",
+      "Decrease your safe stopping distance.",
+      "Can reduce the amount of liquid surge."
+    ],
+    "correct_answer": "May cause vehicle to roll over.",
+    "why": "Quick steering, especially while braking, increases the chance of a rollover in tankers."
+  },
+  {
+    "question": "Which of the statements about emergency steering and tankers is true?",
+    "options": [
+      "A tanker is easier to steer than most other vehicles.",
+      "When making quick steering movements, do not apply the brakes.",
+      "The clutch should be depressed before making a quick steering movement."
+    ],
+    "correct_answer": "When making quick steering movements, do not apply the brakes.",
+    "why": "Braking during a quick steering movement can destabilize the vehicle and cause a rollover."
+  },
+  {
+    "question": "Baffled liquid tanks have bulkheads:",
+    "options": [
+      "That separate the liquids from different areas of the tanks.",
+      "With holes in them that let liquid flow through them.",
+      "That increase the amount of side-to-side surges."
+    ],
+    "correct_answer": "With holes in them that let liquid flow through them.",
+    "why": "Baffles are designed to allow some liquid movement to reduce surge but still control it."
+  },
+  {
+    "question": "Tanks transporting food products are required to be unbaffled because of:",
+    "options": [
+      "The ease in cleaning the outside of the tank.",
+      "The difficulty in cleaning the inside of the tank.",
+      "The pre-installed bulkheads."
+    ],
+    "correct_answer": "The difficulty in cleaning the inside of the tank.",
+    "why": "Unbaffled tanks are easier to clean inside, making them more suitable for food products."
+  },
+  {
+    "question": "Forward-to-back surge on a slippery surface can:",
+    "options": [
+      "Shove a stopped truck into an intersection.",
+      "Cause a truck to rollover.",
+      "Decrease your mileage."
+    ],
+    "correct_answer": "Shove a stopped truck into an intersection.",
+    "why": "Liquid surge can push a truck forward unexpectedly, which is particularly dangerous on slippery surfaces."
+  },
+  {
+    "question": "What does liquid surge do to the handling of a tanker?",
+    "options": [
+      "It makes the truck roll easier.",
+      "Surge raises the wind drag of the truck.",
+      "It can move the truck in the direction the liquid waves move."
+    ],
+    "correct_answer": "It can move the truck in the direction the liquid waves move.",
+    "why": "Liquid surge pushes the vehicle in the direction the liquid is moving, affecting control."
+  },
+  {
+    "question": "A full tank of dense liquids (such as some acids):",
+    "options": [
+      "Will never exceed legal weight limits.",
+      "Reduces the effect of liquid surge.",
+      "May often exceed legal weight limits."
+    ],
+    "correct_answer": "May often exceed legal weight limits.",
+    "why": "Dense liquids can cause a tanker to exceed legal weight limits even if it appears to be within volume limits."
+  },
+  {
+    "question": "Empty tank vehicles:",
+    "options": [
+      "Require greater stopping distance than full ones.",
+      "Need less space ahead than full ones.",
+      "Have better traction when stopping than full ones."
+    ],
+    "correct_answer": "Require greater stopping distance than full ones.",
+    "why": "Empty tankers have less traction, causing them to require longer stopping distances."
+  },
+  {
+    "question": "An emergency forces you to stop your tanker quickly or crash. You should:",
+    "options": [
+      "Use light pressure on the brake pedal.",
+      "Use only the emergency brakes.",
+      "Use controlled or stab braking."
+    ],
+    "correct_answer": "Use controlled or stab braking.",
+    "why": "Controlled or stab braking helps stop the vehicle without causing skidding or losing control."
+  },
+  {
+    "question": "Side-to-side surge can cause:",
+    "options": [
+      "Uneven tire wear.",
+      "Rollover.",
+      "Tire failure."
+    ],
+    "correct_answer": "Rollover.",
+    "why": "Side-to-side surge can shift the center of gravity, leading to a rollover."
+  }
+]

@@ -1,0 +1,353 @@
+[
+    {
+      "question": "When your cargo tank has baffles, what handling effect do you expect?",
+      "options": [
+        "There will be less front-to-back surge than there is in tanks without baffles.",
+        "There will be less side-to-side surge than there is in tanks without baffles.",
+        "There will be more low surge than quick surge."
+      ],
+      "correct_answer": "There will be less front-to-back surge than there is in tanks without baffles.",
+      "why": "Baffles help reduce front-to-back surge, making the tank more stable during stops and starts."
+    },
+    {
+      "question": "While loading and unloading students you should check your mirrors:",
+      "options": [
+        "After entering traffic.",
+        "Continuously.",
+        "After you close the door."
+      ],
+      "correct_answer": "Continuously.",
+      "why": "It is important to continuously check mirrors while loading and unloading students to ensure safety."
+    },
+    {
+      "question": "Which of the following should you do while driving the school bus in high wind?",
+      "options": [
+        "Keep a strong grip on the steering wheel and try to anticipate gust.",
+        "Speed up to get away from the wind as quickly as possible.",
+        "Avoid pulling off the road to wait."
+      ],
+      "correct_answer": "Keep a strong grip on the steering wheel and try to anticipate gust.",
+      "why": "In high winds, maintaining control of the bus by firmly gripping the steering wheel is essential for safety."
+    },
+    {
+      "question": "According to the CDL manual, the final step when picking up students at the bus stop is:",
+      "options": [
+        "Place transmission in park or neutral and set parking brake.",
+        "Make a final check to confirm all traffic stops before opening the bus door and signaling students to approach.",
+        "Open the service door just enough to activate the alternating red light when traffic is in a safe distance from the bus."
+      ],
+      "correct_answer": "Make a final check to confirm all traffic stops before opening the bus door and signaling students to approach.",
+      "why": "The safety of students is paramount, so confirming traffic has fully stopped is essential before allowing students to approach."
+    },
+    {
+      "question": "Which of the following statements about loading and unloading students is true?",
+      "options": [
+        "Students should be told to leave any dropped object where it is, and move to a point of safety out of the danger zone, then attempt to get the driver's attention to retrieve the object.",
+        "Students should be told to pick up any dropped objects as long as it is not under the bus.",
+        "Students should be told not to use the handrails when exiting the bus due to the possibility of causing a clothing hang up."
+      ],
+      "correct_answer": "Students should be told to leave any dropped object where it is, and move to a point of safety out of the danger zone, then attempt to get the driver's attention to retrieve the object.",
+      "why": "It’s important to keep students safe by having them move out of the danger zone rather than retrieving dropped objects themselves."
+    },
+    {
+      "question": "What is a passive highway rail crossing?",
+      "options": [
+        "This type of crossing does not have any type of traffic control device.",
+        "This type of crossing has a lane to pass slow-moving vehicles.",
+        "This type of crossing does have a traffic control device."
+      ],
+      "correct_answer": "This type of crossing does not have any type of traffic control device.",
+      "why": "A passive crossing lacks active traffic control, requiring the driver to make decisions based on sight and sound."
+    },
+    {
+      "question": "Where should students walk to after exiting the bus?",
+      "options": [
+        "Tell students to exit the bus and walk at least 100 feet away from the side of the bus to a position where the driver can plainly count all of the students.",
+        "Tell students to exit the bus and walk straight home and do not talk to any strangers.",
+        "Tell students to exit the bus and walk at least 10 feet away from the side of the bus to a position where the driver can plainly see all students."
+      ],
+      "correct_answer": "Tell students to exit the bus and walk at least 10 feet away from the side of the bus to a position where the driver can plainly see all students.",
+      "why": "Students should walk a safe distance away from the bus so the driver can have clear visibility of all children before moving the bus."
+    },
+    {
+      "question": "How should you use your brakes if your vehicle is equipped with anti-lock brakes?",
+      "options": [
+        "Brake the same way, regardless of whether you have ABS on the bus.",
+        "Pump the brakes evenly.",
+        "Brake earlier than you normally would."
+      ],
+      "correct_answer": "Brake the same way, regardless of whether you have ABS on the bus.",
+      "why": "With ABS, you should brake as you normally would without the need to pump the brakes, as ABS prevents wheel lockup."
+    },
+    {
+      "question": "What should you be able to see if the outside convex mirrors are adjusted properly?",
+      "options": [
+        "At least one traffic lane on either side of the bus, and the entire side of the bus up to the mirror mounts.",
+        "Front of the rear tires touching the ground, and the entire side of the bus up to the mirror mounts.",
+        "The entire side of the bus up to the mirror mounts, front of the rear tires touching the ground, and at least one traffic lane on either side of the bus."
+      ],
+      "correct_answer": "The entire side of the bus up to the mirror mounts, front of the rear tires touching the ground, and at least one traffic lane on either side of the bus.",
+      "why": "Proper adjustment of convex mirrors helps ensure full visibility around the bus for safety."
+    },
+    {
+      "question": "Backing a school bus is:",
+      "options": [
+        "Strongly discouraged.",
+        "Fine, if you have a helper.",
+        "Illegal in most states."
+      ],
+      "correct_answer": "Strongly discouraged.",
+      "why": "Backing a school bus creates a risk to students and pedestrians, so it should be avoided whenever possible."
+    },
+    {
+      "question": "You are loading students along the route. When should you activate your alternating flashing amber warning lamps?",
+      "options": [
+        "These lights are always flashing when the bus is running.",
+        "If the school bus is so equipped, activate alternating flashing amber warning lamps before the school bus stop in accordance with state law.",
+        "Never activate these lights unless there is an emergency."
+      ],
+      "correct_answer": "If the school bus is so equipped, activate alternating flashing amber warning lamps before the school bus stop in accordance with state law.",
+      "why": "Activating the amber warning lamps signals traffic to slow down as the bus is preparing to stop."
+    },
+    {
+      "question": "What mirror is used to monitor passenger activity inside the bus?",
+      "options": [
+        "Overhead rearview mirror.",
+        "Side crossover mirrors.",
+        "Side convex mirrors."
+      ],
+      "correct_answer": "Overhead rearview mirror.",
+      "why": "The overhead rearview mirror allows the driver to monitor passengers inside the bus for safety."
+    },
+    {
+      "question": "Why should you be extra cautious at a passive crossing?",
+      "options": [
+        "This type of crossing does not have any type of traffic control device and the decision to proceed rests entirely in your hands.",
+        "This type of crossing has a passing lane and you need to be alert for passing vehicles.",
+        "This type of crossing is used for crossing high-speed train tracks."
+      ],
+      "correct_answer": "This type of crossing does not have any type of traffic control device and the decision to proceed rests entirely in your hands.",
+      "why": "With no automatic signals, it’s up to the driver to ensure it’s safe to cross at a passive crossing."
+    },
+    {
+      "question": "A safe place for the students will be at least __ feet off the road in the direction of oncoming traffic.",
+      "options": [
+        "200",
+        "100",
+        "150"
+      ],
+      "correct_answer": "100",
+      "why": "Positioning students at least 100 feet off the road ensures their safety while the bus is in motion."
+    },
+    {
+      "question": "The zone that extends as much as 30 feet from the front bumper, 10 feet from the left and right sides of the bus and 10 feet behind the rear bumper of the school bus is called what?",
+      "options": [
+        "Danger Zone.",
+        "Safety Zone.",
+        "Perimeter Zone."
+      ],
+      "correct_answer": "Danger Zone.",
+      "why": "The Danger Zone is the area around the bus where children are most at risk of being hit."
+    },
+    {
+      "question": "If the bus is on fire what is the first thing the driver should do?",
+      "options": [
+        "Grab the fire extinguisher and attempt to put out the fire.",
+        "Evacuate the bus.",
+        "Conduct an investigation."
+      ],
+      "correct_answer": "Evacuate the bus.",
+      "why": "In the event of a fire, evacuating the students from the bus is the top priority for safety."
+    },
+    {
+        "question": "How far from the nearest rail should you stop at a highway rail-crossing?",
+        "options": [
+          "Stop no closer than 5 feet and no farther than 25 feet from the nearest rail, where you have the best view of the tracks.",
+          "Stop no closer than 15 feet and no farther than 50 feet from the nearest rail, where you have the best view of the tracks.",
+          "Stop no closer than 20 feet and no farther than 30 feet from the nearest rail, where you have the best view of the tracks."
+        ],
+        "correct_answer": "Stop no closer than 15 feet and no farther than 50 feet from the nearest rail, where you have the best view of the tracks.",
+        "why": "Stopping at this distance ensures the driver has a clear view of the tracks while maintaining a safe distance from the rails."
+      },
+      {
+        "question": "Which of the following is the recommended procedure when unloading students?",
+        "options": [
+          "Position yourself outside of the bus to supervise unloading.",
+          "Tell students to remain seated until they are told to exit.",
+          "Put the transmission in neutral gear and put on the brakes."
+        ],
+        "correct_answer": "Tell students to remain seated until they are told to exit.",
+        "why": "Ensuring students stay seated until directed to exit helps maintain order and safety during unloading."
+      },
+      {
+        "question": "In flat mirrors you should be able to see?",
+        "options": [
+          "Full side of the bus and rear of bus.",
+          "200 feet behind the bus.",
+          "Pedestrians on the sidewalk on both sides of the bus."
+        ],
+        "correct_answer": "Full side of the bus and rear of bus.",
+        "why": "Flat mirrors should give a complete view of the sides and rear of the bus to ensure safe driving and maneuvering."
+      },
+      {
+        "question": "What mirrors are used to monitor traffic and to check clearances and students on the sides and to the rear of the bus?",
+        "options": [
+          "Outside left and right-side flat mirrors.",
+          "Outside left and right-side convex mirrors.",
+          "Outside left and right-side cross view mirrors."
+        ],
+        "correct_answer": "Outside left and right-side flat mirrors.",
+        "why": "These mirrors are crucial for checking traffic and clearances around the bus, ensuring safety while driving."
+      },
+      {
+        "question": "More students are killed while ___ each year than are killed as passengers inside of a school bus.",
+        "options": [
+          "crossing the street",
+          "running towards the bus",
+          "getting on or off a school bus"
+        ],
+        "correct_answer": "getting on or off a school bus",
+        "why": "The danger zones around the bus, especially during loading and unloading, are the most hazardous times for students."
+      },
+      {
+        "question": "When approaching a bus stop, you should:",
+        "options": [
+          "Pay close attention to the children, ignore pedestrians, and traffic.",
+          "Approach cautiously, at a constant speed.",
+          "Approach cautiously, at a slow rate of speed."
+        ],
+        "correct_answer": "Approach cautiously, at a slow rate of speed.",
+        "why": "Slowing down when approaching the bus stop gives the driver better control and allows for a safe environment for children."
+      },
+      {
+        "question": "While loading, if you cannot account for a student outside you should:",
+        "options": [
+          "Continue your route, you may be penalized for being late.",
+          "Secure the bus, turn off the engine, take the key, set the brake and check around and underneath the bus.",
+          "Call your dispatcher."
+        ],
+        "correct_answer": "Secure the bus, turn off the engine, take the key, set the brake and check around and underneath the bus.",
+        "why": "The safety of students is the top priority, and all precautions should be taken if a student is unaccounted for."
+      },
+      {
+        "question": "The most dangerous time during the school bus ride is:",
+        "options": [
+          "When loading and unloading students.",
+          "When the students become unruly on the bus.",
+          "Crossing railway crossing."
+        ],
+        "correct_answer": "When loading and unloading students.",
+        "why": "Loading and unloading involve the most student movement near the bus, which can be hazardous."
+      },
+      {
+        "question": "Before crossing the roadway, students will wait for you to:",
+        "options": [
+          "Give the universal crossing signal.",
+          "Nod your head.",
+          "Wave when it is safe to cross."
+        ],
+        "correct_answer": "Give the universal crossing signal.",
+        "why": "The universal crossing signal ensures clear communication between the driver and students for safe crossing."
+      },
+      {
+        "question": "Which of the following will result in a mandatory evacuation?",
+        "options": [
+          "A hazardous materials spill.",
+          "A student has thrown a piece of paper in your direction.",
+          "There is an altercation between two students."
+        ],
+        "correct_answer": "A hazardous materials spill.",
+        "why": "Hazardous materials spills can present serious dangers to students, requiring an immediate evacuation."
+      },
+      {
+        "question": "This type of crossing has a traffic control device installed at the crossing to regulate traffic.",
+        "options": [
+          "Active Crossings",
+          "Flashing Crossings",
+          "Passive Crossings"
+        ],
+        "correct_answer": "Active Crossings.",
+        "why": "Active crossings are equipped with devices like lights and gates to manage traffic, ensuring safety at railway crossings."
+      },
+      {
+        "question": "The bus is trapped on the tracks, you should:",
+        "options": [
+          "Call 911 and wait for instructions.",
+          "Get everyone out of the bus and off the tracks immediately.",
+          "Keep students calm and call your dispatcher."
+        ],
+        "correct_answer": "Get everyone out of the bus and off the tracks immediately.",
+        "why": "In such a dangerous situation, the first priority is to evacuate everyone to a safe location away from the tracks."
+      },
+      {
+        "question": "Your bus is equipped with roof-mounted, white strobe lights. When should the overhead strobe lights be used?",
+        "options": [
+          "When traffic is heavy.",
+          "When you have limited visibility.",
+          "At all times."
+        ],
+        "correct_answer": "When you have limited visibility.",
+        "why": "Strobe lights are useful in low-visibility situations to make the bus more noticeable to other vehicles."
+      },
+      {
+        "question": "Which of the following should you NOT do when driving in high winds?",
+        "options": [
+          "You should slow down to lessen the effect of the wind or pull off the roadway and wait.",
+          "Speed up to get away from the wind as quickly as possible.",
+          "Contact your dispatcher to get more information about what to do."
+        ],
+        "correct_answer": "Speed up to get away from the wind as quickly as possible.",
+        "why": "Speeding in high winds can make handling the bus more difficult, increasing the risk of an accident."
+      },
+      {
+        "question": "When stopping on a railroad crossing, the driver must stop no closer than:",
+        "options": [
+          "15 feet",
+          "20 feet",
+          "10 feet"
+        ],
+        "correct_answer": "15 feet",
+        "why": "Stopping at least 15 feet away from the railroad tracks ensures a safe distance from the potential danger of an approaching train."
+      },
+      {
+        "question": "Backing a school bus is:",
+        "options": [
+          "A normal operation which every driver should be comfortable maneuvering.",
+          "Strongly discouraged, you should back your bus only when you have no other safe way to move the vehicle.",
+          "OK, if traffic is clear or light."
+        ],
+        "correct_answer": "Strongly discouraged, you should back your bus only when you have no other safe way to move the vehicle.",
+        "why": "Backing a school bus should be avoided whenever possible to minimize the risk of accidents."
+      },
+      {
+        "question": "If students must cross the street after unloading off the bus, which statement is true?",
+        "options": [
+          "Crossing students should make eye contact with the bus driver and wait for the driver's signal that it is safe to proceed.",
+          "If the bus is equipped with the crossing gate, the children will not be in any danger.",
+          "When the driver signals that it is safe to proceed, the students must run across the street."
+        ],
+        "correct_answer": "Crossing students should make eye contact with the bus driver and wait for the driver's signal that it is safe to proceed.",
+        "why": "Eye contact and the driver's signal ensure that it is safe for students to cross, reducing the risk of an accident."
+      },
+      {
+        "question": "You should adjust the outside left and right-side flat mirrors to see:",
+        "options": [
+          "200 feet behind the bus.",
+          "The rear right and left tires touching the ground.",
+          "The entire area to the rear of the mirror along the side of the bus."
+        ],
+        "correct_answer": "The rear right and left tires touching the ground.",
+        "why": "Properly adjusted mirrors provide clear visibility of the tires and surroundings, enhancing safety."
+      },
+      {
+        "question": "If the gate comes down after you have started to cross the railroad crossing you should:",
+        "options": [
+          "Drive through the gate.",
+          "Stop immediately and call your dispatcher.",
+          "Back up until you are completely off the tracks."
+        ],
+        "correct_answer": "Drive through the gate.",
+        "why": "In a dangerous situation like this, driving through the gate is the safest option to avoid being trapped on the tracks."
+      }
+  ]
+  

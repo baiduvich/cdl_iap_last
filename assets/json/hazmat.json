@@ -1,0 +1,573 @@
+[
+    {
+      "question": "Animal and human foodstuffs should not be loaded in the same vehicle with:",
+      "options": [
+        "oxidizers",
+        "Poisons",
+        "Explosives"
+      ],
+      "correct_answer": "Poisons",
+      "why": "Poisons can contaminate foodstuffs, leading to health risks."
+    },
+    {
+      "question": "A vehicle placarded for hazardous materials must have placards on ____ sides.",
+      "options": [
+        "2",
+        "4",
+        "3"
+      ],
+      "correct_answer": "4",
+      "why": "Hazardous materials vehicles must have placards on all four sides for proper identification."
+    },
+    {
+      "question": "Who is responsible for packaging, labeling, and preparing the hazardous material shipping papers for a common carrier?",
+      "options": [
+        "Shipper",
+        "Driver",
+        "Carrier"
+      ],
+      "correct_answer": "Shipper",
+      "why": "The shipper is responsible for the correct preparation and documentation of hazardous materials."
+    },
+    {
+      "question": "The intent of the Hazardous Materials regulation has three parts: (1) to ensure safety of drivers and equipment (2) to communicate the risk and (3)?",
+      "options": [
+        "To allow state enforcement.",
+        "To contain the materials.",
+        "To tax the shipper correctly."
+      ],
+      "correct_answer": "To contain the materials.",
+      "why": "The third part ensures that hazardous materials are contained to prevent accidents."
+    },
+    {
+      "question": "There are two lists that drivers, shippers, and carriers use to find out if a material is a regulated product. One of these is the:",
+      "options": [
+        "Department of Transportation Hazard Chart.",
+        "EPA (U.S. Environmental Protection Agency) Dangerous Materials Table.",
+        "List of Hazardous Materials and Reportable Quantities."
+      ],
+      "correct_answer": "List of Hazardous Materials and Reportable Quantities.",
+      "why": "This list helps identify regulated hazardous materials."
+    },
+    {
+      "question": "If an X or RQ is in the hazardous materials column of a shipper paper entry, the:",
+      "options": [
+        "Shipment is regulated by hazardous materials regulations.",
+        "Entry refers to the materials that must be top loaded.",
+        "Material on that line is the biggest part of the shipment."
+      ],
+      "correct_answer": "Shipment is regulated by hazardous materials regulations.",
+      "why": "X or RQ indicates that the shipment is subject to hazardous material regulations."
+    },
+    {
+      "question": "Only one of these shipping papers descriptions for a hazardous material is in the right order. Which one is it?",
+      "options": [
+        "UN1048, Hydrogen Bromide, Non-flammable gas.",
+        "Hexane, UN1208, Flammable Liquid.",
+        "Corrosive Material, Hydrochloric Acid, UN1789."
+      ],
+      "correct_answer": "UN1048, Hydrogen Bromide, Non-flammable gas.",
+      "why": "This is the correct order: UN number, proper shipping name, and hazard class."
+    },
+    {
+      "question": "A vehicle carrying explosives has crashed with another vehicle. You should not pull them apart until:",
+      "options": [
+        "At least 30 minutes have passed.",
+        "The explosives have been placed at least 200 feet away from the vehicles and occupied buildings.",
+        "The shipper's loading foreman is present."
+      ],
+      "correct_answer": "The explosives have been placed at least 200 feet away from the vehicles and occupied buildings.",
+      "why": "Safety requires ensuring that the explosives are moved away from the crash site before any further action."
+    },
+    {
+      "question": "A driver who transports controlled radioactive material must have had special training by the carrier within the last ___ years.",
+      "options": [
+        "2",
+        "1",
+        "3"
+      ],
+      "correct_answer": "2",
+      "why": "The law requires that drivers transporting radioactive materials receive special training every 2 years."
+    },
+    {
+      "question": "You may not park a vehicle carrying hazardous materials within ____ feet of an open fire.",
+      "options": [
+        "400",
+        "200",
+        "300"
+      ],
+      "correct_answer": "300",
+      "why": "To avoid dangerous situations, hazardous materials vehicles must maintain a safe distance from open fires."
+    },
+    {
+      "question": "The transport index of a radioactive material:",
+      "options": [
+        "Is something that only the shipper needs to worry about.",
+        "Is another way of writing the weight of the package.",
+        "Tells the degree of control needed during transportation."
+      ],
+      "correct_answer": "Tells the degree of control needed during transportation.",
+      "why": "The transport index provides information on how much radiation is emitted and how to handle the package."
+    },
+    {
+      "question": "When hauling hazardous materials, you must check your dual tires:",
+      "options": [
+        "Every 2 hours.",
+        "After 11 hours of driving.",
+        "At the start of each trip, when you park, and each time you stop."
+      ],
+      "correct_answer": "At the start of each trip, when you park, and each time you stop.",
+      "why": "Frequent tire checks are required to prevent accidents when hauling hazardous materials."
+    },
+    {
+      "question": "You should stop ____ feet before the nearest rail at a railroad crossing.",
+      "options": [
+        "10 to 35",
+        "5 to 20",
+        "15 to 50"
+      ],
+      "correct_answer": "15 to 50",
+      "why": "Stopping between 15 and 50 feet from the rail is a safety requirement to avoid collisions."
+    },
+    {
+      "question": "You are transporting hazardous materials. When you are not behind the wheel, the shipping papers must be on the driver's seat or:",
+      "options": [
+        "In the driver's door pouch.",
+        "On your person.",
+        "On the dashboard in clear view."
+      ],
+      "correct_answer": "In the driver's door pouch.",
+      "why": "The shipping papers must be easily accessible in case of emergency."
+    },
+    {
+      "question": "If hazardous material is spilling from your vehicle, do not move your vehicle:",
+      "options": [
+        "Any more than safety requires.",
+        "In an upwind direction.",
+        "Any more than 500 feet."
+      ],
+      "correct_answer": "Any more than safety requires.",
+      "why": "Minimizing movement helps prevent further spillage or danger."
+    },
+    {
+      "question": "The hazard class of a two-liter bottle of material is Flammable Liquid. If the description also says Poison Inhalation Hazard, you should:",
+      "options": [
+        "Placard the vehicle with both the POISON and hazard class placards.",
+        "Placard the vehicle POISON and remove all other placards.",
+        "Placard the vehicle POISON only if no other cargo requires it."
+      ],
+      "correct_answer": "Placard the vehicle with both the POISON and hazard class placards.",
+      "why": "Both the hazard class and poison placards are required when dealing with dual hazards."
+    },
+    {
+      "question": "You are going to be hauling hazardous materials over a route you do not know well. When should you check the route and the permits needed for the trip?",
+      "options": [
+        "Within 24 hours of the end of the trip.",
+        "While you are still on a part of the route that you know.",
+        "Before starting the trip."
+      ],
+      "correct_answer": "Before starting the trip.",
+      "why": "Planning ahead ensures safe and compliant transportation of hazardous materials."
+    },
+    {
+      "question": "Carriers must give each driver who transports Class 1.1 or 1.2 explosives:",
+      "options": [
+        "An extra fire bottle.",
+        "A copy of FMCSR (Federal Motor Carrier Safety Regulation) part 397.",
+        "A list of rest stops the driver may use."
+      ],
+      "correct_answer": "A copy of FMCSR (Federal Motor Carrier Safety Regulation) part 397.",
+      "why": "FMCSR part 397 outlines the safety requirements for transporting explosives."
+    },
+    {
+      "question": "You should stop before crossing a railroad grade if your vehicle is carrying ____ gallons of chlorine.",
+      "options": [
+        "Any amount",
+        "110 gallons",
+        "55 gallons"
+      ],
+      "correct_answer": "Any amount",
+      "why": "Chlorine is a dangerous substance, and safety protocols must be followed regardless of the amount."
+    },
+    {
+      "question": "You are hauling hazardous materials and you find that one of your tires is leaking, you must:",
+      "options": [
+        "Continue at reduced speed, and check that tire every 25 miles.",
+        "Report it to your carrier immediately.",
+        "Stop at the nearest safe place and fix it."
+      ],
+      "correct_answer": "Stop at the nearest safe place and fix it.",
+      "why": "Continuing to drive with a leaking tire could cause an accident, especially with hazardous materials."
+    },
+    {
+        "question": "When shippers package hazardous materials, they must certify that this was done according to regulations. The only exception is when:",
+        "options": [
+          "The shipment is a hazardous waste.",
+          "The shipper is a private carrier carrying their own product.",
+          "The driver is given a sealed cargo compartment."
+        ],
+        "correct_answer": "The shipper is a private carrier carrying their own product.",
+        "why": "Private carriers shipping their own products are not required to certify packaging."
+      },
+      {
+        "question": "Whenever your vehicle is placarded, do not drive near open fire unless you:",
+        "options": [
+          "Are equipped with a fire sprinkler.",
+          "Have an enclosed cargo compartment.",
+          "Can safely pass the fire without stopping."
+        ],
+        "correct_answer": "Can safely pass the fire without stopping.",
+        "why": "Passing near an open fire is only allowed if it's safe to do so without stopping."
+      },
+      {
+        "question": "When fueling a placarded vehicle someone must always be:",
+        "options": [
+          "Within 10 feet of the pump with a fire extinguisher.",
+          "At the nozzle, controlling the fuel flow.",
+          "At the emergency power shut-off for the pump."
+        ],
+        "correct_answer": "At the nozzle, controlling the fuel flow.",
+        "why": "It's necessary to control the fuel flow to avoid spills or fires while fueling."
+      },
+      {
+        "question": "The total transport index of all radioactive materials packages in a single vehicle must not exceed:",
+        "options": [
+          "50",
+          "100",
+          "10"
+        ],
+        "correct_answer": "50",
+        "why": "This is a safety limit set for the transportation of radioactive materials."
+      },
+      {
+        "question": "Who is responsible for checking that the shipper correctly named, labeled, and marked a hazardous materials shipment?",
+        "options": [
+          "Manufacturer",
+          "Carrier",
+          "Shipper"
+        ],
+        "correct_answer": "Carrier",
+        "why": "The carrier is responsible for verifying the proper labeling and marking of hazardous materials before transportation."
+      },
+      {
+        "question": "If there is an RQ before or after the item description on the shipping paper, it means the:",
+        "options": [
+          "Material is in a package containing no other materials.",
+          "Carrier must report a spill of this material.",
+          "Material has an insurance value of over $1,000."
+        ],
+        "correct_answer": "Carrier must report a spill of this material.",
+        "why": "RQ indicates 'Reportable Quantity,' meaning the carrier must report any spill of this hazardous material."
+      },
+      {
+        "question": "You need to warn other motorists of a stopped vehicle which has a tank used for flammable liquid or gases. You may use:",
+        "options": [
+          "Reflective triangles.",
+          "Flares.",
+          "Signal fires."
+        ],
+        "correct_answer": "Reflective triangles.",
+        "why": "Using reflective triangles is a safe way to warn other motorists of a stopped hazardous materials vehicle."
+      },
+      {
+        "question": "You have hazardous materials leaking from a container but not spilling from your vehicle. Drive to the closest area where you can get help:",
+        "options": [
+          "As fast as you can if it is damaging your truck.",
+          "In repacking the leaking materials with plastic overwrap.",
+          "And call emergency personnel if they are needed."
+        ],
+        "correct_answer": "And call emergency personnel if they are needed.",
+        "why": "You should seek help and contact emergency personnel in the event of a hazardous materials leak."
+      },
+      {
+        "question": "You have loaded a hazardous material into a cargo tank. What must you do before you move the vehicle?",
+        "options": [
+          "Have the loading observers sign off on the shipping papers.",
+          "Place shipping papers within your reach.",
+          "Close all manholes and valves and be sure they are free of leaks."
+        ],
+        "correct_answer": "Close all manholes and valves and be sure they are free of leaks.",
+        "why": "To prevent leaks, it's essential to ensure all openings are properly sealed before moving the vehicle."
+      },
+      {
+        "question": "When transporting chlorine in a cargo tank, you must have:",
+        "options": [
+          "Both.",
+          "An approved gas mask.",
+          "An emergency kit for controlling leaks in fittings on the dome cover plate."
+        ],
+        "correct_answer": "Both.",
+        "why": "Both a gas mask and an emergency kit are required for safe chlorine transport."
+      },
+      {
+        "question": "If the word Forbidden appears in the hazard class column of an entry in the hazardous materials table:",
+        "options": [
+          "A common carrier must never transport the material.",
+          "A shipment of this material must never be larger than RQ.",
+          "The carrier may not open the package or container."
+        ],
+        "correct_answer": "A common carrier must never transport the material.",
+        "why": "Materials marked as Forbidden cannot be transported by common carriers."
+      },
+      {
+        "question": "Your vehicle contains explosives, oxidizer or flammables. No one may smoke within ____ feet of the vehicle.",
+        "options": [
+          "15",
+          "35",
+          "25"
+        ],
+        "correct_answer": "25",
+        "why": "Smoking within 25 feet of vehicles carrying hazardous materials can pose a significant danger."
+      },
+      {
+        "question": "When handling packages of explosives, you must:",
+        "options": [
+          "Never use hooks or other metal tools.",
+          "Double wrap wet boxes in plastic to prevent staining.",
+          "Roll the packages carefully, with no sharp or jarring actions."
+        ],
+        "correct_answer": "Never use hooks or other metal tools.",
+        "why": "Metal tools can cause sparks and should never be used with explosives."
+      },
+      {
+        "question": "Who is responsible for safely transporting a hazardous material shipment without delay and keeping the shipping papers in the right place?",
+        "options": [
+          "The driver.",
+          "The shipper.",
+          "The carrier."
+        ],
+        "correct_answer": "The driver.",
+        "why": "The driver is responsible for safely transporting the materials and keeping the shipping papers accessible."
+      },
+      {
+        "question": "A railroad crossing is ahead of you and you are hauling hazardous material. When you stop for the crossing, you can stop as far away as ___ feet from the nearest rail.",
+        "options": [
+          "75",
+          "100",
+          "50"
+        ],
+        "correct_answer": "50",
+        "why": "Stopping within 50 feet from the nearest rail is required for safety when hauling hazardous materials."
+      },
+      {
+        "question": "Which signals may be used to warn of a stopped vehicle which contains explosives?",
+        "options": [
+          "Signal fires.",
+          "Reflective triangles.",
+          "Flares."
+        ],
+        "correct_answer": "Reflective triangles.",
+        "why": "Reflective triangles are the safest option for warning others of a stopped vehicle carrying explosives."
+      },
+      {
+        "question": "The basic description of a hazardous material includes the hazard class, the identification number and the proper shipping name. Which one must appear first in the shipping paper?",
+        "options": [
+          "The hazard class.",
+          "The identification number.",
+          "The proper shipping name."
+        ],
+        "correct_answer": "The identification number.",
+        "why": "The identification number must appear first in the basic description."
+      },
+      {
+        "question": "Class 1.1 explosives must not be transported in a combination vehicle if it includes:",
+        "options": [
+          "A placarded cargo tank.",
+          "Two or more trailers.",
+          "A vehicle carrying foodstuffs."
+        ],
+        "correct_answer": "A placarded cargo tank.",
+        "why": "Class 1.1 explosives cannot be transported in combination with placarded cargo tanks."
+      },
+      {
+        "question": "You find an overheated tire during inspection. If you are hauling hazardous materials, you must:",
+        "options": [
+          "Cool the tire, then check it every 2 hours.",
+          "Wait at least 2 hours before continuing on your trip.",
+          "Remove the tire and place it at a distance from the vehicle."
+        ],
+        "correct_answer": "Remove the tire and place it at a distance from the vehicle.",
+        "why": "An overheated tire poses a danger when hauling hazardous materials and should be removed for safety."
+      },
+      {
+        "question": "The power unit of a placarded vehicle must have a fire extinguisher with a UL rating of ____ B:C or more.",
+        "options": [
+          "5",
+          "15",
+          "10"
+        ],
+        "correct_answer": "10",
+        "why": "A fire extinguisher with a minimum UL rating of 10 B:C is required for placarded vehicles."
+      },
+      {
+        "question": "If you need to placard a vehicle for hazardous materials, how many placards will you need?",
+        "options": [
+          "3",
+          "4",
+          "2"
+        ],
+        "correct_answer": "4",
+        "why": "Four placards, one for each side of the vehicle, are required for hazardous materials transport."
+      },
+      {
+        "question": "A dated certificate of radioactive materials training must be:",
+        "options": [
+          "Kept in the driver's vehicle.",
+          "Signed by your insurance agent.",
+          "Carried by the driver."
+        ],
+        "correct_answer": "Carried by the driver.",
+        "why": "A driver must carry a dated certificate showing that they have received training to transport radioactive materials."
+      },
+      {
+        "question": "A properly prepared Uniform Hazardous Waste Manifest:",
+        "options": [
+          "Is the same as any other shipping paper.",
+          "Must be signed and carried by anyone transporting a hazardous waste.",
+          "Is required only if there is a loss of cargo during transport."
+        ],
+        "correct_answer": "Must be signed and carried by anyone transporting a hazardous waste.",
+        "why": "The Uniform Hazardous Waste Manifest must be properly signed and carried by the person transporting hazardous waste to ensure compliance."
+      },
+      {
+        "question": "With most hazardous materials, you may park within 5 feet of the road briefly, if your work requires it. The materials, which are the exception and do not allow parking this close to the roadside, are:",
+        "options": [
+          "Corrosives and oxidizers.",
+          "Acids and poisons.",
+          "Explosives 1.1 and 1.2."
+        ],
+        "correct_answer": "Explosives 1.1 and 1.2.",
+        "why": "Due to their dangerous nature, vehicles carrying explosives 1.1 and 1.2 are not allowed to park this close to the road."
+      },
+      {
+        "question": "You have a vehicle without racks to hold cylinders of compressed gas. You may load such cylinders only if they are:",
+        "options": [
+          "Less than a half of the load.",
+          "Loaded upright or braced laying down flat.",
+          "Labeled Non-flammable gas."
+        ],
+        "correct_answer": "Loaded upright or braced laying down flat.",
+        "why": "To ensure safety, cylinders of compressed gas must either be loaded upright or securely braced in a flat position."
+      },
+      {
+        "question": "Who is responsible for finding out what permits or special routes you will need to haul hazardous materials?",
+        "options": [
+          "The driver.",
+          "The carrier.",
+          "The shipper."
+        ],
+        "correct_answer": "The carrier.",
+        "why": "It is the carrier’s responsibility to ensure they have the proper permits and understand the routes required for hazardous materials."
+      },
+      {
+        "question": "If you are in an accident involving hazardous materials, you should:",
+        "options": [
+          "Keep all people away and upwind of the accident.",
+          "Tell only the Emergency Response Team about the hazard.",
+          "Prevent a panic by acting like nothing is wrong."
+        ],
+        "correct_answer": "Keep all people away and upwind of the accident.",
+        "why": "Keeping people upwind and at a safe distance is essential when dealing with hazardous material spills."
+      },
+      {
+        "question": "A hazard class name or ID number may not be used to describe:",
+        "options": [
+          "Hazardous waste.",
+          "A reportable quantity of a hazardous substance.",
+          "Non-hazardous materials."
+        ],
+        "correct_answer": "Non-hazardous materials.",
+        "why": "The hazard class name or ID number is reserved for hazardous materials and may not be used to describe non-hazardous materials."
+      },
+      {
+        "question": "The intent of the Hazardous Materials regulation has three parts: (1) to ensure safe drivers and equipment (2) to contain the materials and (3)?",
+        "options": [
+          "To tax shippers correctly.",
+          "To allow state enforcement.",
+          "To communicate the risk."
+        ],
+        "correct_answer": "To communicate the risk.",
+        "why": "Communicating the risk is a critical part of the hazardous materials regulations to ensure safety and awareness."
+      },
+      {
+        "question": "You are behind the wheel of a truck carrying a hazardous material shipment. The shipping papers must be on the pouch on the driver's door or in:",
+        "options": [
+          "Clear view within your reach.",
+          "The glove compartment.",
+          "A pouch on the inside of the trailer door."
+        ],
+        "correct_answer": "Clear view within your reach.",
+        "why": "Shipping papers must be kept where they are easily accessible and visible to ensure they can be quickly checked if needed."
+      },
+      {
+        "question": "To find out if a shipment includes a hazardous material, you should:",
+        "options": [
+          "Open and inspect every package and container.",
+          "Look at the shipping license.",
+          "Look at the shipping papers."
+        ],
+        "correct_answer": "Look at the shipping papers.",
+        "why": "Shipping papers contain the essential details about the contents, including whether hazardous materials are included."
+      },
+      {
+        "question": "A vehicle contains 500 pounds each of explosives class 1.1 and 1.2. You must use:",
+        "options": [
+          "Explosives and Dangerous placards.",
+          "Explosives 1.1 placards.",
+          "Dangerous placards."
+        ],
+        "correct_answer": "Explosives 1.1 placards.",
+        "why": "The higher-risk material, explosives 1.1, requires the specific placard when transporting mixed classes of explosives."
+      },
+      {
+        "question": "Which of the following must drivers have in their possession while transporting Class 1.1 or 1.2 explosives?",
+        "options": [
+          "A citizen's band radio.",
+          "The carrier's insurance policy.",
+          "The written route plan."
+        ],
+        "correct_answer": "The written route plan.",
+        "why": "A written route plan is mandatory when transporting high-risk materials like Class 1.1 or 1.2 explosives."
+      },
+      {
+        "question": "An X in the hazardous materials column of a shipping paper entry means:",
+        "options": [
+          "This is an exception to the hazardous materials regulations.",
+          "The material is not a hazardous material.",
+          "The entry is for a hazardous material."
+        ],
+        "correct_answer": "The entry is for a hazardous material.",
+        "why": "An X in the hazardous materials column indicates that the material is subject to hazardous materials regulations."
+      },
+      {
+        "question": "While loading or unloading a cargo tank, a qualified person must be watching and be within ____ feet of the tank.",
+        "options": [
+          "20",
+          "15",
+          "25"
+        ],
+        "correct_answer": "25",
+        "why": "A qualified person must remain within 25 feet of the cargo tank to monitor loading or unloading for safety."
+      },
+      {
+        "question": "You are driving a vehicle loaded with explosives, when is it safe to leave the vehicle unattended?",
+        "options": [
+          "When parked in a truck stop.",
+          "Never.",
+          "When parked in a designated safe haven."
+        ],
+        "correct_answer": "When parked in a designated safe haven.",
+        "why": "Explosives-loaded vehicles can only be left unattended in designated safe havens."
+      },
+      {
+        "question": "Nitric acid should not be loaded:",
+        "options": [
+          "Below any other product.",
+          "Above any other product.",
+          "Adjacent to any other product."
+        ],
+        "correct_answer": "Above any other product.",
+        "why": "Nitric acid must not be loaded above other products to prevent dangerous chemical reactions."
+      }
+  ]
+  

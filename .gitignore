@@ -1,0 +1,9 @@
+# Ignore build and cache folders
+build/
+.dart_tool/
+ios/Pods/
+android/.gradle/
+*.ipa
+*.dSYM
+*.dill
+.git/objects/pack/

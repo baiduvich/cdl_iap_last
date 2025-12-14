@@ -1,0 +1,453 @@
+[
+    {
+      "question": "Commercial bus drivers must have a CDL if:",
+      "options": [
+        "They drive a vehicle that is designed to carry more than fifteen (15) passengers including the driver.",
+        "They drive a vehicle that has a gross weight rating of more than 26,000 pounds.",
+        "They drive a vehicle that has air brakes."
+      ],
+      "correct_answer": "They drive a vehicle that is designed to carry more than fifteen (15) passengers including the driver.",
+      "why": "A CDL is required for vehicles carrying more than 15 passengers for safety regulations."
+    },
+    {
+      "question": "Carry-on baggage cannot be stored:",
+      "options": [
+        "Behind the seats.",
+        "In the aisle.",
+        "On the seats."
+      ],
+      "correct_answer": "In the aisle.",
+      "why": "Storing baggage in the aisle creates a safety hazard and impedes evacuation in emergencies."
+    },
+    {
+      "question": "If your bus leans toward the outside on a banked curve, you are:",
+      "options": [
+        "Driving too slow.",
+        "Driving at the correct speed.",
+        "Driving too fast."
+      ],
+      "correct_answer": "Driving too fast.",
+      "why": "A leaning bus on a banked curve indicates excessive speed, which can increase the risk of a rollover."
+    },
+    {
+      "question": "You must stop your bus between:",
+      "options": [
+        "5 to 10 feet before a railroad crossing.",
+        "15 and 50 feet before a railroad crossing.",
+        "20 to 25 feet before a railroad crossing."
+      ],
+      "correct_answer": "15 and 50 feet before a railroad crossing.",
+      "why": "Stopping at this distance ensures you have a safe view of the tracks while maintaining an adequate buffer zone."
+    },
+    {
+      "question": "At the end of each shift you should:",
+      "options": [
+        "Both.",
+        "Inspect your bus.",
+        "Report any defects."
+      ],
+      "correct_answer": "Both.",
+      "why": "Drivers are required to both inspect the bus and report any defects to ensure safe operations."
+    },
+    {
+      "question": "Your bus is disabled. The bus, with riders aboard, may be towed or pushed to a safe place only:",
+      "options": [
+        "If getting off the bus would be riskier for the riders.",
+        "By another bus with its 4-way flashers on.",
+        "If the distance is less than 1 mile."
+      ],
+      "correct_answer": "If getting off the bus would be riskier for the riders.",
+      "why": "The safety of passengers is the top priority, so towing or pushing should only occur if staying on the bus is safer."
+    },
+    {
+      "question": "You may sometimes haul small arms ammunition, emergency shipments of drugs, or hospital supplies on a bus. The total weight of all such hazardous materials must not be greater than ____ pounds.",
+      "options": [
+        "750",
+        "500",
+        "100"
+      ],
+      "correct_answer": "500",
+      "why": "The CDL regulations limit the amount of hazardous materials carried on passenger buses to ensure safety."
+    },
+    {
+      "question": "How many seats not securely fastened to the bus are usually allowed?",
+      "options": [
+        "0",
+        "1",
+        "2"
+      ],
+      "correct_answer": "0",
+      "why": "All seats must be securely fastened to prevent injury in the event of a sudden stop or accident."
+    },
+    {
+      "question": "It is best to wear your seat belt:",
+      "options": [
+        "Only if your bus holds more than 27 people.",
+        "At all times.",
+        "Only when you will be driving over 35 mph."
+      ],
+      "correct_answer": "At all times.",
+      "why": "Seat belts provide essential protection in the event of an accident and should be worn at all times."
+    },
+    {
+      "question": "Which of the following types of cargo can never be carried on a bus with riders?",
+      "options": [
+        "Tear gas.",
+        "Emergency drug shipments.",
+        "Emergency hospital supplies."
+      ],
+      "correct_answer": "Tear gas.",
+      "why": "Tear gas and other hazardous materials that pose serious risks to passengers are prohibited on buses."
+    },
+    {
+      "question": "If a rider wants to bring a car battery or a can of gasoline aboard your bus, you should:",
+      "options": [
+        "Not allow them to do it.",
+        "Have the rider pay a second fare.",
+        "Instruct them to sit next to an open window."
+      ],
+      "correct_answer": "Not allow them to do it.",
+      "why": "Carrying hazardous materials like a car battery or gasoline on a bus poses a significant safety risk."
+    },
+    {
+      "question": "Some city transit buses may have a brake-door interlock system, this system:",
+      "options": [
+        "Should be used in emergencies.",
+        "Releases the brakes.",
+        "Works when the passenger exit doors are open."
+      ],
+      "correct_answer": "Works when the passenger exit doors are open.",
+      "why": "This system ensures the bus cannot move while passengers are getting on or off, preventing accidents."
+    },
+    {
+      "question": "When it is carried on a bus, hazardous material must be:",
+      "options": [
+        "Labeled.",
+        "Packed in a yellow box.",
+        "Both."
+      ],
+      "correct_answer": "Labeled.",
+      "why": "Proper labeling is required to inform handlers and passengers of the presence of hazardous materials."
+    },
+    {
+      "question": "You are driving a bus designed to allow standing. Where may a rider stand?",
+      "options": [
+        "Behind a standee line.",
+        "No rider is allowed to stand.",
+        "Behind the driver seat."
+      ],
+      "correct_answer": "Behind a standee line.",
+      "why": "Riders must stand behind the standee line to ensure the driver's view and control are not obstructed."
+    },
+    {
+      "question": "Before driving, make sure to have the following emergency equipment: (1) fire extinguisher (2) emergency reflectors and (3):",
+      "options": [
+        "Extra rear-vision mirror.",
+        "Spare electrical fuses.",
+        "Two extra tires."
+      ],
+      "correct_answer": "Spare electrical fuses.",
+      "why": "Spare fuses are required to ensure critical electrical systems can be repaired if they fail during operation."
+    },
+    {
+      "question": "Buses may carry:",
+      "options": [
+        "Explosives.",
+        "Car batteries.",
+        "Small arms ammunition labeled orm-d."
+      ],
+      "correct_answer": "Small arms ammunition labeled orm-d.",
+      "why": "Small arms ammunition that is properly labeled and under certain limits is allowed on buses."
+    },
+    {
+      "question": "You must put a loaded bus into motion from a stopped position on a steep upgrade (4% or more). Which of these is the best technique to follow when you have a bus with a manual transmission?",
+      "options": [
+        "Hold the foot brake until the clutch has been fully released.",
+        "Accelerate hard and release the clutch quickly.",
+        "Slowly release the clutch while releasing the parking brakes."
+      ],
+      "correct_answer": "Hold the foot brake until the clutch has been fully released.",
+      "why": "This technique prevents the bus from rolling back when starting on a steep grade."
+    },
+    {
+      "question": "Roof hatches:",
+      "options": [
+        "Can be in an open position for fresh air.",
+        "Only opened during emergencies.",
+        "Are colored orange."
+      ],
+      "correct_answer": "Can be in an open position for fresh air.",
+      "why": "Roof hatches can be opened to allow fresh air, but their main purpose is for emergency exit."
+    },
+    {
+      "question": "In general, the best braking technique to use in maintaining a safe speed when driving on a downgrade is:",
+      "options": [
+        "Using only the parking brakes.",
+        "Use the braking effect of the engine to control speed.",
+        "Using only downshifting."
+      ],
+      "correct_answer": "Use the braking effect of the engine to control speed.",
+      "why": "The engine braking effect helps control speed on a downgrade without overheating the service brakes."
+    },
+    {
+      "question": "Which of these is the best general rule for night driving?",
+      "options": [
+        "Make sure your headlights are clean and working.",
+        "Drive slightly faster than the other traffic.",
+        "Drive slightly slower than the other traffic."
+      ],
+      "correct_answer": "Make sure your headlights are clean and working.",
+      "why": "Clear, functioning headlights are essential for visibility when driving at night."
+    },
+    {
+      "question": "How are buses to handle most railroad grade crossings?",
+      "options": [
+        "Tap the electric horn before crossing.",
+        "Turn the vehicle flashers on before crossing.",
+        "Stop between 15 and 50 feet before railroad crossings."
+      ],
+      "correct_answer": "Stop between 15 and 50 feet before railroad crossings.",
+      "why": "Stopping within this range ensures the bus has a clear view of the tracks and can stop safely."
+    },
+    {
+        "question": "In a pressurized cooling system, coolant level should be checked:",
+        "options": [
+          "Every 90 days.",
+          "Neither",
+          "Only by a mechanic."
+        ],
+        "correct_answer": "Only by a mechanic.",
+        "why": "In pressurized systems, it's safer for a mechanic to handle the coolant check."
+      },
+      {
+        "question": "You need to evacuate your bus in an emergency, passengers should be directed to a safe place no less than ____ feet from the bus.",
+        "options": [
+          "75",
+          "150",
+          "100"
+        ],
+        "correct_answer": "100",
+        "why": "Passengers should be evacuated at least 100 feet from the bus to avoid injury from a potential explosion or fire."
+      },
+      {
+        "question": "If your bus has an emergency exit door, it must:",
+        "options": [
+          "Have a red electric door light turned on at all times.",
+          "Be secured when operating the bus.",
+          "Both"
+        ],
+        "correct_answer": "Both",
+        "why": "For safety, the emergency exit must be secure and have an indicator light at all times."
+      },
+      {
+        "question": "When arriving at the destination announce:",
+        "options": [
+          "The next departure time.",
+          "Both.",
+          "The location."
+        ],
+        "correct_answer": "Both.",
+        "why": "Passengers need both the destination and next departure information."
+      },
+      {
+        "question": "Which of the following must be closed while the bus is in motion?",
+        "options": [
+          "Windows.",
+          "Emergency windows.",
+          "Roof vents."
+        ],
+        "correct_answer": "Emergency windows.",
+        "why": "Emergency windows must remain closed during motion to ensure they are accessible in emergencies."
+      },
+      {
+        "question": "The standee line is:",
+        "options": [
+          "A line two feet from the rear exit.",
+          "A two-inch line on the floor to the rear of the driver's seat.",
+          "There is no such thing on a bus."
+        ],
+        "correct_answer": "A two-inch line on the floor to the rear of the driver's seat.",
+        "why": "The standee line prevents passengers from obstructing the driver's view and movement."
+      },
+      {
+        "question": "Charter drivers should:",
+        "options": [
+          "Explain rules.",
+          "Mention rules.",
+          "Both."
+        ],
+        "correct_answer": "Both.",
+        "why": "Charter drivers should ensure that all rules are communicated to passengers for their safety."
+      },
+      {
+        "question": "At drawbridges with no signal you must stop at least:",
+        "options": [
+          "50 feet before the draw of the bridge.",
+          "15 to 20 feet before the draw of the bridge.",
+          "20 to 25 feet before the draw of the bridge."
+        ],
+        "correct_answer": "50 feet before the draw of the bridge.",
+        "why": "Stopping 50 feet before provides a safe distance in case the bridge raises unexpectedly."
+      },
+      {
+        "question": "Prohibited practices on the bus include:",
+        "options": [
+          "All of these.",
+          "Fueling your bus with riders on board.",
+          "Talking with riders while driving."
+        ],
+        "correct_answer": "All of these.",
+        "why": "All mentioned practices pose a safety hazard while operating a bus."
+      },
+      {
+        "question": "Buses may have recapped or re-grooved tires:",
+        "options": [
+          "On any or all the wheels.",
+          "Anywhere except on the front wheels.",
+          "Only on the outside wheel of dual wheels."
+        ],
+        "correct_answer": "Anywhere except on the front wheels.",
+        "why": "Recapped or re-grooved tires are not allowed on the front wheels due to safety concerns."
+      },
+      {
+        "question": "When you inspect your bus, you must make sure that:",
+        "options": [
+          "Emergency exit handles are secure.",
+          "Rider signaling devices are working.",
+          "Both."
+        ],
+        "correct_answer": "Both.",
+        "why": "Both emergency exits and signaling devices are essential for passenger safety."
+      },
+      {
+        "question": "If you have riders aboard, you must never fuel your bus:",
+        "options": [
+          "Without a static chain.",
+          "With a higher grade of fuel.",
+          "In a closed building."
+        ],
+        "correct_answer": "In a closed building.",
+        "why": "Fueling in a closed building can increase the risk of fire or explosion due to the lack of ventilation."
+      },
+      {
+        "question": "A bus may carry baggage or freight only if it is secured so that:",
+        "options": [
+          "Allow riders to exit by any window or door in an emergency.",
+          "The driver can move freely and easily.",
+          "Both."
+        ],
+        "correct_answer": "Both.",
+        "why": "Securing baggage ensures both safe evacuation and movement within the bus."
+      },
+      {
+        "question": "You must not permit standing riders:",
+        "options": [
+          "In front of the standee line.",
+          "Within two feet of any window.",
+          "Between the wheel wells."
+        ],
+        "correct_answer": "In front of the standee line.",
+        "why": "Standing in front of the standee line is prohibited as it obstructs the driver's view and movement."
+      },
+      {
+        "question": "Due to the extreme size of a bus, the driver must watch for:",
+        "options": [
+          "Poles and wires.",
+          "Clearance your bus needs.",
+          "Both."
+        ],
+        "correct_answer": "Both.",
+        "why": "The large size of the bus means the driver must watch for overhead and side clearances."
+      },
+      {
+        "question": "The interlock releases when you:",
+        "options": [
+          "Close the front door.",
+          "Release parking brake.",
+          "Close the rear door."
+        ],
+        "correct_answer": "Close the rear door.",
+        "why": "The interlock prevents the bus from moving until the rear door is securely closed."
+      },
+      {
+        "question": "A disruptive passenger:",
+        "options": [
+          "Is not your responsibility.",
+          "Should not be allowed on the bus.",
+          "Should not be discharged where it would be unsafe for them."
+        ],
+        "correct_answer": "Should not be discharged where it would be unsafe for them.",
+        "why": "The safety of passengers, including disruptive ones, is the driver’s responsibility."
+      },
+      {
+        "question": "Which of the following lists the three types of emergency equipment you must have on your bus?",
+        "options": [
+          "Repair kit, spare electric fuses, and fire extinguisher.",
+          "Fire extinguisher, spare electrical fuses, and emergency reflectors.",
+          "Hydraulic jack, fire extinguisher, signal flares."
+        ],
+        "correct_answer": "Fire extinguisher, spare electrical fuses, and emergency reflectors.",
+        "why": "These are the essential emergency equipment required on all buses."
+      },
+      {
+        "question": "You do not have to stop, but slow down at:",
+        "options": [
+          "When a policeman or flagman is directing traffic.",
+          "Streetcar crossing.",
+          "Both."
+        ],
+        "correct_answer": "Both.",
+        "why": "While you may not need to stop, you should slow down in both cases to ensure safety."
+      },
+      {
+        "question": "If you increase your speed from 20 to 60 mph (original speed times 3), how much more braking distance is required at 60 mph than at 20 mph?",
+        "options": [
+          "3x2 or 6 times.",
+          "3x3 or 9 times.",
+          "3x4 or 12 times."
+        ],
+        "correct_answer": "3x3 or 9 times.",
+        "why": "Braking distance increases exponentially with speed, requiring 9 times more distance at 60 mph than at 20 mph."
+      },
+      {
+        "question": "When driving at more than 40 mph, what is the safe minimum following distance for ideal daytime conditions?",
+        "options": [
+          "Five seconds.",
+          "One second for every 10 feet of vehicle length (rounded upward to the nearest 10 feet).",
+          "Four seconds."
+        ],
+        "correct_answer": "One second for every 10 feet of vehicle length (rounded upward to the nearest 10 feet).",
+        "why": "This ensures adequate stopping distance and time to react."
+      },
+      {
+        "question": "When arriving at the destination, or intermediate stops, you should announce:",
+        "options": [
+          "Company contact information.",
+          "Bus number.",
+          "The location, reason for stopping, next departure time, and company contact information."
+        ],
+        "correct_answer": "The location, reason for stopping, next departure time, and company contact information.",
+        "why": "This information helps passengers stay informed and prepared."
+      },
+      {
+        "question": "The proper time to cancel your turn signal for a lane change or turn is:",
+        "options": [
+          "Just before starting the maneuver.",
+          "About halfway through the maneuver.",
+          "When the maneuver is complete."
+        ],
+        "correct_answer": "When the maneuver is complete.",
+        "why": "Turn signals should remain on until the vehicle has fully completed the turn or lane change."
+      },
+      {
+        "question": "If your bus leans toward the outside on a banked curve, you are:",
+        "options": [
+          "Driving too slow.",
+          "Driving at the correct speed.",
+          "Driving too fast."
+        ],
+        "correct_answer": "Driving too fast.",
+        "why": "If a bus leans outward on a curve, it indicates the speed is too high for safe navigation."
+      }
+  ]
+  
